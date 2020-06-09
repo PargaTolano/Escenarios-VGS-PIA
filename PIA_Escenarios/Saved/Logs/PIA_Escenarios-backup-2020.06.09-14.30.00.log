@@ -1,0 +1,722 @@
+﻿Log file open, 06/09/20 13:16:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: PIA_Escenarios
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.145634
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.065s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: F:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.06.09-18.16.26:771][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.09-18.16.26:771][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.06.09-18.16.26:784][  0]LogHAL: Display: Platform has ~ 16 GB [17129455616 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.06.09-18.16.26:784][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2020.06.09-18.16.26:784][  0]LogInit: Going up to parent DeviceProfile []
+[2020.06.09-18.16.26:784][  0]LogInit: Computer: DESKTOP-NUFJNUL
+[2020.06.09-18.16.26:784][  0]LogInit: User: ROMO
+[2020.06.09-18.16.26:784][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.06.09-18.16.26:784][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.06.09-18.16.26:785][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.06.09-18.16.26:785][  0]LogMemory: Platform Memory Stats for Windows
+[2020.06.09-18.16.26:785][  0]LogMemory: Process Physical Memory: 99.61 MB used, 99.61 MB peak
+[2020.06.09-18.16.26:785][  0]LogMemory: Process Virtual Memory: 90.20 MB used, 90.20 MB peak
+[2020.06.09-18.16.26:785][  0]LogMemory: Physical Memory: 6279.60 MB used,  10056.32 MB free, 16335.92 MB total
+[2020.06.09-18.16.26:785][  0]LogMemory: Virtual Memory: 4610.55 MB used,  10056.32 MB free, 134217728.00 MB total
+[2020.06.09-18.16.26:808][  0]LogInit: Using OS detected language (es-MX).
+[2020.06.09-18.16.26:808][  0]LogInit: Using OS detected locale (es-MX).
+[2020.06.09-18.16.26:809][  0]LogTextLocalizationManager: No specific localization for 'es-MX' exists, so the 'es' localization will be used.
+[2020.06.09-18.16.27:160][  0]LogStreaming: Display: Took  0.352s to InitEngineTextLocalization.
+[2020.06.09-18.16.27:160][  0]LogInit: Setting process to per monitor DPI aware
+[2020.06.09-18.16.27:201][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.06.09-18.16.27:201][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.06.09-18.16.27:402][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.09-18.16.27:402][  0]LogD3D11RHI: D3D11 adapters:
+[2020.06.09-18.16.27:477][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2020.06.09-18.16.27:477][  0]LogD3D11RHI:       6052/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.06.09-18.16.27:480][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.06.09-18.16.27:480][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.06.09-18.16.27:480][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.06.09-18.16.27:486][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.06.09-18.16.27:487][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2020.06.09-18.16.27:487][  0]LogWindows: EnumDisplayDevices:
+[2020.06.09-18.16.27:487][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2020.06.09-18.16.27:487][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.06.09-18.16.27:487][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.06.09-18.16.27:488][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.06.09-18.16.27:488][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.06.09-18.16.27:488][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2020.06.09-18.16.27:488][  0]LogD3D11RHI:   Driver Version: 446.14 (internal:26.21.14.4614, unified:446.14)
+[2020.06.09-18.16.27:488][  0]LogD3D11RHI:      Driver Date: 5-15-2020
+[2020.06.09-18.16.27:488][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.06.09-18.16.27:534][  0]LogD3D11RHI: Async texture creation enabled
+[2020.06.09-18.16.27:565][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.06.09-18.16.27:567][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Intermediate/Shaders/WorkingDirectory/11324/).
+[2020.06.09-18.16.27:567][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ROMO/AppData/Local/Temp/UnrealShaderWorkingDir/194CCD774B656F572EED2F9895729364/'.
+[2020.06.09-18.16.27:907][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.06.09-18.16.27:919][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.06.09-18.16.27:931][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.06.09-18.16.27:944][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.06.09-18.16.27:957][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.06.09-18.16.27:967][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.06.09-18.16.27:979][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.06.09-18.16.27:990][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.06.09-18.16.27:996][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.06.09-18.16.28:068][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.09-18.16.28:068][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.09-18.16.28:068][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.09-18.16.28:068][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.09-18.16.28:068][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.09-18.16.28:068][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.09-18.16.28:068][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.09-18.16.28:068][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.09-18.16.28:068][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.09-18.16.28:068][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.09-18.16.28:068][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.09-18.16.28:068][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.09-18.16.28:068][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.09-18.16.28:068][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.09-18.16.28:068][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.09-18.16.28:068][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.09-18.16.28:068][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.09-18.16.28:068][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.09-18.16.28:070][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.06.09-18.16.28:128][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.06.09-18.16.28:128][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.06.09-18.16.28:152][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.06.09-18.16.28:152][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.06.09-18.16.28:164][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.06.09-18.16.28:176][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.06.09-18.16.28:187][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.06.09-18.16.28:198][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.06.09-18.16.28:207][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.06.09-18.16.28:207][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.06.09-18.16.28:256][  0]LogXGEController: Cleaning working directory: C:/Users/ROMO/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.06.09-18.16.28:257][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.06.09-18.16.28:257][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.06.09-18.16.28:257][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.06.09-18.16.28:969][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.06.09-18.16.29:022][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/ROMO/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2020.06.09-18.16.29:023][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ROMO/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2020.06.09-18.16.29:023][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.06.09-18.16.29:023][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.06.09-18.16.29:023][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.09-18.16.29:023][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.06.09-18.16.29:038][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.06.09-18.16.29:050][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ROMO/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.06.09-18.16.29:050][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.06.09-18.16.29:050][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.06.09-18.16.29:068][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.06.09-18.16.29:069][  0]LogSlate: Using FreeType 2.6.0
+[2020.06.09-18.16.29:069][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.06.09-18.16.29:138][  0]LogAssetRegistry: FAssetRegistry took 0.0262 seconds to start up
+[2020.06.09-18.16.29:449][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.09-18.16.29:572][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.06.09-18.16.29:574][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.06.09-18.16.29:574][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.06.09-18.16.29:574][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.06.09-18.16.29:574][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.06.09-18.16.29:593][  0]LogNetVersion: PIA_Escenarios 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3798817096)
+[2020.06.09-18.16.30:106][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.084560 seconds
+[2020.06.09-18.16.30:113][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2020.06.09-18.16.30:113][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2020.06.09-18.16.30:113][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.06.09-18.16.30:886][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.06.09-18.16.30:900][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.06.09-18.16.31:036][  0]SourceControl: El control de código fuente está desactivado
+[2020.06.09-18.16.31:036][  0]SourceControl: El control de código fuente está desactivado
+[2020.06.09-18.16.31:037][  0]SourceControl: El control de código fuente está desactivado
+[2020.06.09-18.16.31:039][  0]SourceControl: El control de código fuente está desactivado
+[2020.06.09-18.16.31:204][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.06.09-18.16.31:324][  0]LogOcInput: OculusInput pre-init called
+[2020.06.09-18.16.31:383][  0]LogEngine: Initializing Engine...
+[2020.06.09-18.16.31:383][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.09-18.16.31:385][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.06.09-18.16.31:385][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.06.09-18.16.31:385][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.06.09-18.16.31:385][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.06.09-18.16.31:593][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.06.09-18.16.31:607][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.06.09-18.16.31:654][  0]LogInit: XAudio2 using 'Auriculares (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.09-18.16.31:675][  0]LogInit: FAudioDevice initialized.
+[2020.06.09-18.16.31:676][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.06.09-18.16.31:843][  0]LogDerivedDataCache: Saved boot cache 0.17s 71MB C:/Users/ROMO/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2020.06.09-18.16.31:850][  0]LogInit: Texture streaming: Enabled
+[2020.06.09-18.16.31:865][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.06.09-18.16.31:876][  0]LogInit: Transaction tracking system initialized
+[2020.06.09-18.16.31:893][  0]BlueprintLog: New page: Cargar el editor
+[2020.06.09-18.16.31:948][  0]LocalizationService: Localization service is disabled
+[2020.06.09-18.16.32:200][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.06.09-18.16.32:200][  0]LogCook: Display: Mobile HDR setting 1
+[2020.06.09-18.16.32:200][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.06.09-18.16.32:200][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.06.09-18.16.32:200][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.06.09-18.16.32:200][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.06.09-18.16.32:200][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.06.09-18.16.32:296][  0]LogFileCache: Scanning file cache for directory 'F:/Github/Escenarios-VGS-PIA/PIA_Escenarios/Content/' took 0.01s
+[2020.06.09-18.16.32:297][  0]SourceControl: El control de código fuente está desactivado
+[2020.06.09-18.16.32:297][  0]Cmd: MAP LOAD FILE="../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.09-18.16.32:319][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.09-18.16.45:075][  0]LogSlate: Window 'Mensaje' being destroyed
+[2020.06.09-18.16.45:076][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.06.09-18.16.45:079][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.06.09-18.16.45:080][  0]LightingResults: New page: Diseñar la iluminación
+[2020.06.09-18.16.45:083][  0]MapCheck: New page: Revisión del mapa
+[2020.06.09-18.16.45:083][  0]LightingResults: New page: Diseñar la iluminación
+[2020.06.09-18.16.45:108][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.06.09-18.16.45:111][  0]LoadErrors: New page: Mapa nuevo
+[2020.06.09-18.16.45:191][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-18.16.45:198][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-18.16.45:207][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-18.16.45:215][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-18.16.45:219][  0]LogCollectionManager: Loaded 0 collections in 0.000881 seconds
+[2020.06.09-18.16.45:259][  0]LogFileCache: Scanning file cache for directory 'F:/Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Collections/' took 0.01s
+[2020.06.09-18.16.45:259][  0]LogFileCache: Scanning file cache for directory 'F:/Github/Escenarios-VGS-PIA/PIA_Escenarios/Content/Developers/ROMO/Collections/' took 0.01s
+[2020.06.09-18.16.45:259][  0]LogFileCache: Scanning file cache for directory 'F:/Github/Escenarios-VGS-PIA/PIA_Escenarios/Content/Collections/' took 0.01s
+[2020.06.09-18.16.45:259][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.06.09-18.16.45:268][  0]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2572 classes and 603 folders.
+[2020.06.09-18.16.45:272][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.06.09-18.16.45:301][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.06.09-18.16.45:304][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.06.09-18.16.45:319][  0]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.06.09-18.16.45:328][  0]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.06.09-18.16.45:380][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2020.06.09-18.16.45:499][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.06.09-18.16.45:499][  0]LogLoad: (Engine Initialization) Total time: 19.74 seconds
+[2020.06.09-18.16.45:499][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.06.09-18.16.45:541][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.06.09-18.16.45:601][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.09-18.16.45:605][  1]LogFileCache: Retrieving MD5 hashes for directory 'F:/Github/Escenarios-VGS-PIA/PIA_Escenarios/Content/' took 0.08s
+[2020.06.09-18.16.45:617][  1]LogAssetRegistry: Asset discovery search completed in 16.5014 seconds
+[2020.06.09-18.16.45:618][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.06.09-18.16.45:618][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000062 seconds (updated 0 objects)
+[2020.06.09-18.16.46:528][107]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.09-18.16.48:062][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.09-18.16.48:271][311]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Menu/MenuWidget.MenuWidget
+[2020.06.09-18.16.48:792][311]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2020.06.09-18.16.49:538][311]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.06.09-18.18.48:560][313]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Users/ROMO/Desktop/unreal project/Menu Asstes/Menu Asserts/fondo2.jpg)
+[2020.06.09-18.18.48:657][313]LogTexture: Display: Building textures: fondo2 (AutoDXT, 1200X920)
+[2020.06.09-18.18.53:915][594]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Users/ROMO/Desktop/unreal project/Menu Asstes/Menu Asserts/btnInicio.png)
+[2020.06.09-18.18.53:927][594]LogTexture: Display: Building textures: btnInicio (BGRA8, 638X445)
+[2020.06.09-18.18.56:302][705]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Users/ROMO/Desktop/unreal project/Menu Asstes/Menu Asserts/btnOpcion.png)
+[2020.06.09-18.18.56:314][705]LogTexture: Display: Building textures: btnOpcion (BGRA8, 638X445)
+[2020.06.09-18.18.59:009][806]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Users/ROMO/Desktop/unreal project/Menu Asstes/Menu Asserts/btnSalir.png)
+[2020.06.09-18.18.59:020][806]LogTexture: Display: Building textures: btnSalir (BGRA8, 638X445)
+[2020.06.09-18.19.26:796][960]BlueprintLog: New page: Compilar MenuWidget
+[2020.06.09-18.19.46:034][538]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Menu/btnSalir.btnSalir
+[2020.06.09-18.19.46:086][538]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.06.09-18.19.49:898][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.09-18.23.07:763][514]LogEditorTransaction: Undo Añadir Widget
+[2020.06.09-18.23.10:619][743]LogSlate: Took 0.063125 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2020.06.09-18.23.11:903][830]LogEditorTransaction: Undo Añadir Widget
+[2020.06.09-18.23.14:315][ 29]LogEditorTransaction: Undo Añadir Widget
+[2020.06.09-18.24.31:996][513]LogEditorTransaction: Undo Editar Imagen
+[2020.06.09-18.24.32:463][537]LogEditorTransaction: Undo Crear enlace
+[2020.06.09-18.24.32:854][562]LogEditorTransaction: Undo Añadir Widget
+[2020.06.09-18.26.48:494][131]LogSlate: Window 'MenuWidget*' being destroyed
+[2020.06.09-18.26.48:498][131]LogSlate: Window 'MenuWidget*' being destroyed
+[2020.06.09-18.26.52:908][630]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Menu/NewWidgetBlueprint.NewWidgetBlueprint
+[2020.06.09-18.27.01:213][304]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Menu/MenuWidget.MenuWidget
+[2020.06.09-18.27.03:744][486]LogSlate: Window 'MenuWidget*' being destroyed
+[2020.06.09-18.27.03:748][486]LogSlate: Window 'MenuWidget*' being destroyed
+[2020.06.09-18.27.07:534][908]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Menu/NewWidgetBlueprint.NewWidgetBlueprint
+[2020.06.09-18.28.23:809][254]LogSlate: Took 0.066615 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.06.09-18.29.55:358][495]LogSlate: Window 'NewWidgetBlueprint*' being destroyed
+[2020.06.09-18.29.55:362][495]LogSlate: Window 'NewWidgetBlueprint*' being destroyed
+[2020.06.09-18.29.58:645][880]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Menu/NewWidgetBlueprint.NewWidgetBlueprint
+[2020.06.09-18.30.04:430][269]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.09-18.30.11:983][849]LogMetaData: Removing '/Game/Menu/MenuPrincipal.SKEL_MenuPrincipal_C' ref from Metadata '/Game/Menu/NewWidgetBlueprint.PackageMetaData'
+[2020.06.09-18.30.11:983][849]LogMetaData: Removing '/Game/Menu/MenuPrincipal.MenuPrincipal_C' ref from Metadata '/Game/Menu/NewWidgetBlueprint.PackageMetaData'
+[2020.06.09-18.30.11:983][849]LogMetaData: Removing '/Game/Menu/MenuPrincipal.MenuPrincipal:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Menu/NewWidgetBlueprint.PackageMetaData'
+[2020.06.09-18.30.11:983][849]LogMetaData: Removing '/Game/Menu/MenuPrincipal.MenuPrincipal:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Menu/NewWidgetBlueprint.PackageMetaData'
+[2020.06.09-18.30.11:983][849]LogMetaData: Removing '/Game/Menu/MenuPrincipal.MenuPrincipal:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Menu/NewWidgetBlueprint.PackageMetaData'
+[2020.06.09-18.30.12:005][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/MenuPrincipal" FILE="../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Content/Menu/MenuPrincipal.uasset" SILENT=true
+[2020.06.09-18.30.12:019][849]LogSavePackage: Moving '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/MenuPrincipal2CAB60FC4BAD752729333FA171A8391E.tmp' to '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Content/Menu/MenuPrincipal.uasset'
+[2020.06.09-18.30.48:295][255]LogEditorTransaction: Undo Ajustar propiedad vectorial
+[2020.06.09-18.30.48:795][280]LogEditorTransaction: Undo Editar Alineación horizontal
+[2020.06.09-18.31.58:041][499]LogEditorTransaction: Undo Editar Derecha
+[2020.06.09-18.32.14:004][627]LogEditorTransaction: Undo Ajustar propiedad vectorial
+[2020.06.09-18.32.14:291][640]Cmd: TRANSACTION UNDO
+[2020.06.09-18.32.14:291][640]LogEditorTransaction: Undo Ajustar propiedad vectorial
+[2020.06.09-18.32.54:724][117]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.025
+[2020.06.09-18.32.54:726][117]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Menu/MenuPrincipal] ([1] browsable assets)...
+[2020.06.09-18.32.54:726][117]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/MenuPrincipal]
+[2020.06.09-18.32.54:726][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/MenuPrincipal" FILE="../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/MenuPrincipal_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.06.09-18.32.54:745][117]LogSavePackage: Moving '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/MenuPrincipal_Auto113BE1FA8438793123D3CB98D7801B6CA.tmp' to '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/MenuPrincipal_Auto1.uasset'
+[2020.06.09-18.32.54:746][117]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Menu/fondo2] ([1] browsable assets)...
+[2020.06.09-18.32.54:752][117]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Menu/fondo2.fondo2]
+[2020.06.09-18.32.54:752][117]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/fondo2]
+[2020.06.09-18.32.54:752][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/fondo2" FILE="../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/fondo2_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.06.09-18.32.54:768][117]LogSavePackage: Moving '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/fondo2_Auto101C2DB294F7715C7AF32C7B7311220A1.tmp' to '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/fondo2_Auto1.uasset'
+[2020.06.09-18.32.54:768][117]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Menu/btnInicio] ([1] browsable assets)...
+[2020.06.09-18.32.54:774][117]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Menu/btnInicio.btnInicio]
+[2020.06.09-18.32.54:774][117]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/btnInicio]
+[2020.06.09-18.32.54:774][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/btnInicio" FILE="../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/btnInicio_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.06.09-18.32.54:787][117]LogSavePackage: Moving '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/btnInicio_Auto1224673454E3B19D468CC168DA178F187.tmp' to '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/btnInicio_Auto1.uasset'
+[2020.06.09-18.32.54:788][117]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Menu/btnOpcion] ([1] browsable assets)...
+[2020.06.09-18.32.54:793][117]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Menu/btnOpcion.btnOpcion]
+[2020.06.09-18.32.54:793][117]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/btnOpcion]
+[2020.06.09-18.32.54:793][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/btnOpcion" FILE="../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/btnOpcion_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.06.09-18.32.54:806][117]LogSavePackage: Moving '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/btnOpcion_Auto131063EA641E2DE273926C8B0CF44ADAB.tmp' to '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/btnOpcion_Auto1.uasset'
+[2020.06.09-18.32.54:807][117]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Menu/btnSalir] ([1] browsable assets)...
+[2020.06.09-18.32.54:811][117]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Menu/btnSalir.btnSalir]
+[2020.06.09-18.32.54:811][117]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/btnSalir]
+[2020.06.09-18.32.54:811][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/btnSalir" FILE="../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/btnSalir_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.06.09-18.32.54:824][117]LogSavePackage: Moving '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/btnSalir_Auto14FB704504E00CF0C276F3089160A6E9F.tmp' to '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/btnSalir_Auto1.uasset'
+[2020.06.09-18.32.54:825][117]LogFileHelpers: Auto-saving content packages took 0.100
+[2020.06.09-18.47.53:762][864]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Users/ROMO/Desktop/unreal project/Menu Asstes/Menu Asserts/btn640.png)
+[2020.06.09-18.47.53:777][864]LogTexture: Display: Building textures: btn640 (BGRA8, 638X445)
+[2020.06.09-18.47.55:903][974]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Users/ROMO/Desktop/unreal project/Menu Asstes/Menu Asserts/btn640-hover.png)
+[2020.06.09-18.47.55:915][974]LogTexture: Display: Building textures: btn640-hover (BGRA8, 638X445)
+[2020.06.09-18.47.58:534][ 78]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Users/ROMO/Desktop/unreal project/Menu Asstes/Menu Asserts/btn1280.png)
+[2020.06.09-18.47.58:546][ 78]LogTexture: Display: Building textures: btn1280 (BGRA8, 638X445)
+[2020.06.09-18.48.00:646][187]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Users/ROMO/Desktop/unreal project/Menu Asstes/Menu Asserts/btn1280-hover.png)
+[2020.06.09-18.48.00:657][187]LogTexture: Display: Building textures: btn1280-hover (BGRA8, 638X445)
+[2020.06.09-18.48.03:324][284]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Users/ROMO/Desktop/unreal project/Menu Asstes/Menu Asserts/btn1920.png)
+[2020.06.09-18.48.03:336][284]LogTexture: Display: Building textures: btn1920 (BGRA8, 638X445)
+[2020.06.09-18.48.05:458][408]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Users/ROMO/Desktop/unreal project/Menu Asstes/Menu Asserts/btn1920-hover.png)
+[2020.06.09-18.48.05:469][408]LogTexture: Display: Building textures: btn1920-hover (BGRA8, 638X445)
+[2020.06.09-18.48.07:269][496]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Users/ROMO/Desktop/unreal project/Menu Asstes/Menu Asserts/btnInicio-hover.png)
+[2020.06.09-18.48.07:280][496]LogTexture: Display: Building textures: btnInicio-hover (BGRA8, 638X445)
+[2020.06.09-18.48.09:337][580]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Users/ROMO/Desktop/unreal project/Menu Asstes/Menu Asserts/btnOpcion-hover.png)
+[2020.06.09-18.48.09:347][580]LogTexture: Display: Building textures: btnOpcion-hover (BGRA8, 638X445)
+[2020.06.09-18.48.11:438][703]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Users/ROMO/Desktop/unreal project/Menu Asstes/Menu Asserts/btnRegresar-hover.png)
+[2020.06.09-18.48.11:450][703]LogTexture: Display: Building textures: btnRegresar-hover (BGRA8, 638X445)
+[2020.06.09-18.48.13:508][810]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Users/ROMO/Desktop/unreal project/Menu Asstes/Menu Asserts/btnRegresar.png)
+[2020.06.09-18.48.13:520][810]LogTexture: Display: Building textures: btnRegresar (BGRA8, 638X445)
+[2020.06.09-18.48.16:215][921]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Users/ROMO/Desktop/unreal project/Menu Asstes/Menu Asserts/btnSalir-hover.png)
+[2020.06.09-18.48.16:225][921]LogTexture: Display: Building textures: btnSalir-hover (BGRA8, 638X445)
+[2020.06.09-18.48.16:377][930]LogEditorViewport: Clicking Background
+[2020.06.09-18.48.42:261][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.09-18.48.42:298][ 30]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.026
+[2020.06.09-18.48.42:300][ 30]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Menu/btn640] ([1] browsable assets)...
+[2020.06.09-18.48.42:304][ 30]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Menu/btn640.btn640]
+[2020.06.09-18.48.42:304][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/btn640]
+[2020.06.09-18.48.42:304][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/btn640" FILE="../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/btn640_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.06.09-18.48.42:339][ 30]LogSavePackage: Moving '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/btn640_Auto2D3CE752D488D9506ECE54A80C5625314.tmp' to '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/btn640_Auto2.uasset'
+[2020.06.09-18.48.42:341][ 30]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Menu/btn640-hover] ([1] browsable assets)...
+[2020.06.09-18.48.42:346][ 30]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Menu/btn640-hover.btn640-hover]
+[2020.06.09-18.48.42:346][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/btn640-hover]
+[2020.06.09-18.48.42:346][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/btn640-hover" FILE="../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/btn640-hover_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.06.09-18.48.42:361][ 30]LogSavePackage: Moving '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/btn640-hover_Auto2E0C92E4445B41F86B952ADA1F4D47CA8.tmp' to '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/btn640-hover_Auto2.uasset'
+[2020.06.09-18.48.42:362][ 30]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Menu/btn1280] ([1] browsable assets)...
+[2020.06.09-18.48.42:366][ 30]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Menu/btn1280.btn1280]
+[2020.06.09-18.48.42:366][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/btn1280]
+[2020.06.09-18.48.42:366][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/btn1280" FILE="../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/btn1280_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.06.09-18.48.42:399][ 30]LogSavePackage: Moving '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/btn1280_Auto2874A7C7643B70EC6A5AB1C8806979C3A.tmp' to '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/btn1280_Auto2.uasset'
+[2020.06.09-18.48.42:400][ 30]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Menu/btn1280-hover] ([1] browsable assets)...
+[2020.06.09-18.48.42:404][ 30]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Menu/btn1280-hover.btn1280-hover]
+[2020.06.09-18.48.42:404][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/btn1280-hover]
+[2020.06.09-18.48.42:404][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/btn1280-hover" FILE="../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/btn1280-hover_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.06.09-18.48.42:418][ 30]LogSavePackage: Moving '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/btn1280-hover_Auto2723AA3274BF6569A2AFAA7A8B3D23A26.tmp' to '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/btn1280-hover_Auto2.uasset'
+[2020.06.09-18.48.42:419][ 30]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Menu/btn1920] ([1] browsable assets)...
+[2020.06.09-18.48.42:423][ 30]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Menu/btn1920.btn1920]
+[2020.06.09-18.48.42:423][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/btn1920]
+[2020.06.09-18.48.42:423][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/btn1920" FILE="../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/btn1920_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.06.09-18.48.42:436][ 30]LogSavePackage: Moving '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/btn1920_Auto21294E18F47DC2AFE9301409C0F40D973.tmp' to '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/btn1920_Auto2.uasset'
+[2020.06.09-18.48.42:437][ 30]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Menu/btn1920-hover] ([1] browsable assets)...
+[2020.06.09-18.48.42:442][ 30]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Menu/btn1920-hover.btn1920-hover]
+[2020.06.09-18.48.42:442][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/btn1920-hover]
+[2020.06.09-18.48.42:442][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/btn1920-hover" FILE="../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/btn1920-hover_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.06.09-18.48.42:454][ 30]LogSavePackage: Moving '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/btn1920-hover_Auto2AB6B47804BD6CBE5E26E1CA04F2F022B.tmp' to '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/btn1920-hover_Auto2.uasset'
+[2020.06.09-18.48.42:455][ 30]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Menu/btnInicio-hover] ([1] browsable assets)...
+[2020.06.09-18.48.42:459][ 30]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Menu/btnInicio-hover.btnInicio-hover]
+[2020.06.09-18.48.42:460][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/btnInicio-hover]
+[2020.06.09-18.48.42:472][ 30]LogSavePackage: Moving '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/btnInicio-hover_Auto29E779BC34D52C35DDC555680061DEA87.tmp' to '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/btnInicio-hover_Auto2.uasset'
+[2020.06.09-18.48.42:473][ 30]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Menu/btnOpcion-hover] ([1] browsable assets)...
+[2020.06.09-18.48.42:477][ 30]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Menu/btnOpcion-hover.btnOpcion-hover]
+[2020.06.09-18.48.42:478][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/btnOpcion-hover]
+[2020.06.09-18.48.42:491][ 30]LogSavePackage: Moving '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/btnOpcion-hover_Auto22F8FDA03440B116EE61A61A42DC5899D.tmp' to '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/btnOpcion-hover_Auto2.uasset'
+[2020.06.09-18.48.42:492][ 30]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Menu/btnRegresar-hover] ([1] browsable assets)...
+[2020.06.09-18.48.42:497][ 30]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Menu/btnRegresar-hover.btnRegresar-hover]
+[2020.06.09-18.48.42:497][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/btnRegresar-hover]
+[2020.06.09-18.48.42:511][ 30]LogSavePackage: Moving '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/btnRegresar-hover_Auto2A1BD45194BCB0E38F8A6C6BDA905B706.tmp' to '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/btnRegresar-hover_Auto2.uasset'
+[2020.06.09-18.48.42:512][ 30]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Menu/btnRegresar] ([1] browsable assets)...
+[2020.06.09-18.48.42:516][ 30]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Menu/btnRegresar.btnRegresar]
+[2020.06.09-18.48.42:516][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/btnRegresar]
+[2020.06.09-18.48.42:516][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/btnRegresar" FILE="../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/btnRegresar_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.06.09-18.48.42:529][ 30]LogSavePackage: Moving '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/btnRegresar_Auto27DD63EFF44CE9E229181FEA2FD023B18.tmp' to '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/btnRegresar_Auto2.uasset'
+[2020.06.09-18.48.42:530][ 30]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Menu/btnSalir-hover] ([1] browsable assets)...
+[2020.06.09-18.48.42:535][ 30]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Menu/btnSalir-hover.btnSalir-hover]
+[2020.06.09-18.48.42:535][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/btnSalir-hover]
+[2020.06.09-18.48.42:548][ 30]LogSavePackage: Moving '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/btnSalir-hover_Auto27797F706487B0F2DFBB394A7E7FB4211.tmp' to '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/btnSalir-hover_Auto2.uasset'
+[2020.06.09-18.48.42:548][ 30]LogFileHelpers: Auto-saving content packages took 0.249
+[2020.06.09-18.58.42:770][992]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.027
+[2020.06.09-18.58.42:771][992]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Menu/MenuPrincipal] ([1] browsable assets)...
+[2020.06.09-18.58.42:771][992]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/MenuPrincipal]
+[2020.06.09-18.58.42:771][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/MenuPrincipal" FILE="../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/MenuPrincipal_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.06.09-18.58.42:791][992]LogSavePackage: Moving '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/MenuPrincipal_Auto31900BD12429D8979DF191AAD0D7D2E73.tmp' to '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/MenuPrincipal_Auto3.uasset'
+[2020.06.09-18.58.42:792][992]LogFileHelpers: Auto-saving content packages took 0.021
+[2020.06.09-19.01.08:516][ 17]LogEditorTransaction: Undo Ajustar propiedad vectorial
+[2020.06.09-19.01.29:978][496]LogEditorTransaction: Undo Ajustar propiedad vectorial
+[2020.06.09-19.01.32:126][496]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.143 s
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: === Handled ensure: ===
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: 
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: 
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: Stack: 
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff8908a71f6 UE4Editor-Core.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff8905e0c92 UE4Editor-Core.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff8905fb356 UE4Editor-Core.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff87488eedf UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff874834576 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff870e19e88 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff870e1ac2d UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff870e1a8ce UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff870e644e1 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff86dcc6033 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff86dcc36cc UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff86dd74551 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff86da3f9ba UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff86db4fc09 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff86dabf969 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff887606a2e UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff8874193b0 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff8873b1444 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff86f816cd4 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff86f7b5a96 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff86f7473c4 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff86f849a79 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff86f80ee5b UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff87379fce9 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff875bfd8d3 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff874c049b5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff87390e4cd UE4Editor-Kismet.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff874834dc6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff8748601fb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff874846535 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff8748b2dc5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff8748f9b6d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff87488c81f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff8737a05b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff8873b24df UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff8873f437e UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff8750e3a8e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff8750d1a08 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff8873770ac UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff8873f606c UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff8873e9846 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff8e01fce45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff8e01f0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff8e01ff4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff8e01ec209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff9052c5c0d USER32.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff9052c5602 USER32.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff8e0200646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff77f8754e5 UE4Editor.exe!UnknownFunction []
+[2020.06.09-19.01.32:126][496]LogOutputDevice: Error: [Callstack] 0x00007ff77f885b3c UE4Editor.exe!UnknownFunction []
+[2020.06.09-19.01.32:127][496]LogOutputDevice: Error: [Callstack] 0x00007ff77f885bba UE4Editor.exe!UnknownFunction []
+[2020.06.09-19.01.32:127][496]LogOutputDevice: Error: [Callstack] 0x00007ff77f893dac UE4Editor.exe!UnknownFunction []
+[2020.06.09-19.01.32:127][496]LogOutputDevice: Error: [Callstack] 0x00007ff77f895aaa UE4Editor.exe!UnknownFunction []
+[2020.06.09-19.01.32:127][496]LogOutputDevice: Error: [Callstack] 0x00007ff903f87bd4 KERNEL32.DLL!UnknownFunction []
+[2020.06.09-19.01.32:127][496]LogOutputDevice: Error: [Callstack] 0x00007ff90564ce51 ntdll.dll!UnknownFunction []
+[2020.06.09-19.01.32:127][496]LogOutputDevice: Error: 
+[2020.06.09-19.01.32:138][496]LogStats:                SubmitErrorReport -  0.000 s
+[2020.06.09-19.01.37:671][496]LogStats:                    SendNewReport -  5.534 s
+[2020.06.09-19.01.37:671][496]LogStats:             FDebug::EnsureFailed -  7.689 s
+[2020.06.09-19.01.37:750][496]Cmd: TRANSACTION UNDO
+[2020.06.09-19.01.37:750][496]LogEditorTransaction: Undo Ajustar propiedad vectorial
+[2020.06.09-19.01.51:507][366]LogEditorTransaction: Undo Mover Widget
+[2020.06.09-19.02.41:929][137]LogSlate: Window 'Save Asset As' being destroyed
+[2020.06.09-19.02.45:197][233]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.09-19.02.57:896][ 82]LogEditorTransaction: Undo Ajustar propiedad vectorial
+[2020.06.09-19.02.58:264][ 98]Cmd: TRANSACTION UNDO
+[2020.06.09-19.02.58:264][ 98]LogEditorTransaction: Undo Ajustar propiedad vectorial
+[2020.06.09-19.04.52:971][543]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Users/ROMO/Desktop/unreal project/Menu1.png)
+[2020.06.09-19.04.53:041][543]LogTexture: Display: Building textures: Menu1 (AutoDXT, 1920X1080)
+[2020.06.09-19.04.59:822][776]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.09-19.05.03:348][833]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Users/ROMO/Desktop/unreal project/Menu.png)
+[2020.06.09-19.05.03:413][833]LogTexture: Display: Building textures: Menu (AutoDXT, 1920X1080)
+[2020.06.09-19.06.08:528][450]LogEditorTransaction: Undo Move Widgets
+[2020.06.09-19.06.15:352][732]LogEditorTransaction: Undo Move Widgets
+[2020.06.09-19.06.39:213][811]LogEditorTransaction: Undo Reset to Default
+[2020.06.09-19.06.39:689][826]LogEditorTransaction: Undo Reset to Default
+[2020.06.09-19.08.18:184][456]LogEditorTransaction: Undo Editar Y
+[2020.06.09-19.08.20:198][554]LogEditorTransaction: Undo Editar X
+[2020.06.09-19.08.38:534][475]LogEditorTransaction: Undo Editar Y
+[2020.06.09-19.08.39:299][517]LogEditorTransaction: Undo Editar X
+[2020.06.09-19.08.58:211][762]LogEditorTransaction: Undo Ajustar propiedad vectorial
+[2020.06.09-19.08.58:550][777]Cmd: TRANSACTION UNDO
+[2020.06.09-19.08.58:550][777]LogEditorTransaction: Undo Ajustar propiedad vectorial
+[2020.06.09-19.08.58:879][793]Cmd: TRANSACTION UNDO
+[2020.06.09-19.08.58:879][793]LogEditorTransaction: Undo Ajustar propiedad vectorial
+[2020.06.09-19.08.59:417][824]Cmd: TRANSACTION UNDO
+[2020.06.09-19.08.59:417][824]LogEditorTransaction: Undo Ajustar propiedad vectorial
+[2020.06.09-19.09.01:685][969]LogEditorTransaction: Undo Move Widgets
+[2020.06.09-19.09.04:206][122]BlueprintLog: New page: Compilar MenuPrincipal
+[2020.06.09-19.09.28:214][408]LogEditorTransaction: Undo Editar Parte inferior
+[2020.06.09-19.09.28:944][450]Cmd: TRANSACTION UNDO
+[2020.06.09-19.09.28:944][450]LogEditorTransaction: Undo Editar Derecha
+[2020.06.09-19.12.47:965][173]LogEditorTransaction: Undo Editar Parte inferior
+[2020.06.09-19.12.48:517][203]Cmd: TRANSACTION UNDO
+[2020.06.09-19.12.48:517][203]LogEditorTransaction: Undo Editar Derecha
+[2020.06.09-19.13.16:768][ 70]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.030
+[2020.06.09-19.13.16:769][ 70]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Menu/MenuPrincipal] ([1] browsable assets)...
+[2020.06.09-19.13.16:769][ 70]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/MenuPrincipal]
+[2020.06.09-19.13.16:769][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/MenuPrincipal" FILE="../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/MenuPrincipal_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2020.06.09-19.13.16:789][ 70]LogSavePackage: Moving '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/MenuPrincipal_Auto489206EEE4473A24146761DA4BDE976A8.tmp' to '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/MenuPrincipal_Auto4.uasset'
+[2020.06.09-19.13.16:790][ 70]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Menu/Menu] ([1] browsable assets)...
+[2020.06.09-19.13.16:794][ 70]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Menu/Menu.Menu]
+[2020.06.09-19.13.16:795][ 70]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/Menu]
+[2020.06.09-19.13.16:795][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu" FILE="../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/Menu_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2020.06.09-19.13.16:822][ 70]LogSavePackage: Moving '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Menu_Auto4494D344246D46241E6D728915EE4641A.tmp' to '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/Menu_Auto4.uasset'
+[2020.06.09-19.13.16:823][ 70]LogFileHelpers: Auto-saving content packages took 0.055
+[2020.06.09-19.16.21:783][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_9.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_7.WidgetTree_0.CanvasPanel_0
+[2020.06.09-19.16.21:783][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_9.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_51.WidgetTree_0.CanvasPanel_0
+[2020.06.09-19.16.21:783][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_9.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_52.WidgetTree_0.CanvasPanel_0
+[2020.06.09-19.16.21:783][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_9.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_60.WidgetTree_0.CanvasPanel_0
+[2020.06.09-19.16.21:783][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_9.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Game/Menu/MenuPrincipal.MenuPrincipal:WidgetTree.CanvasPanel_0
+[2020.06.09-19.16.21:783][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_9.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_61.WidgetTree_0.CanvasPanel_0
+[2020.06.09-19.16.21:783][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_9.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_54.WidgetTree_0.CanvasPanel_0
+[2020.06.09-19.16.21:783][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_9.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_16.WidgetTree_0.CanvasPanel_0
+[2020.06.09-19.16.21:783][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_9.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_59.WidgetTree_0.CanvasPanel_0
+[2020.06.09-19.16.21:783][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_9.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_22.WidgetTree_0.CanvasPanel_0
+[2020.06.09-19.16.21:783][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_9.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_50.WidgetTree_0.CanvasPanel_0
+[2020.06.09-19.16.21:783][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_9.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_49.WidgetTree_0.CanvasPanel_0
+[2020.06.09-19.16.21:783][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_9.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_58.WidgetTree_0.CanvasPanel_0
+[2020.06.09-19.16.21:783][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_9.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_6.WidgetTree_0.CanvasPanel_0
+[2020.06.09-19.16.21:783][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_9.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_48.WidgetTree_0.CanvasPanel_0
+[2020.06.09-19.16.21:783][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_9.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_57.WidgetTree_0.CanvasPanel_0
+[2020.06.09-19.16.21:783][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_9.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_56.WidgetTree_0.CanvasPanel_0
+[2020.06.09-19.16.21:783][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_9.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_21.WidgetTree_0.CanvasPanel_0
+[2020.06.09-19.16.21:783][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_9.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_24.WidgetTree_0.CanvasPanel_0
+[2020.06.09-19.16.21:783][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_9.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_25.WidgetTree_0.CanvasPanel_0
+[2020.06.09-19.16.21:783][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_9.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_55.WidgetTree_0.CanvasPanel_0
+[2020.06.09-19.16.21:783][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_9.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_23.WidgetTree_0.CanvasPanel_0
+[2020.06.09-19.16.21:783][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_9.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_18.WidgetTree_0.CanvasPanel_0
+[2020.06.09-19.16.21:783][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_9.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_10.WidgetTree_0.CanvasPanel_0
+[2020.06.09-19.16.21:783][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_9.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_62.WidgetTree_0.CanvasPanel_0
+[2020.06.09-19.16.21:783][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_9.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_MenuPrincipal_C_70:WidgetTree.CanvasPanel_0
+[2020.06.09-19.16.21:783][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_9.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Game/Menu/MenuPrincipal.MenuPrincipal_C:WidgetTree.CanvasPanel_0
+[2020.06.09-19.16.21:784][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_9.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_63.WidgetTree_0.CanvasPanel_0
+[2020.06.09-19.16.21:784][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_9.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_64.WidgetTree_0.CanvasPanel_0
+[2020.06.09-19.16.21:784][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_9.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:MenuPrincipal_C_65.WidgetTree_0.CanvasPanel_0
+[2020.06.09-19.16.21:784][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_59.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12 or CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_61.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12
+[2020.06.09-19.16.21:784][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_59.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12 or CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_60.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12
+[2020.06.09-19.16.21:784][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_59.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12 or CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_58.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12
+[2020.06.09-19.16.21:784][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_59.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12 or CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_54.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12
+[2020.06.09-19.16.21:784][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_59.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12 or CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_57.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12
+[2020.06.09-19.16.21:784][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_59.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12 or CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_52.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12
+[2020.06.09-19.16.21:784][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_59.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12 or CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_51.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12
+[2020.06.09-19.16.21:784][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_59.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12 or CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_50.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12
+[2020.06.09-19.16.21:784][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_59.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12 or CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_49.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12
+[2020.06.09-19.16.21:784][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_59.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12 or CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_48.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12
+[2020.06.09-19.16.21:784][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_59.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12 or CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_56.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12
+[2020.06.09-19.16.21:784][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_59.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12 or CanvasPanelSlot /Game/Menu/MenuPrincipal.MenuPrincipal:WidgetTree.CanvasPanel_0.CanvasPanelSlot_12
+[2020.06.09-19.16.21:784][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_59.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12 or CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_55.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12
+[2020.06.09-19.16.21:784][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_59.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12 or CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_62.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12
+[2020.06.09-19.16.21:784][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_59.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12 or CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_63.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12
+[2020.06.09-19.16.21:784][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_59.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12 or CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_64.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12
+[2020.06.09-19.16.21:784][ 90]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_59.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12 or CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_65.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12
+[2020.06.09-19.16.21:784][ 90]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Engine/Transient.World_9:MenuPrincipal_C_59.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_12) from referencer (Button /Engine/UMG/Editor/Transient.Button_603).  Import failed...
+[2020.06.09-19.16.21:784][ 90]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_12"''
+[2020.06.09-19.16.30:431][590]LogEditorTransaction: Undo Mover Widget
+[2020.06.09-19.16.31:181][627]LogEditorTransaction: Undo Propiedad de la animación modificada
+[2020.06.09-19.16.31:714][659]LogEditorTransaction: Undo Propiedad de la animación modificada
+[2020.06.09-19.16.32:071][681]LogEditorTransaction: Undo Propiedad de la animación modificada
+[2020.06.09-19.16.32:458][704]LogEditorTransaction: Undo Paste clipboard contents
+[2020.06.09-19.19.12:800][165]LogEditorTransaction: Undo Editar Parte inferior
+[2020.06.09-19.19.45:680][959]LogEditorTransaction: Undo Editar X
+[2020.06.09-19.19.57:380][568]LogEditorTransaction: Undo Resize Widget
+[2020.06.09-19.20.05:250][ 82]LogEditorTransaction: Undo Ajustar propiedad vectorial
+[2020.06.09-19.20.15:385][777]LogEditorTransaction: Undo Editar Derecha
+[2020.06.09-19.21.44:102][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/MenuPrincipal" FILE="../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Content/Menu/MenuPrincipal.uasset" SILENT=true
+[2020.06.09-19.21.44:130][145]LogSavePackage: Moving '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/MenuPrincipalE16001364549B9079E1102B139748472.tmp' to '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Content/Menu/MenuPrincipal.uasset'
+[2020.06.09-19.24.49:143][751]BlueprintLog: New page: Compilar MenuPrincipal
+[2020.06.09-19.25.10:950][806]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Menu/MenuOpciones.MenuOpciones
+[2020.06.09-19.26.13:275][ 74]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.034
+[2020.06.09-19.26.13:277][ 74]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Menu/MenuOpciones] ([1] browsable assets)...
+[2020.06.09-19.26.13:277][ 74]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/MenuOpciones]
+[2020.06.09-19.26.13:277][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/MenuOpciones" FILE="../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/MenuOpciones_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.06.09-19.26.13:289][ 74]LogSavePackage: Moving '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/MenuOpciones_Auto55B67A7D3457874A3EB58D4B141A91D7F.tmp' to '../../../../../../Github/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/Menu/MenuOpciones_Auto5.uasset'
+[2020.06.09-19.26.13:289][ 74]LogFileHelpers: Auto-saving content packages took 0.013
+[2020.06.09-19.28.01:401][295]BlueprintLog: New page: Compilar MenuOpciones
+[2020.06.09-19.29.46:247][235]LogEditorTransaction: Undo Mover Widget
+[2020.06.09-19.29.48:858][376]PIE: UWidget::RemoveFromParent() called on '/Game/Menu/MenuOpciones.MenuOpciones:WidgetTree.Button_229' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.06.09-19.29.49:290][393]LogEditorTransaction: Undo Mover Widget
+[2020.06.09-19.29.49:292][393]LogWindows: Windows GetLastError: La operación se completó correctamente. (0)
+[2020.06.09-19.29.50:217][393]LogWindows: Error: === Critical error: ===
+[2020.06.09-19.29.50:217][393]LogWindows: Error: 
+[2020.06.09-19.29.50:217][393]LogWindows: Error: Assertion failed: IsValid() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Templates/SharedPointer.h] [Line: 849] 
+[2020.06.09-19.29.50:217][393]LogWindows: Error: 
+[2020.06.09-19.29.50:217][393]LogWindows: Error: 
+[2020.06.09-19.29.50:217][393]LogWindows: Error: 
+[2020.06.09-19.29.50:217][393]LogWindows: Error: [Callstack] 0x00007ff9026ba799 KERNELBASE.dll!UnknownFunction []
+[2020.06.09-19.29.50:217][393]LogWindows: Error: [Callstack] 0x00007ff8e0206850 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.09-19.29.50:217][393]LogWindows: Error: [Callstack] 0x00007ff8906462fc UE4Editor-Core.dll!UnknownFunction []
+[2020.06.09-19.29.50:217][393]LogWindows: Error: [Callstack] 0x00007ff8905d51db UE4Editor-Core.dll!UnknownFunction []
+[2020.06.09-19.29.50:217][393]LogWindows: Error: [Callstack] 0x00007ff874127ff6 UE4Editor-UMG.dll!UnknownFunction []
+[2020.06.09-19.29.50:217][393]LogWindows: Error: [Callstack] 0x00007ff8740e353a UE4Editor-UMG.dll!UnknownFunction []
+[2020.06.09-19.29.50:217][393]LogWindows: Error: [Callstack] 0x00007ff88914d84d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.09-19.29.50:217][393]LogWindows: Error: [Callstack] 0x00007ff8748b2002 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.09-19.29.50:217][393]LogWindows: Error: [Callstack] 0x00007ff8748f9b4e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.09-19.29.50:217][393]LogWindows: Error: [Callstack] 0x00007ff87488c81f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.09-19.29.50:217][393]LogWindows: Error: [Callstack] 0x00007ff8737a05b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.06.09-19.29.50:218][393]LogWindows: Error: [Callstack] 0x00007ff8873b24df UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.09-19.29.50:218][393]LogWindows: Error: [Callstack] 0x00007ff8873f437e UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.09-19.29.50:218][393]LogWindows: Error: [Callstack] 0x00007ff8750e3a8e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.09-19.29.50:218][393]LogWindows: Error: [Callstack] 0x00007ff8750d1a08 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.09-19.29.50:218][393]LogWindows: Error: [Callstack] 0x00007ff8873770ac UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.09-19.29.50:218][393]LogWindows: Error: [Callstack] 0x00007ff8873f606c UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.09-19.29.50:218][393]LogWindows: Error: [Callstack] 0x00007ff8873e9846 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.09-19.29.50:218][393]LogWindows: Error: [Callstack] 0x00007ff8e01fce45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.09-19.29.50:218][393]LogWindows: Error: [Callstack] 0x00007ff8e01f0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.09-19.29.50:218][393]LogWindows: Error: [Callstack] 0x00007ff8e01ff4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.09-19.29.50:218][393]LogWindows: Error: [Callstack] 0x00007ff8e01ec209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.09-19.29.50:218][393]LogWindows: Error: [Callstack] 0x00007ff9052c5c0d USER32.dll!UnknownFunction []
+[2020.06.09-19.29.50:218][393]LogWindows: Error: [Callstack] 0x00007ff9052c5602 USER32.dll!UnknownFunction []
+[2020.06.09-19.29.50:218][393]LogWindows: Error: [Callstack] 0x00007ff8e0200646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.09-19.29.50:218][393]LogWindows: Error: [Callstack] 0x00007ff77f8754e5 UE4Editor.exe!UnknownFunction []
+[2020.06.09-19.29.50:218][393]LogWindows: Error: [Callstack] 0x00007ff77f885b3c UE4Editor.exe!UnknownFunction []
+[2020.06.09-19.29.50:218][393]LogWindows: Error: [Callstack] 0x00007ff77f885bba UE4Editor.exe!UnknownFunction []
+[2020.06.09-19.29.50:218][393]LogWindows: Error: [Callstack] 0x00007ff77f893dac UE4Editor.exe!UnknownFunction []
+[2020.06.09-19.29.50:218][393]LogWindows: Error: [Callstack] 0x00007ff77f895aaa UE4Editor.exe!UnknownFunction []
+[2020.06.09-19.29.50:218][393]LogWindows: Error: [Callstack] 0x00007ff903f87bd4 KERNEL32.DLL!UnknownFunction []
+[2020.06.09-19.29.50:218][393]LogWindows: Error: [Callstack] 0x00007ff90564ce51 ntdll.dll!UnknownFunction []
+[2020.06.09-19.29.50:218][393]LogWindows: Error: 
+[2020.06.09-19.29.50:253][393]LogExit: Executing StaticShutdownAfterError
+[2020.06.09-19.29.50:259][393]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.06.09-19.29.50:269][393]Log file closed, 06/09/20 14:29:50
