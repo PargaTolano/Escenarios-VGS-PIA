@@ -1004,3 +1004,278 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.09-16.29.41:955][ 19]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.152
 [2020.06.09-16.39.54:855][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2020.06.09-16.40.15:693][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.09-16.44.04:387][305]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2020.06.09-16.44.15:934][989]Cmd: TRANSACTION UNDO
+[2020.06.09-16.44.15:934][989]LogEditorTransaction: Undo Move Actors
+[2020.06.09-16.44.17:145][ 58]Cmd: TRANSACTION UNDO
+[2020.06.09-16.44.17:145][ 58]LogEditorTransaction: Undo Delete Actors
+[2020.06.09-16.44.18:838][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.09-16.44.21:930][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.09-16.44.50:014][671]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.06.09-16.44.50:151][671]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/FirstPersonExampleMap_Auto2B4EFC4CA467909698FFEA88D02760E66.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2020.06.09-16.44.50:153][671]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.162
+[2020.06.09-16.44.50:153][671]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.162
+[2020.06.09-16.49.41:087][499]LogDirectoryWatcher: A directory notification failed for '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2020.06.09-16.49.41:087][499]LogDirectoryWatcher: A directory notification failed for '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2020.06.09-16.49.41:087][499]LogDirectoryWatcher: A directory notification failed for 'D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2020.06.09-16.50.30:997][463]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.09-16.50.30:997][463]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.09-16.50.30:998][463]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.09-16.50.30:998][463]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.09-16.50.30:998][463]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.09-16.50.30:998][463]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Veh_Train_01_Alt_Smokestack
+[2020.06.09-16.50.30:998][463]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.09-16.50.31:006][463]LogStaticMesh: Building static mesh SM_Veh_Train_01_Alt_Smokestack...
+[2020.06.09-16.50.31:033][463]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Vehicles_Rigged/SM_Veh_Train_01_Alt_Smokestack.SM_Veh_Train_01_Alt_Smokestack
+[2020.06.09-16.50.31:050][463]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/PolygonWestern/Content/PolygonWestern/Meshes/Vehicles_Rigged/SM_Veh_Train_01_Alt_Smokestack.SM_Veh_Train_01_Alt_Smokestack
+[2020.06.09-16.50.31:782][463]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2020.06.09-16.50.31:782][463]LogSlate: Took 0.001944 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.06.09-16.50.35:776][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.09-16.50.35:860][696]LogSlate: Window 'SM_Veh_Train_01_Alt_Smokestack' being destroyed
+[2020.06.09-16.50.35:864][696]LogSlate: Window 'SM_Veh_Train_01_Alt_Smokestack' being destroyed
+[2020.06.09-16.50.39:885][926]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.09-16.50.39:885][926]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.09-16.50.39:886][926]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.09-16.50.39:886][926]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.09-16.50.39:886][926]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_01_PhysicsAsset'
+[2020.06.09-16.50.39:886][926]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_01_PhysicsAsset' while loading NULL.
+[2020.06.09-16.50.39:886][926]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_01_Skeleton'
+[2020.06.09-16.50.39:886][926]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_01_Skeleton' while loading NULL.
+[2020.06.09-16.50.39:886][926]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_01_PhysicsAsset'
+[2020.06.09-16.50.39:887][926]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_01_PhysicsAsset' while loading NULL.
+[2020.06.09-16.50.39:887][926]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_01_Skeleton'
+[2020.06.09-16.50.39:887][926]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_01_Skeleton' while loading NULL.
+[2020.06.09-16.50.39:887][926]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_01_Skeleton'
+[2020.06.09-16.50.39:887][926]LoadErrors: Failed to load /Game/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_01_Skeleton.SK_Wep_American_Bayonet_01_Skeleton Referenced by SK_Wep_American_Bayonet_01
+[2020.06.09-16.50.39:887][926]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_01_Skeleton' while loading NULL.
+[2020.06.09-16.50.39:887][926]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_01_PhysicsAsset'
+[2020.06.09-16.50.39:888][926]LoadErrors: Failed to load /Game/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_01_PhysicsAsset.SK_Wep_American_Bayonet_01_PhysicsAsset Referenced by SK_Wep_American_Bayonet_01
+[2020.06.09-16.50.39:888][926]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_01_PhysicsAsset' while loading NULL.
+[2020.06.09-16.50.39:888][926]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.09-16.50.39:889][926]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SK_Wep_American_Bayonet_01
+[2020.06.09-16.50.39:889][926]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.09-16.50.39:891][926]LogSkeletalMesh: Building Skeletal Mesh SK_Wep_American_Bayonet_01...
+[2020.06.09-16.50.39:895][926]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_01.SK_Wep_American_Bayonet_01
+[2020.06.09-16.50.39:907][926]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_01.SK_Wep_American_Bayonet_01
+[2020.06.09-16.50.41:828][926]LogSlate: Window 'Message' being destroyed
+[2020.06.09-16.50.41:878][926]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.06.09-16.50.44:189][926]LogSlate: Window 'Choose Skeleton' being destroyed
+[2020.06.09-16.50.46:405][926]LogSlate: Window 'Message' being destroyed
+[2020.06.09-16.50.46:424][926]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.46:432][927]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.46:600][937]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.46:617][938]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.46:637][939]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.46:655][940]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.46:672][941]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.46:688][942]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.46:702][943]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.46:720][944]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.46:738][945]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.46:754][946]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.46:767][947]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.46:784][948]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.46:800][949]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.46:817][950]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.46:834][951]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.46:851][952]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.46:867][953]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.46:884][954]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.46:904][955]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.46:918][956]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.46:935][957]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.46:951][958]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.46:968][959]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.46:985][960]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.47:001][961]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.47:018][962]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.47:038][963]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.47:051][964]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.47:067][965]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.47:084][966]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.47:100][967]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.47:117][968]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.47:134][969]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.47:151][970]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.47:167][971]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.47:184][972]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.47:201][973]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.47:218][974]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.47:235][975]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.47:250][976]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.47:267][977]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.47:284][978]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.47:367][983]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.47:383][984]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.47:400][985]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.47:417][986]LogAnimation: Warning: SkeletalMesh SK_Wep_American_Bayonet_01 has no skeleton. This needs to fixed before an animation can be set
+[2020.06.09-16.50.47:440][987]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_01.SK_Wep_American_Bayonet_01
+[2020.06.09-16.50.48:615][987]LogSlate: Window 'Message' being destroyed
+[2020.06.09-16.50.48:653][987]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.06.09-16.50.48:696][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.09-16.50.48:710][987]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.06.09-16.50.55:304][308]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.09-16.50.55:350][308]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/SK_Wep_American_Bayonet_016A41EDD94FA186B8D91F36ADBB61EACD.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_01.uasset'
+[2020.06.09-16.50.55:800][334]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_01_Skeleton1.SK_Wep_American_Bayonet_01_Skeleton1
+[2020.06.09-16.50.55:817][334]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.09-16.50.58:029][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.09-16.51.02:075][633]Cmd: TRANSACTION UNDO
+[2020.06.09-16.51.02:075][633]LogEditorTransaction: Undo Rotate Bone
+[2020.06.09-16.51.02:123][633]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.09-16.51.02:325][633]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.09-16.51.03:315][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.09-16.51.03:400][683]LogSlate: Window 'SK_Wep_American_Bayonet_01_Skeleton1' being destroyed
+[2020.06.09-16.51.03:406][683]LogSlate: Window 'SK_Wep_American_Bayonet_01_Skeleton1' being destroyed
+[2020.06.09-16.51.04:797][749]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.09-16.51.04:797][749]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.09-16.51.04:797][749]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.09-16.51.04:797][749]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.09-16.51.04:797][749]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_Sheath_PhysicsAsset'
+[2020.06.09-16.51.04:798][749]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_Sheath_PhysicsAsset' while loading NULL.
+[2020.06.09-16.51.04:798][749]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_Sheath_Skeleton'
+[2020.06.09-16.51.04:798][749]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_Sheath_Skeleton' while loading NULL.
+[2020.06.09-16.51.04:798][749]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_Sheath_PhysicsAsset'
+[2020.06.09-16.51.04:798][749]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_Sheath_PhysicsAsset' while loading NULL.
+[2020.06.09-16.51.04:798][749]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_Sheath_Skeleton'
+[2020.06.09-16.51.04:798][749]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_Sheath_Skeleton' while loading NULL.
+[2020.06.09-16.51.04:799][749]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_Sheath_Skeleton'
+[2020.06.09-16.51.04:799][749]LoadErrors: Failed to load /Game/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_Sheath_Skeleton.SK_Wep_American_Bayonet_Sheath_Skeleton Referenced by SK_Wep_American_Bayonet_Sheath
+[2020.06.09-16.51.04:799][749]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_Sheath_Skeleton' while loading NULL.
+[2020.06.09-16.51.04:799][749]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_Sheath_PhysicsAsset'
+[2020.06.09-16.51.04:799][749]LoadErrors: Failed to load /Game/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_Sheath_PhysicsAsset.SK_Wep_American_Bayonet_Sheath_PhysicsAsset Referenced by SK_Wep_American_Bayonet_Sheath
+[2020.06.09-16.51.04:799][749]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_Sheath_PhysicsAsset' while loading NULL.
+[2020.06.09-16.51.04:799][749]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.09-16.51.04:799][749]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SK_Wep_American_Bayonet_Sheath
+[2020.06.09-16.51.04:799][749]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.09-16.51.04:801][749]LogSkeletalMesh: Building Skeletal Mesh SK_Wep_American_Bayonet_Sheath...
+[2020.06.09-16.51.04:801][749]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_Sheath.SK_Wep_American_Bayonet_Sheath
+[2020.06.09-16.51.04:808][749]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_Sheath.SK_Wep_American_Bayonet_Sheath
+[2020.06.09-16.51.06:139][749]LogSlate: Window 'Message' being destroyed
+[2020.06.09-16.51.06:160][749]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.09-16.51.10:579][943]Cmd: TRANSACTION UNDO
+[2020.06.09-16.51.10:579][943]LogEditorTransaction: Undo Clicking on Actors
+[2020.06.09-16.51.10:658][943]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.09-16.51.11:055][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.09-16.51.11:146][964]LogSlate: Window 'SK_Wep_American_Bayonet_Sheath' being destroyed
+[2020.06.09-16.51.11:152][964]LogSlate: Window 'SK_Wep_American_Bayonet_Sheath' being destroyed
+[2020.06.09-16.51.13:102][ 75]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.09-16.51.13:103][ 75]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.09-16.51.13:103][ 75]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.09-16.51.13:103][ 75]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.09-16.51.13:103][ 75]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Rifle_01_PhysicsAsset'
+[2020.06.09-16.51.13:103][ 75]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Rifle_01_PhysicsAsset' while loading NULL.
+[2020.06.09-16.51.13:103][ 75]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Rifle_01_Skeleton'
+[2020.06.09-16.51.13:103][ 75]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Rifle_01_Skeleton' while loading NULL.
+[2020.06.09-16.51.13:103][ 75]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Rifle_01_PhysicsAsset'
+[2020.06.09-16.51.13:104][ 75]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Rifle_01_PhysicsAsset' while loading NULL.
+[2020.06.09-16.51.13:104][ 75]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Rifle_01_Skeleton'
+[2020.06.09-16.51.13:104][ 75]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Rifle_01_Skeleton' while loading NULL.
+[2020.06.09-16.51.13:104][ 75]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Rifle_01_Skeleton'
+[2020.06.09-16.51.13:104][ 75]LoadErrors: Failed to load /Game/PolygonWestern/Meshes/Weapons/SK_Wep_Rifle_01_Skeleton.SK_Wep_Rifle_01_Skeleton Referenced by SK_Wep_Rifle_01
+[2020.06.09-16.51.13:104][ 75]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Rifle_01_Skeleton' while loading NULL.
+[2020.06.09-16.51.13:104][ 75]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Rifle_01_PhysicsAsset'
+[2020.06.09-16.51.13:104][ 75]LoadErrors: Failed to load /Game/PolygonWestern/Meshes/Weapons/SK_Wep_Rifle_01_PhysicsAsset.SK_Wep_Rifle_01_PhysicsAsset Referenced by SK_Wep_Rifle_01
+[2020.06.09-16.51.13:105][ 75]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Rifle_01_PhysicsAsset' while loading NULL.
+[2020.06.09-16.51.13:105][ 75]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.09-16.51.13:105][ 75]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SK_Wep_Rifle_01
+[2020.06.09-16.51.13:105][ 75]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.09-16.51.13:108][ 75]LogSkeletalMesh: Building Skeletal Mesh SK_Wep_Rifle_01...
+[2020.06.09-16.51.13:109][ 75]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_Rifle_01.SK_Wep_Rifle_01
+[2020.06.09-16.51.13:118][ 75]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_Rifle_01.SK_Wep_Rifle_01
+[2020.06.09-16.51.14:387][ 75]LogSlate: Window 'Message' being destroyed
+[2020.06.09-16.51.14:407][ 75]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.09-16.51.24:257][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.09-16.51.24:359][620]LogSlate: Window 'SK_Wep_Rifle_01' being destroyed
+[2020.06.09-16.51.24:362][620]LogSlate: Window 'SK_Wep_Rifle_01' being destroyed
+[2020.06.09-16.51.27:754][819]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.09-16.51.27:754][819]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.09-16.51.27:754][819]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.09-16.51.27:754][819]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.09-16.51.27:754][819]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Shotgun_01_PhysicsAsset'
+[2020.06.09-16.51.27:755][819]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Shotgun_01_PhysicsAsset' while loading NULL.
+[2020.06.09-16.51.27:755][819]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Shotgun_01_Skeleton'
+[2020.06.09-16.51.27:756][819]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Shotgun_01_Skeleton' while loading NULL.
+[2020.06.09-16.51.27:756][819]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Shotgun_01_PhysicsAsset'
+[2020.06.09-16.51.27:756][819]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Shotgun_01_PhysicsAsset' while loading NULL.
+[2020.06.09-16.51.27:756][819]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Shotgun_01_Skeleton'
+[2020.06.09-16.51.27:756][819]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Shotgun_01_Skeleton' while loading NULL.
+[2020.06.09-16.51.27:757][819]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Shotgun_01_Skeleton'
+[2020.06.09-16.51.27:757][819]LoadErrors: Failed to load /Game/PolygonWestern/Meshes/Weapons/SK_Wep_Shotgun_01_Skeleton.SK_Wep_Shotgun_01_Skeleton Referenced by SK_Wep_Shotgun_01
+[2020.06.09-16.51.27:757][819]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Shotgun_01_Skeleton' while loading NULL.
+[2020.06.09-16.51.27:757][819]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Shotgun_01_PhysicsAsset'
+[2020.06.09-16.51.27:758][819]LoadErrors: Failed to load /Game/PolygonWestern/Meshes/Weapons/SK_Wep_Shotgun_01_PhysicsAsset.SK_Wep_Shotgun_01_PhysicsAsset Referenced by SK_Wep_Shotgun_01
+[2020.06.09-16.51.27:758][819]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Shotgun_01_PhysicsAsset' while loading NULL.
+[2020.06.09-16.51.27:758][819]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.09-16.51.27:758][819]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SK_Wep_Shotgun_01
+[2020.06.09-16.51.27:758][819]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.09-16.51.27:761][819]LogSkeletalMesh: Building Skeletal Mesh SK_Wep_Shotgun_01...
+[2020.06.09-16.51.27:762][819]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_Shotgun_01.SK_Wep_Shotgun_01
+[2020.06.09-16.51.27:769][819]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_Shotgun_01.SK_Wep_Shotgun_01
+[2020.06.09-16.51.29:248][819]LogSlate: Window 'Message' being destroyed
+[2020.06.09-16.51.29:275][819]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.09-16.51.35:281][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.09-16.51.35:366][147]LogSlate: Window 'SK_Wep_Shotgun_01' being destroyed
+[2020.06.09-16.51.35:372][147]LogSlate: Window 'SK_Wep_Shotgun_01' being destroyed
+[2020.06.09-16.51.36:963][233]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_Rifle_01.SK_Wep_Rifle_01
+[2020.06.09-16.51.36:980][233]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.09-16.51.39:506][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.09-16.51.39:607][355]LogSlate: Window 'SK_Wep_Rifle_01' being destroyed
+[2020.06.09-16.51.39:613][355]LogSlate: Window 'SK_Wep_Rifle_01' being destroyed
+[2020.06.09-16.51.41:680][474]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.09-16.51.41:680][474]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.09-16.51.41:680][474]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.09-16.51.41:681][474]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.09-16.51.41:681][474]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_02_PhysicsAsset'
+[2020.06.09-16.51.41:681][474]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_02_PhysicsAsset' while loading NULL.
+[2020.06.09-16.51.41:681][474]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_02_Skeleton'
+[2020.06.09-16.51.41:681][474]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_02_Skeleton' while loading NULL.
+[2020.06.09-16.51.41:681][474]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_02_PhysicsAsset'
+[2020.06.09-16.51.41:681][474]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_02_PhysicsAsset' while loading NULL.
+[2020.06.09-16.51.41:682][474]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_02_Skeleton'
+[2020.06.09-16.51.41:682][474]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_02_Skeleton' while loading NULL.
+[2020.06.09-16.51.41:682][474]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_02_Skeleton'
+[2020.06.09-16.51.41:682][474]LoadErrors: Failed to load /Game/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_02_Skeleton.SK_Wep_Revolver_02_Skeleton Referenced by SK_Wep_Revolver_02
+[2020.06.09-16.51.41:682][474]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_02_Skeleton' while loading NULL.
+[2020.06.09-16.51.41:683][474]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_02_PhysicsAsset'
+[2020.06.09-16.51.41:683][474]LoadErrors: Failed to load /Game/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_02_PhysicsAsset.SK_Wep_Revolver_02_PhysicsAsset Referenced by SK_Wep_Revolver_02
+[2020.06.09-16.51.41:683][474]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_02_PhysicsAsset' while loading NULL.
+[2020.06.09-16.51.41:684][474]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.09-16.51.41:684][474]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SK_Wep_Revolver_02
+[2020.06.09-16.51.41:684][474]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.09-16.51.41:687][474]LogSkeletalMesh: Building Skeletal Mesh SK_Wep_Revolver_02...
+[2020.06.09-16.51.41:689][474]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_02.SK_Wep_Revolver_02
+[2020.06.09-16.51.41:694][474]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_02.SK_Wep_Revolver_02
+[2020.06.09-16.51.43:104][474]LogSlate: Window 'Message' being destroyed
+[2020.06.09-16.51.43:121][474]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.09-16.51.49:036][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.09-16.51.49:120][791]LogSlate: Window 'SK_Wep_Revolver_02' being destroyed
+[2020.06.09-16.51.49:124][791]LogSlate: Window 'SK_Wep_Revolver_02' being destroyed
+[2020.06.09-16.51.50:242][853]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.09-16.51.50:242][853]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.09-16.51.50:242][853]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.09-16.51.50:242][853]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.09-16.51.50:242][853]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_01_PhysicsAsset'
+[2020.06.09-16.51.50:243][853]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_01_PhysicsAsset' while loading NULL.
+[2020.06.09-16.51.50:243][853]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_01_Skeleton'
+[2020.06.09-16.51.50:243][853]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_01_Skeleton' while loading NULL.
+[2020.06.09-16.51.50:243][853]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_01_PhysicsAsset'
+[2020.06.09-16.51.50:243][853]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_01_PhysicsAsset' while loading NULL.
+[2020.06.09-16.51.50:243][853]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_01_Skeleton'
+[2020.06.09-16.51.50:243][853]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_01_Skeleton' while loading NULL.
+[2020.06.09-16.51.50:244][853]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_01_Skeleton'
+[2020.06.09-16.51.50:244][853]LoadErrors: Failed to load /Game/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_01_Skeleton.SK_Wep_Revolver_01_Skeleton Referenced by SK_Wep_Revolver_01
+[2020.06.09-16.51.50:244][853]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_01_Skeleton' while loading NULL.
+[2020.06.09-16.51.50:244][853]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_01_PhysicsAsset'
+[2020.06.09-16.51.50:244][853]LoadErrors: Failed to load /Game/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_01_PhysicsAsset.SK_Wep_Revolver_01_PhysicsAsset Referenced by SK_Wep_Revolver_01
+[2020.06.09-16.51.50:244][853]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_01_PhysicsAsset' while loading NULL.
+[2020.06.09-16.51.50:244][853]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.09-16.51.50:244][853]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SK_Wep_Revolver_01
+[2020.06.09-16.51.50:244][853]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.09-16.51.50:248][853]LogSkeletalMesh: Building Skeletal Mesh SK_Wep_Revolver_01...
+[2020.06.09-16.51.50:250][853]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_01.SK_Wep_Revolver_01
+[2020.06.09-16.51.50:256][853]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_01.SK_Wep_Revolver_01
+[2020.06.09-16.51.51:972][853]LogSlate: Window 'Message' being destroyed
+[2020.06.09-16.51.51:995][853]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.09-16.52.03:421][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.09-16.52.03:522][509]LogSlate: Window 'SK_Wep_Revolver_01' being destroyed
+[2020.06.09-16.52.03:528][509]LogSlate: Window 'SK_Wep_Revolver_01' being destroyed
