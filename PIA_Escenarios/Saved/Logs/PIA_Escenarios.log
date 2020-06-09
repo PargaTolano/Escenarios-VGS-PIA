@@ -1,0 +1,1006 @@
+﻿Log file open, 06/09/20 11:12:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: PIA_Escenarios
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.179725
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6574378
+LogInit: Engine Version: 4.22.2-6574378+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): May 20 2019 09:54:56
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=H1Arrow -epicuserid=b16f1d077c9e455ba7df678908c8d81c -epiclocale=en
+LogInit: Base Directory: D:/EpicGames/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.06.09-16.12.29:624][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.06.09-16.12.29:624][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.06.09-16.12.29:624][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Engine.ini]
+[2020.06.09-16.12.29:624][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.06.09-16.12.29:624][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Engine.ini]
+[2020.06.09-16.12.29:624][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Engine.ini]
+[2020.06.09-16.12.29:624][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.06.09-16.12.29:624][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.06.09-16.12.29:624][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.06.09-16.12.29:624][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.06.09-16.12.29:624][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.06.09-16.12.29:624][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.06.09-16.12.29:624][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.06.09-16.12.29:624][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.06.09-16.12.29:624][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.06.09-16.12.29:624][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.06.09-16.12.29:624][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.06.09-16.12.29:624][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.06.09-16.12.29:624][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.06.09-16.12.29:624][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Engine.ini]
+[2020.06.09-16.12.29:624][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.06.09-16.12.29:624][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.06.09-16.12.29:624][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.06.09-16.12.29:624][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.06.09-16.12.29:624][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.06.09-16.12.29:624][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.06.09-16.12.29:624][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.06.09-16.12.29:624][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.06.09-16.12.29:624][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.06.09-16.12.29:624][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.06.09-16.12.29:624][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.06.09-16.12.29:624][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.06.09-16.12.29:624][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.06.09-16.12.29:624][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Engine.ini]
+[2020.06.09-16.12.29:624][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Engine.ini]
+[2020.06.09-16.12.29:627][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Scalability.ini]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Scalability.ini]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Scalability.ini]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Scalability.ini]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.09-16.12.29:627][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.09-16.12.29:628][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.09-16.12.29:628][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.09-16.12.29:628][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.09-16.12.29:628][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.09-16.12.29:628][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.09-16.12.29:628][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.09-16.12.29:628][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.09-16.12.29:628][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.09-16.12.29:628][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Scalability.ini]
+[2020.06.09-16.12.29:628][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.09-16.12.29:628][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.09-16.12.29:628][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.09-16.12.29:628][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.09-16.12.29:628][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.09-16.12.29:628][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.09-16.12.29:628][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.09-16.12.29:628][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.09-16.12.29:628][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Scalability.ini]
+[2020.06.09-16.12.29:628][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.09-16.12.29:628][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.09-16.12.29:628][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.09-16.12.29:628][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.09-16.12.29:628][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.09-16.12.29:628][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.09-16.12.29:628][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.09-16.12.29:628][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.09-16.12.29:628][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.09-16.12.29:628][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.09-16.12.29:628][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.09-16.12.29:628][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.09-16.12.29:628][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.09-16.12.29:628][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Scalability.ini]
+[2020.06.09-16.12.29:628][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.09-16.12.29:628][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.09-16.12.29:628][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.09-16.12.29:628][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.06.09-16.12.29:635][  0]LogHAL: Display: Platform has ~ 12 GB [12762845184 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.06.09-16.12.29:635][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.06.09-16.12.29:635][  0]LogInit: Going up to parent DeviceProfile []
+[2020.06.09-16.12.29:635][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Scalability.ini]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Scalability.ini]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Scalability.ini]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Scalability.ini]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Scalability.ini]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Scalability.ini]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.09-16.12.29:636][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.09-16.12.29:637][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.09-16.12.29:637][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.09-16.12.29:637][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.09-16.12.29:637][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.09-16.12.29:637][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.09-16.12.29:637][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.09-16.12.29:637][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.09-16.12.29:637][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.09-16.12.29:637][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Scalability.ini]
+[2020.06.09-16.12.29:637][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.09-16.12.29:637][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.09-16.12.29:637][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.06.09-16.12.29:637][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.06.09-16.12.29:637][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.06.09-16.12.29:637][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Engine.ini]
+[2020.06.09-16.12.29:637][  0]LogInit: Computer: LAPTOP-7TCNIM7L
+[2020.06.09-16.12.29:637][  0]LogInit: User: Antonio
+[2020.06.09-16.12.29:637][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.06.09-16.12.29:637][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.06.09-16.12.29:637][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2020.06.09-16.12.29:637][  0]LogMemory: Platform Memory Stats for Windows
+[2020.06.09-16.12.29:637][  0]LogMemory: Process Physical Memory: 97.71 MB used, 97.72 MB peak
+[2020.06.09-16.12.29:637][  0]LogMemory: Process Virtual Memory: 92.22 MB used, 92.22 MB peak
+[2020.06.09-16.12.29:637][  0]LogMemory: Physical Memory: 6949.59 MB used,  5222.00 MB free, 12171.60 MB total
+[2020.06.09-16.12.29:637][  0]LogMemory: Virtual Memory: 4633.96 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2020.06.09-16.12.29:659][  0]LogInit: Using OS detected language (en-US).
+[2020.06.09-16.12.29:659][  0]LogInit: Using OS detected locale (en-US).
+[2020.06.09-16.12.29:660][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.06.09-16.12.29:820][  0]LogInit: Setting process to per monitor DPI aware
+[2020.06.09-16.12.29:850][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.06.09-16.12.29:850][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.06.09-16.12.30:020][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.09-16.12.30:020][  0]LogD3D11RHI: D3D11 adapters:
+[2020.06.09-16.12.30:083][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2020.06.09-16.12.30:083][  0]LogD3D11RHI:       4029/0/6085 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.06.09-16.12.30:094][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.06.09-16.12.30:094][  0]LogD3D11RHI:       128/0/6085 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.06.09-16.12.30:098][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.06.09-16.12.30:098][  0]LogD3D11RHI:       0/0/6085 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.06.09-16.12.30:098][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.06.09-16.12.30:137][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.06.09-16.12.30:137][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2020.06.09-16.12.30:137][  0]LogWindows: EnumDisplayDevices:
+[2020.06.09-16.12.30:137][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.06.09-16.12.30:138][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.06.09-16.12.30:138][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.06.09-16.12.30:138][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2020.06.09-16.12.30:138][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.06.09-16.12.30:138][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2020.06.09-16.12.30:138][  0]LogD3D11RHI:   Driver Version: 388.16 (internal:23.21.13.8816, unified:388.16)
+[2020.06.09-16.12.30:138][  0]LogD3D11RHI:      Driver Date: 10-30-2017
+[2020.06.09-16.12.30:138][  0]LogRHI: Texture pool is 2820 MB (70% of 4029 MB)
+[2020.06.09-16.12.30:172][  0]LogD3D11RHI: Async texture creation enabled
+[2020.06.09-16.12.30:217][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.06.09-16.12.30:217][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.06.09-16.12.30:217][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.06.09-16.12.30:225][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.06.09-16.12.30:531][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.06.09-16.12.30:544][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.06.09-16.12.30:558][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.06.09-16.12.30:571][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.06.09-16.12.30:584][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.06.09-16.12.30:597][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.06.09-16.12.30:611][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.06.09-16.12.30:624][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.06.09-16.12.30:629][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.06.09-16.12.30:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.06.09-16.12.30:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.06.09-16.12.30:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.06.09-16.12.30:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.06.09-16.12.30:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.06.09-16.12.30:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.06.09-16.12.30:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.06.09-16.12.30:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.06.09-16.12.30:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.06.09-16.12.30:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.06.09-16.12.30:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.06.09-16.12.30:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.06.09-16.12.30:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.06.09-16.12.30:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.06.09-16.12.30:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.06.09-16.12.30:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.06.09-16.12.30:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.06.09-16.12.30:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.06.09-16.12.30:710][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.06.09-16.12.30:758][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.06.09-16.12.30:758][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.06.09-16.12.30:781][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.06.09-16.12.30:781][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.06.09-16.12.30:793][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.06.09-16.12.30:804][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.06.09-16.12.30:816][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.06.09-16.12.30:829][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.06.09-16.12.30:871][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.06.09-16.12.30:871][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.06.09-16.12.30:871][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.06.09-16.12.30:878][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.06.09-16.12.30:914][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Intermediate/Shaders/WorkingDirectory/6148/).
+[2020.06.09-16.12.30:914][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Antonio/AppData/Local/Temp/UnrealShaderWorkingDir/25EA1A18439C3A0B3F8C7DB7EE03F2A3/'.
+[2020.06.09-16.12.30:915][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.06.09-16.12.30:915][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.06.09-16.12.30:915][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.06.09-16.12.31:499][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.06.09-16.12.31:546][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Antonio/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.06.09-16.12.31:546][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Antonio/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.06.09-16.12.31:546][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.06.09-16.12.31:546][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.06.09-16.12.31:546][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.09-16.12.31:546][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.06.09-16.12.31:560][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.06.09-16.12.31:560][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.09-16.12.31:560][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.06.09-16.12.31:572][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Antonio/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.06.09-16.12.31:572][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.06.09-16.12.31:572][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.06.09-16.12.31:597][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.06.09-16.12.31:599][  0]LogSlate: Using FreeType 2.6.0
+[2020.06.09-16.12.31:599][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.06.09-16.12.31:677][  0]LogAssetRegistry: FAssetRegistry took 0.0330 seconds to start up
+[2020.06.09-16.12.32:011][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.09-16.12.32:158][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.06.09-16.12.32:158][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.06.09-16.12.32:158][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.06.09-16.12.32:158][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.06.09-16.12.32:158][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.06.09-16.12.32:169][  0]LogNetVersion: PIA_Escenarios 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 842258785)
+[2020.06.09-16.12.32:561][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.027436 seconds
+[2020.06.09-16.12.32:567][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.06.09-16.12.32:567][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.06.09-16.12.32:567][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.06.09-16.12.33:384][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.06.09-16.12.33:406][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.06.09-16.12.33:513][  0]SourceControl: Source control is disabled
+[2020.06.09-16.12.33:513][  0]SourceControl: Source control is disabled
+[2020.06.09-16.12.33:514][  0]SourceControl: Source control is disabled
+[2020.06.09-16.12.33:515][  0]SourceControl: Source control is disabled
+[2020.06.09-16.12.33:586][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.06.09-16.12.33:653][  0]LogOcInput: OculusInput pre-init called
+[2020.06.09-16.12.34:300][  0]LogEngine: Initializing Engine...
+[2020.06.09-16.12.34:301][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.09-16.12.34:302][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.06.09-16.12.34:516][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.06.09-16.12.34:528][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.06.09-16.12.34:544][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.09-16.12.34:599][  0]LogInit: FAudioDevice initialized.
+[2020.06.09-16.12.34:599][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.06.09-16.12.34:758][  0]LogDerivedDataCache: Saved boot cache 0.16s 71MB C:/Users/Antonio/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.06.09-16.12.34:762][  0]LogInit: Texture streaming: Enabled
+[2020.06.09-16.12.34:776][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.06.09-16.12.34:791][  0]LogInit: Transaction tracking system initialized
+[2020.06.09-16.12.34:806][  0]BlueprintLog: New page: Editor Load
+[2020.06.09-16.12.34:901][  0]LocalizationService: Localization service is disabled
+[2020.06.09-16.12.35:188][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/' took 0.01s
+[2020.06.09-16.12.35:188][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.06.09-16.12.35:188][  0]LogCook: Display: Mobile HDR setting 1
+[2020.06.09-16.12.35:353][  0]SourceControl: Source control is disabled
+[2020.06.09-16.12.35:359][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/EpicGames/UE_4.22/FeaturePacks/StarterContent.upack)
+[2020.06.09-16.12.35:375][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.06.09-16.12.35:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2020.06.09-16.12.35:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2020.06.09-16.12.35:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2020.06.09-16.12.35:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2020.06.09-16.12.35:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2020.06.09-16.12.35:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2020.06.09-16.12.35:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2020.06.09-16.12.35:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2020.06.09-16.12.35:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2020.06.09-16.12.35:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2020.06.09-16.12.35:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2020.06.09-16.12.35:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Collapse01.uasset"
+[2020.06.09-16.12.35:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Collapse02.uasset"
+[2020.06.09-16.12.35:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2020.06.09-16.12.35:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Explosion01.uasset"
+[2020.06.09-16.12.35:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Explosion02.uasset"
+[2020.06.09-16.12.35:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2020.06.09-16.12.35:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Fire01.uasset"
+[2020.06.09-16.12.35:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2020.06.09-16.12.35:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2020.06.09-16.12.35:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2020.06.09-16.12.35:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Light01.uasset"
+[2020.06.09-16.12.35:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2020.06.09-16.12.35:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Light02.uasset"
+[2020.06.09-16.12.35:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2020.06.09-16.12.35:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Smoke01.uasset"
+[2020.06.09-16.12.35:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2020.06.09-16.12.35:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2020.06.09-16.12.35:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2020.06.09-16.12.35:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2020.06.09-16.12.35:482][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2020.06.09-16.12.35:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2020.06.09-16.12.35:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2020.06.09-16.12.35:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Steam01.uasset"
+[2020.06.09-16.12.35:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2020.06.09-16.12.35:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2020.06.09-16.12.35:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2020.06.09-16.12.35:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2020.06.09-16.12.35:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2020.06.09-16.12.35:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2020.06.09-16.12.35:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2020.06.09-16.12.35:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2020.06.09-16.12.35:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2020.06.09-16.12.35:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2020.06.09-16.12.35:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2020.06.09-16.12.35:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2020.06.09-16.12.35:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2020.06.09-16.12.35:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2020.06.09-16.12.35:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2020.06.09-16.12.35:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2020.06.09-16.12.35:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2020.06.09-16.12.35:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2020.06.09-16.12.35:711][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2020.06.09-16.12.35:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2020.06.09-16.12.35:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Maps/Minimal_Default.umap"
+[2020.06.09-16.12.35:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2020.06.09-16.12.35:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Maps/StarterMap.umap"
+[2020.06.09-16.12.35:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2020.06.09-16.12.35:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2020.06.09-16.12.35:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2020.06.09-16.12.35:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2020.06.09-16.12.35:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2020.06.09-16.12.35:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2020.06.09-16.12.35:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2020.06.09-16.12.35:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2020.06.09-16.12.35:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2020.06.09-16.12.35:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2020.06.09-16.12.35:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2020.06.09-16.12.35:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2020.06.09-16.12.35:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2020.06.09-16.12.35:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2020.06.09-16.12.35:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2020.06.09-16.12.35:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2020.06.09-16.12.35:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2020.06.09-16.12.35:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2020.06.09-16.12.35:828][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Glass.uasset"
+[2020.06.09-16.12.35:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2020.06.09-16.12.35:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2020.06.09-16.12.35:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2020.06.09-16.12.35:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2020.06.09-16.12.35:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2020.06.09-16.12.35:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2020.06.09-16.12.35:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2020.06.09-16.12.35:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2020.06.09-16.12.35:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2020.06.09-16.12.35:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2020.06.09-16.12.35:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2020.06.09-16.12.35:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2020.06.09-16.12.35:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2020.06.09-16.12.35:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2020.06.09-16.12.35:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2020.06.09-16.12.35:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2020.06.09-16.12.36:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2020.06.09-16.12.36:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2020.06.09-16.12.36:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2020.06.09-16.12.36:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2020.06.09-16.12.36:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2020.06.09-16.12.36:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2020.06.09-16.12.36:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2020.06.09-16.12.36:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2020.06.09-16.12.36:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2020.06.09-16.12.36:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2020.06.09-16.12.36:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Particles/P_Explosion.uasset"
+[2020.06.09-16.12.36:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Particles/P_Fire.uasset"
+[2020.06.09-16.12.36:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Particles/P_Smoke.uasset"
+[2020.06.09-16.12.36:049][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Particles/P_Sparks.uasset"
+[2020.06.09-16.12.36:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2020.06.09-16.12.36:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2020.06.09-16.12.36:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2020.06.09-16.12.36:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2020.06.09-16.12.36:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2020.06.09-16.12.36:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2020.06.09-16.12.36:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2020.06.09-16.12.36:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2020.06.09-16.12.36:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2020.06.09-16.12.36:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2020.06.09-16.12.36:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2020.06.09-16.12.36:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/MaterialSphere.uasset"
+[2020.06.09-16.12.36:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_Bush.uasset"
+[2020.06.09-16.12.36:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_Chair.uasset"
+[2020.06.09-16.12.36:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2020.06.09-16.12.36:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_Couch.uasset"
+[2020.06.09-16.12.36:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_Door.uasset"
+[2020.06.09-16.12.36:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2020.06.09-16.12.36:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2020.06.09-16.12.36:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2020.06.09-16.12.36:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2020.06.09-16.12.36:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2020.06.09-16.12.36:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2020.06.09-16.12.36:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2020.06.09-16.12.36:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_Rock.uasset"
+[2020.06.09-16.12.36:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_Shelf.uasset"
+[2020.06.09-16.12.36:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_Stairs.uasset"
+[2020.06.09-16.12.36:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_Statue.uasset"
+[2020.06.09-16.12.36:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_TableRound.uasset"
+[2020.06.09-16.12.36:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2020.06.09-16.12.36:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2020.06.09-16.12.36:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2020.06.09-16.12.36:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2020.06.09-16.12.36:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2020.06.09-16.12.36:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2020.06.09-16.12.36:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2020.06.09-16.12.36:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2020.06.09-16.12.36:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2020.06.09-16.12.36:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2020.06.09-16.12.36:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2020.06.09-16.12.36:142][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2020.06.09-16.12.36:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2020.06.09-16.12.36:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2020.06.09-16.12.36:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2020.06.09-16.12.36:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2020.06.09-16.12.36:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2020.06.09-16.12.36:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2020.06.09-16.12.36:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2020.06.09-16.12.36:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2020.06.09-16.12.36:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2020.06.09-16.12.36:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2020.06.09-16.12.36:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2020.06.09-16.12.36:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2020.06.09-16.12.36:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2020.06.09-16.12.36:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2020.06.09-16.12.36:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2020.06.09-16.12.36:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2020.06.09-16.12.36:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2020.06.09-16.12.36:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2020.06.09-16.12.36:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2020.06.09-16.12.36:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2020.06.09-16.12.36:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2020.06.09-16.12.36:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2020.06.09-16.12.36:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2020.06.09-16.12.36:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2020.06.09-16.12.36:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2020.06.09-16.12.36:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2020.06.09-16.12.36:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2020.06.09-16.12.36:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2020.06.09-16.12.36:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2020.06.09-16.12.36:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2020.06.09-16.12.36:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2020.06.09-16.12.36:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2020.06.09-16.12.36:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2020.06.09-16.12.36:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2020.06.09-16.12.36:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2020.06.09-16.12.36:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2020.06.09-16.12.36:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2020.06.09-16.12.36:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2020.06.09-16.12.36:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2020.06.09-16.12.36:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2020.06.09-16.12.36:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2020.06.09-16.12.36:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2020.06.09-16.12.36:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2020.06.09-16.12.36:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2020.06.09-16.12.36:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2020.06.09-16.12.36:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2020.06.09-16.12.36:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2020.06.09-16.12.36:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2020.06.09-16.12.36:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2020.06.09-16.12.36:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2020.06.09-16.12.36:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2020.06.09-16.12.36:705][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2020.06.09-16.12.36:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2020.06.09-16.12.36:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2020.06.09-16.12.36:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2020.06.09-16.12.36:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2020.06.09-16.12.36:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2020.06.09-16.12.36:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2020.06.09-16.12.36:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2020.06.09-16.12.36:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Door_M.uasset"
+[2020.06.09-16.12.36:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Door_N.uasset"
+[2020.06.09-16.12.36:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2020.06.09-16.12.36:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2020.06.09-16.12.36:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2020.06.09-16.12.36:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2020.06.09-16.12.36:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2020.06.09-16.12.36:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2020.06.09-16.12.36:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2020.06.09-16.12.36:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2020.06.09-16.12.36:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2020.06.09-16.12.36:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2020.06.09-16.12.36:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2020.06.09-16.12.36:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2020.06.09-16.12.36:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2020.06.09-16.12.37:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2020.06.09-16.12.37:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2020.06.09-16.12.37:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2020.06.09-16.12.37:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2020.06.09-16.12.37:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2020.06.09-16.12.37:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2020.06.09-16.12.37:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2020.06.09-16.12.37:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2020.06.09-16.12.37:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2020.06.09-16.12.37:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2020.06.09-16.12.37:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2020.06.09-16.12.37:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2020.06.09-16.12.37:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2020.06.09-16.12.37:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2020.06.09-16.12.37:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2020.06.09-16.12.37:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2020.06.09-16.12.37:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2020.06.09-16.12.37:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2020.06.09-16.12.37:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2020.06.09-16.12.37:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2020.06.09-16.12.37:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2020.06.09-16.12.37:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2020.06.09-16.12.37:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2020.06.09-16.12.37:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2020.06.09-16.12.37:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2020.06.09-16.12.37:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2020.06.09-16.12.37:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2020.06.09-16.12.37:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2020.06.09-16.12.38:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2020.06.09-16.12.38:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2020.06.09-16.12.38:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2020.06.09-16.12.38:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2020.06.09-16.12.38:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2020.06.09-16.12.38:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2020.06.09-16.12.38:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2020.06.09-16.12.38:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2020.06.09-16.12.38:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2020.06.09-16.12.38:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2020.06.09-16.12.38:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Water_M.uasset"
+[2020.06.09-16.12.38:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Water_N.uasset"
+[2020.06.09-16.12.38:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2020.06.09-16.12.38:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2020.06.09-16.12.38:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2020.06.09-16.12.38:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2020.06.09-16.12.38:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2020.06.09-16.12.39:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2020.06.09-16.12.39:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2020.06.09-16.12.39:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2020.06.09-16.12.39:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2020.06.09-16.12.40:759][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2020.06.09-16.12.41:605][  0]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Floor_400x4006B44AC6C48D536250EF9D289616AC8EF.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2020.06.09-16.12.41:607][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2020.06.09-16.12.41:608][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.09-16.12.41:608][  0]LightingResults: New page: Lighting Build
+[2020.06.09-16.12.41:610][  0]MapCheck: New page: Map Check
+[2020.06.09-16.12.41:610][  0]LightingResults: New page: Lighting Build
+[2020.06.09-16.12.41:635][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.06.09-16.12.42:002][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2020.06.09-16.12.42:002][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2020.06.09-16.12.46:486][  0]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 2048X2048)
+[2020.06.09-16.12.46:486][  0]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 2048X2048)
+[2020.06.09-16.12.46:486][  0]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 64X64)
+[2020.06.09-16.12.46:486][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2020.06.09-16.12.46:486][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2020.06.09-16.12.46:486][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 2048X2048)
+[2020.06.09-16.12.46:486][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 2048X2048)
+[2020.06.09-16.12.46:486][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 64X64)
+[2020.06.09-16.12.46:486][  0]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2020.06.09-16.12.46:486][  0]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 2048X1024)
+[2020.06.09-16.12.46:486][  0]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 2048X1024)
+[2020.06.09-16.12.46:486][  0]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 2048X1024)
+[2020.06.09-16.12.46:486][  0]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 64X32)
+[2020.06.09-16.12.46:486][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X1024)
+[2020.06.09-16.12.46:486][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 1024X1024)
+[2020.06.09-16.12.46:486][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X1024)
+[2020.06.09-16.12.46:486][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 1024X1024)
+[2020.06.09-16.12.46:486][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 1024X1024)
+[2020.06.09-16.12.46:486][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 32X32)
+[2020.06.09-16.12.46:486][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X1024)
+[2020.06.09-16.12.46:486][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X1024)
+[2020.06.09-16.12.46:487][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.06.09-16.12.46:506][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.09-16.12.46:538][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.06.09-16.12.46:538][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.09-16.12.46:538][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.094ms to complete.
+[2020.06.09-16.12.46:538][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 4.930
+[2020.06.09-16.12.46:740][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-16.12.46:749][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-16.12.46:757][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-16.12.46:765][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-16.12.46:778][  0]LogCollectionManager: Loaded 0 collections in 0.000778 seconds
+[2020.06.09-16.12.46:852][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Collections/' took 0.01s
+[2020.06.09-16.12.46:852][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Developers/Antonio/Collections/' took 0.01s
+[2020.06.09-16.12.46:852][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Collections/' took 0.01s
+[2020.06.09-16.12.46:852][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.06.09-16.12.46:867][  0]LogContentBrowser: Native class hierarchy populated in 0.0112 seconds. Added 2732 classes and 659 folders.
+[2020.06.09-16.12.46:978][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.06.09-16.12.46:979][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.09-16.12.46:979][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.09-16.12.46:980][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.09-16.12.46:980][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.09-16.12.46:980][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.09-16.12.46:981][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.09-16.12.46:981][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.09-16.12.46:981][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.09-16.12.46:982][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.09-16.12.46:982][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.09-16.12.46:982][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.09-16.12.46:983][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.09-16.12.46:983][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.09-16.12.46:983][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.09-16.12.46:984][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.09-16.12.46:984][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.09-16.12.46:984][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.09-16.12.46:985][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.09-16.12.46:985][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.09-16.12.46:985][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.09-16.12.46:986][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.09-16.12.46:986][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.09-16.12.46:986][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.09-16.12.46:987][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.09-16.12.46:987][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.09-16.12.46:988][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.09-16.12.47:004][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.06.09-16.12.47:039][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.06.09-16.12.47:371][  0]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.09-16.12.47:374][  0]LogSlate: Took 0.000102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.06.09-16.12.47:383][  0]LogSlate: Took 0.001396 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.06.09-16.12.47:446][  0]LogRenderer: Reallocating scene render targets to support 1108x640 Format 10 NumSamples 1 (Frame:1).
+[2020.06.09-16.12.47:504][  0]LogSlate: Took 0.000105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.09-16.12.47:602][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.06.09-16.12.47:602][  0]LogLoad: (Engine Initialization) Total time: 19.07 seconds
+[2020.06.09-16.12.47:602][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.06.09-16.12.47:654][  0]LogAssetRegistry: Asset discovery search completed in 15.9998 seconds
+[2020.06.09-16.12.47:657][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.06.09-16.12.47:657][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000119 seconds (updated 0 objects)
+[2020.06.09-16.12.47:722][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.06.09-16.28.42:288][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.06.09-16.28.48:484][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2020.06.09-16.28.51:186][393]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall)
+[2020.06.09-16.28.52:125][447]Cmd: DELETE
+[2020.06.09-16.28.52:125][447]Cmd: ACTOR DELETE
+[2020.06.09-16.28.52:135][447]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.09-16.28.52:163][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.06.09-16.28.52:164][447]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2020.06.09-16.28.52:566][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2020.06.09-16.28.52:839][485]Cmd: DELETE
+[2020.06.09-16.28.52:839][485]Cmd: ACTOR DELETE
+[2020.06.09-16.28.52:840][485]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.09-16.28.52:865][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.06.09-16.28.52:865][485]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.06.09-16.28.53:649][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2020.06.09-16.28.53:854][542]Cmd: DELETE
+[2020.06.09-16.28.53:854][542]Cmd: ACTOR DELETE
+[2020.06.09-16.28.53:856][542]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.09-16.28.53:881][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.06.09-16.28.53:881][542]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.06.09-16.28.54:248][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2020.06.09-16.28.54:650][586]Cmd: DELETE
+[2020.06.09-16.28.54:650][586]Cmd: ACTOR DELETE
+[2020.06.09-16.28.54:652][586]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.09-16.28.54:679][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.06.09-16.28.54:680][586]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.06.09-16.28.55:364][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2020.06.09-16.28.55:618][640]Cmd: DELETE
+[2020.06.09-16.28.55:618][640]Cmd: ACTOR DELETE
+[2020.06.09-16.28.55:619][640]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.09-16.28.55:645][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.06.09-16.28.55:646][640]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.06.09-16.28.56:378][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube11)
+[2020.06.09-16.28.56:549][692]Cmd: DELETE
+[2020.06.09-16.28.56:549][692]Cmd: ACTOR DELETE
+[2020.06.09-16.28.56:550][692]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.09-16.28.56:577][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.06.09-16.28.56:577][692]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.06.09-16.28.56:942][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube8)
+[2020.06.09-16.28.57:157][725]Cmd: DELETE
+[2020.06.09-16.28.57:157][725]Cmd: ACTOR DELETE
+[2020.06.09-16.28.57:159][725]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.09-16.28.57:180][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.06.09-16.28.57:180][725]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2020.06.09-16.28.57:654][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube9)
+[2020.06.09-16.28.57:776][759]Cmd: DELETE
+[2020.06.09-16.28.57:776][759]Cmd: ACTOR DELETE
+[2020.06.09-16.28.57:777][759]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.09-16.28.57:802][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.06.09-16.28.57:803][759]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.06.09-16.28.58:084][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube10)
+[2020.06.09-16.28.58:221][782]Cmd: DELETE
+[2020.06.09-16.28.58:221][782]Cmd: ACTOR DELETE
+[2020.06.09-16.28.58:222][782]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.09-16.28.58:246][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.06.09-16.28.58:247][782]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.06.09-16.28.58:529][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube14)
+[2020.06.09-16.28.58:647][804]Cmd: DELETE
+[2020.06.09-16.28.58:647][804]Cmd: ACTOR DELETE
+[2020.06.09-16.28.58:648][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.09-16.28.58:673][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.06.09-16.28.58:674][804]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.06.09-16.28.59:088][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube13)
+[2020.06.09-16.28.59:257][837]Cmd: DELETE
+[2020.06.09-16.28.59:257][837]Cmd: ACTOR DELETE
+[2020.06.09-16.28.59:258][837]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.09-16.28.59:283][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.06.09-16.28.59:283][837]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.06.09-16.28.59:648][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube12)
+[2020.06.09-16.28.59:782][865]Cmd: DELETE
+[2020.06.09-16.28.59:782][865]Cmd: ACTOR DELETE
+[2020.06.09-16.28.59:784][865]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.09-16.28.59:810][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.06.09-16.28.59:810][865]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.06.09-16.29.00:110][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2020.06.09-16.29.00:196][886]Cmd: DELETE
+[2020.06.09-16.29.00:196][886]Cmd: ACTOR DELETE
+[2020.06.09-16.29.00:198][886]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.09-16.29.00:222][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.06.09-16.29.00:222][886]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.06.09-16.29.00:930][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube17)
+[2020.06.09-16.29.01:019][932]Cmd: DELETE
+[2020.06.09-16.29.01:019][932]Cmd: ACTOR DELETE
+[2020.06.09-16.29.01:020][932]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.09-16.29.01:046][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.06.09-16.29.01:046][932]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.06.09-16.29.01:327][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube15)
+[2020.06.09-16.29.01:463][955]Cmd: DELETE
+[2020.06.09-16.29.01:463][955]Cmd: ACTOR DELETE
+[2020.06.09-16.29.01:465][955]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.09-16.29.01:488][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.06.09-16.29.01:489][955]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.06.09-16.29.01:886][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube16)
+[2020.06.09-16.29.01:956][981]Cmd: DELETE
+[2020.06.09-16.29.01:956][981]Cmd: ACTOR DELETE
+[2020.06.09-16.29.01:958][981]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.09-16.29.01:982][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.06.09-16.29.01:983][981]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.06.09-16.29.02:266][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube21)
+[2020.06.09-16.29.02:384][  3]Cmd: DELETE
+[2020.06.09-16.29.02:384][  3]Cmd: ACTOR DELETE
+[2020.06.09-16.29.02:386][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.09-16.29.02:412][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.06.09-16.29.02:412][  3]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.06.09-16.29.02:728][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube20)
+[2020.06.09-16.29.02:846][ 27]Cmd: DELETE
+[2020.06.09-16.29.02:846][ 27]Cmd: ACTOR DELETE
+[2020.06.09-16.29.02:847][ 27]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.09-16.29.02:870][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.06.09-16.29.02:870][ 27]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.06.09-16.29.03:088][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube19)
+[2020.06.09-16.29.03:223][ 46]Cmd: DELETE
+[2020.06.09-16.29.03:224][ 46]Cmd: ACTOR DELETE
+[2020.06.09-16.29.03:225][ 46]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.09-16.29.03:251][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.06.09-16.29.03:252][ 46]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.06.09-16.29.03:817][ 80]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.06.09-16.29.03:886][ 82]Cmd: DELETE
+[2020.06.09-16.29.03:886][ 82]Cmd: ACTOR DELETE
+[2020.06.09-16.29.03:889][ 82]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.09-16.29.03:913][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.06.09-16.29.03:913][ 82]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.06.09-16.29.04:812][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube18)
+[2020.06.09-16.29.04:912][140]Cmd: DELETE
+[2020.06.09-16.29.04:912][140]Cmd: ACTOR DELETE
+[2020.06.09-16.29.04:913][140]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.09-16.29.04:939][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.06.09-16.29.04:940][140]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.06.09-16.29.11:076][508]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2020.06.09-16.29.15:244][749]Cmd: DELETE
+[2020.06.09-16.29.15:244][749]Cmd: ACTOR DELETE
+[2020.06.09-16.29.15:246][749]LogEditorActor: Deleted Actor: FirstPersonCharacter_C
+[2020.06.09-16.29.15:297][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.06.09-16.29.15:297][749]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2020.06.09-16.29.32:729][992]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.09-16.29.41:823][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.06.09-16.29.41:951][ 19]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/FirstPersonExampleMap_Auto1C591B209497923BA6FB40AA8A7805D3D.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2020.06.09-16.29.41:955][ 19]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.152
+[2020.06.09-16.29.41:955][ 19]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.152
+[2020.06.09-16.39.54:855][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.09-16.40.15:693][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
