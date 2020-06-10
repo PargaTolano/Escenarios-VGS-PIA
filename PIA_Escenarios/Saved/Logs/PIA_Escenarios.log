@@ -2430,3 +2430,1148 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.10-13.59.16:470][  2]BlueprintLog: New page: Compile FPSOWN
 [2020.06.10-13.59.16:721][  2]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
 [2020.06.10-13.59.17:161][  8]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/FPSOWN502BBF824316D501EC32BB853D7F5297.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FPS_OWN_BP/Blueprints/FPSOWN.uasset'
+[2020.06.10-14.28.25:355][317]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.10-14.28.25:374][317]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.28.25:375][317]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.10-14.28.25:375][317]PIE: New page: PIE session: FinalMap (Jun 10, 2020, 4:28:25 AM)
+[2020.06.10-14.28.25:375][317]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_FinalMap
+[2020.06.10-14.28.25:420][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045698s)
+[2020.06.10-14.28.25:422][317]LogAIModule: Creating AISystem for world FinalMap
+[2020.06.10-14.28.25:423][317]LogPlayLevel: PIE: World Init took: (0.002103s)
+[2020.06.10-14.28.25:423][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/FinalMap.FinalMap to /Game/levels/UEDPIE_0_FinalMap.FinalMap (0.048256s)
+[2020.06.10-14.28.25:463][317]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.06.10-14.28.25:473][317]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.10-14.28.25:490][317]LogInit: FAudioDevice initialized.
+[2020.06.10-14.28.25:525][317]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.10-14.28.25:531][317]LogWorld: Bringing World /Game/levels/UEDPIE_0_FinalMap.FinalMap up for play (max tick rate 60) at 2020.06.10-09.28.25
+[2020.06.10-14.28.25:532][317]LogWorld: Bringing up level for play took: 0.005930
+[2020.06.10-14.28.25:544][317]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.06.10-14.28.25:546][317]PIE: Play in editor start time for /Game/levels/UEDPIE_0_FinalMap -0.56
+[2020.06.10-14.28.25:546][317]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.29.52:459][524]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.29.52:459][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-14.29.52:492][524]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.10-14.29.52:492][524]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.29.52:536][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-14.29.52:542][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.06.10-14.29.52:619][525]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2020.06.10-14.30.32:601][854]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.10-14.30.53:296][355]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.06.10-14.31.01:870][861]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.06.10-14.31.10:044][951]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Antonio/Downloads/HUD.png)
+[2020.06.10-14.31.10:095][951]LogTexture: Display: Building textures: HUD (AutoDXT, 1920X1080)
+[2020.06.10-14.31.11:650][ 23]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/hud/HUD.HUD
+[2020.06.10-14.31.11:676][ 23]LogBlueprintActionDatabase: Requesting refresh due to module change: TextureEditor (loaded)
+[2020.06.10-14.31.11:676][ 23]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.06.10-14.31.21:867][591]LogSlate: Window 'HUD' being destroyed
+[2020.06.10-14.31.21:875][591]LogSlate: Window 'HUD' being destroyed
+[2020.06.10-14.32.25:336][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/hud/INGAME_HUD" FILE="../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/hud/INGAME_HUD.uasset" SILENT=true
+[2020.06.10-14.32.25:344][ 18]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/INGAME_HUD8D2B9F2E41E4351DF21381A9C6D9030F.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/hud/INGAME_HUD.uasset'
+[2020.06.10-14.32.25:812][ 45]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/hud/INGAME_HUD.INGAME_HUD
+[2020.06.10-14.32.26:265][ 45]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2020.06.10-14.32.58:835][919]LogEditorTransaction: Undo Resize Widget
+[2020.06.10-14.35.40:194][258]BlueprintLog: New page: Compile INGAME_HUD
+[2020.06.10-14.35.40:626][258]LogUObjectHash: Compacting FUObjectHashTables data took   9.90ms
+[2020.06.10-14.35.47:471][662]BlueprintLog: New page: Compile INGAME_HUD
+[2020.06.10-14.35.47:568][662]LogUObjectHash: Compacting FUObjectHashTables data took   6.06ms
+[2020.06.10-14.36.19:859][559]BlueprintLog: New page: Compile INGAME_HUD
+[2020.06.10-14.36.19:902][559]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2020.06.10-14.36.24:078][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/hud/INGAME_HUD" FILE="../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/hud/INGAME_HUD.uasset" SILENT=true
+[2020.06.10-14.36.24:091][790]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/INGAME_HUDE73D321344B48F4C2DEC21A474105B54.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/hud/INGAME_HUD.uasset'
+[2020.06.10-14.36.24:832][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/hud/HUD" FILE="../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/hud/HUD.uasset" SILENT=true
+[2020.06.10-14.36.24:927][832]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/HUD5A3CE3CB48D74E89BAF3ED9B146006E4.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/hud/HUD.uasset'
+[2020.06.10-14.36.31:703][232]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FPS_OWN_BP/Blueprints/FPSOWN.FPSOWN
+[2020.06.10-14.36.32:048][232]LogSlate: Window 'Color Picker' being destroyed
+[2020.06.10-14.36.47:877][103]BlueprintLog: New page: Compile FPSOWN
+[2020.06.10-14.36.48:143][103]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2020.06.10-14.36.53:788][411]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap
+[2020.06.10-14.37.22:596][ 61]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.06.10-14.37.39:675][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2020.06.10-14.37.40:201][ 72]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/FinalMap308C5690420C5F884BA7B3B961402E13.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/levels/FinalMap.umap'
+[2020.06.10-14.37.40:224][ 72]LogFileHelpers: Saving map 'FinalMap' took 0.597
+[2020.06.10-14.37.48:004][525]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2020.06.10-14.37.48:526][525]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/FinalMap20A53C78474E938B645699996357F65D.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/levels/FinalMap.umap'
+[2020.06.10-14.37.48:546][525]LogFileHelpers: Saving map 'FinalMap' took 0.585
+[2020.06.10-14.37.51:142][670]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.06.10-14.37.51:667][670]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/FinalMap0E192F0444EC464915A69E808C382841.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/levels/FinalMap.umap'
+[2020.06.10-14.37.51:688][670]LogFileHelpers: Saving map 'FinalMap' took 0.590
+[2020.06.10-14.38.51:797][914]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.10-14.38.51:825][914]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.38.51:825][914]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.10-14.38.51:825][914]PIE: New page: PIE session: FinalMap (Jun 10, 2020, 4:38:51 AM)
+[2020.06.10-14.38.51:825][914]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_FinalMap
+[2020.06.10-14.38.51:869][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044317s)
+[2020.06.10-14.38.51:871][914]LogAIModule: Creating AISystem for world FinalMap
+[2020.06.10-14.38.51:872][914]LogPlayLevel: PIE: World Init took: (0.002087s)
+[2020.06.10-14.38.51:872][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/FinalMap.FinalMap to /Game/levels/UEDPIE_0_FinalMap.FinalMap (0.046605s)
+[2020.06.10-14.38.51:927][914]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2020.06.10-14.38.51:939][914]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.10-14.38.51:959][914]LogInit: FAudioDevice initialized.
+[2020.06.10-14.38.51:989][914]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.10-14.38.51:994][914]LogWorld: Bringing World /Game/levels/UEDPIE_0_FinalMap.FinalMap up for play (max tick rate 60) at 2020.06.10-09.38.51
+[2020.06.10-14.38.51:995][914]LogWorld: Bringing up level for play took: 0.005640
+[2020.06.10-14.38.52:009][914]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.06.10-14.38.52:013][914]PIE: Play in editor start time for /Game/levels/UEDPIE_0_FinalMap -0.094
+[2020.06.10-14.38.52:013][914]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.38.57:052][212]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.38.57:052][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-14.38.57:092][212]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.10-14.38.57:092][212]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.38.57:137][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-14.38.57:144][212]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.06.10-14.38.57:218][213]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2020.06.10-14.38.59:639][294]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.10-14.39.56:733][954]BlueprintLog: New page: Compile FinalMap
+[2020.06.10-14.39.56:973][954]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2020.06.10-14.39.59:008][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.40.20:272][334]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PhoenyxAnimPack3/Animations/animSweepFloor1.animSweepFloor1
+[2020.06.10-14.40.20:272][334]LogAnimationCompression: Recompressing (AnimSequence /Game/PhoenyxAnimPack3/Animations/animSweepFloor1.animSweepFloor1) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.10-14.40.20:281][334]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/PhoenyxAnimPack3/Animations/animSweepFloor1.animSweepFloor1
+[2020.06.10-14.40.20:655][334]LogTexture: Display: Building textures: UE4Man_Logo_N (BC5, 512X512)
+[2020.06.10-14.40.20:655][334]LogTexture: Display: Building textures: T_ML_Aluminum01_N (BC5, 512X512)
+[2020.06.10-14.40.20:655][334]LogTexture: Display: Building textures: T_ML_Aluminum01 (AutoDXT, 512X512)
+[2020.06.10-14.40.20:655][334]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_N (BC5, 512X512)
+[2020.06.10-14.40.20:655][334]LogTexture: Display: Building textures: UE4_Mannequin__normals (BC5, 2048X2048)
+[2020.06.10-14.40.20:655][334]LogTexture: Display: Building textures: UE4_Mannequin_occlusion (AutoDXT, 512X512)
+[2020.06.10-14.40.20:655][334]LogTexture: Display: Building textures: UE4_Mannequin_MAT_MASKA (AutoDXT, 1024X1024)
+[2020.06.10-14.40.21:029][334]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.06.10-14.40.21:089][334]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.06.10-14.40.21:147][334]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2020.06.10-14.40.21:204][334]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/PhoenyxAnimPack3/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2020.06.10-14.40.21:232][334]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_80:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.10-14.40.21:258][334]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_80:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.06.10-14.40.23:997][432]LogSlate: Window 'animSweepFloor1' being destroyed
+[2020.06.10-14.40.24:001][432]LogSlate: Window 'animSweepFloor1' being destroyed
+[2020.06.10-14.40.24:856][449]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PhoenyxAnimPack3/Animations/animUseMonitorSit2.animUseMonitorSit2
+[2020.06.10-14.40.24:857][449]LogAnimationCompression: Recompressing (AnimSequence /Game/PhoenyxAnimPack3/Animations/animUseMonitorSit2.animUseMonitorSit2) using current/default (AnimCompress_BitwiseCompressOnly_12) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.10-14.40.24:864][449]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/PhoenyxAnimPack3/Animations/animUseMonitorSit2.animUseMonitorSit2
+[2020.06.10-14.40.24:880][449]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_83:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.10-14.40.24:910][449]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_83:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.06.10-14.40.26:999][539]LogShaderCompilers: Display: Shaders left to compile 220
+[2020.06.10-14.40.27:824][584]LogSlate: Window 'animUseMonitorSit2' being destroyed
+[2020.06.10-14.40.27:830][584]LogSlate: Window 'animUseMonitorSit2' being destroyed
+[2020.06.10-14.40.27:935][584]LogShaderCompilers: Display: Shaders left to compile 210
+[2020.06.10-14.40.28:670][619]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PhoenyxAnimPack3/Animations/animUseTabletStand3.animUseTabletStand3
+[2020.06.10-14.40.28:670][619]LogAnimationCompression: Recompressing (AnimSequence /Game/PhoenyxAnimPack3/Animations/animUseTabletStand3.animUseTabletStand3) using current/default (AnimCompress_BitwiseCompressOnly_18) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.10-14.40.28:679][619]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/PhoenyxAnimPack3/Animations/animUseTabletStand3.animUseTabletStand3
+[2020.06.10-14.40.28:698][619]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_86:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.10-14.40.28:727][619]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_86:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.06.10-14.40.28:843][619]LogShaderCompilers: Display: Shaders left to compile 200
+[2020.06.10-14.40.31:953][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.40.32:039][771]LogSlate: Window 'animUseTabletStand3' being destroyed
+[2020.06.10-14.40.32:043][771]LogSlate: Window 'animUseTabletStand3' being destroyed
+[2020.06.10-14.40.33:289][819]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PhoenyxAnimPack3/Animations/animUseTabletStand2.animUseTabletStand2
+[2020.06.10-14.40.33:290][819]LogAnimationCompression: Recompressing (AnimSequence /Game/PhoenyxAnimPack3/Animations/animUseTabletStand2.animUseTabletStand2) using current/default (AnimCompress_BitwiseCompressOnly_17) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.10-14.40.33:299][819]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/PhoenyxAnimPack3/Animations/animUseTabletStand2.animUseTabletStand2
+[2020.06.10-14.40.33:316][819]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.10-14.40.33:343][819]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.06.10-14.40.36:742][965]LogShaderCompilers: Display: Shaders left to compile 190
+[2020.06.10-14.40.37:016][976]LogShaderCompilers: Display: Shaders left to compile 180
+[2020.06.10-14.40.37:036][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.40.37:121][982]LogSlate: Window 'animUseTabletStand2' being destroyed
+[2020.06.10-14.40.37:128][982]LogSlate: Window 'animUseTabletStand2' being destroyed
+[2020.06.10-14.40.38:127][ 19]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PhoenyxAnimPack3/Animations/animUseTabletSit3.animUseTabletSit3
+[2020.06.10-14.40.38:127][ 19]LogAnimationCompression: Recompressing (AnimSequence /Game/PhoenyxAnimPack3/Animations/animUseTabletSit3.animUseTabletSit3) using current/default (AnimCompress_BitwiseCompressOnly_15) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.10-14.40.38:137][ 19]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/PhoenyxAnimPack3/Animations/animUseTabletSit3.animUseTabletSit3
+[2020.06.10-14.40.38:156][ 19]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_92:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.10-14.40.38:185][ 19]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_92:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.06.10-14.40.40:403][117]LogSlate: Window 'animUseTabletSit3' being destroyed
+[2020.06.10-14.40.40:409][117]LogSlate: Window 'animUseTabletSit3' being destroyed
+[2020.06.10-14.40.40:730][120]LogShaderCompilers: Display: Shaders left to compile 170
+[2020.06.10-14.40.43:342][253]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PhoenyxAnimPack3/Animations/animUseKeyboardSit1.animUseKeyboardSit1
+[2020.06.10-14.40.43:342][253]LogAnimationCompression: Recompressing (AnimSequence /Game/PhoenyxAnimPack3/Animations/animUseKeyboardSit1.animUseKeyboardSit1) using current/default (AnimCompress_BitwiseCompressOnly_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.10-14.40.43:351][253]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/PhoenyxAnimPack3/Animations/animUseKeyboardSit1.animUseKeyboardSit1
+[2020.06.10-14.40.43:368][253]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_95:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.10-14.40.43:398][253]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_95:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.06.10-14.40.43:785][253]LogShaderCompilers: Display: Shaders left to compile 160
+[2020.06.10-14.40.45:791][357]LogSlate: Window 'animUseKeyboardSit1' being destroyed
+[2020.06.10-14.40.45:799][357]LogSlate: Window 'animUseKeyboardSit1' being destroyed
+[2020.06.10-14.40.46:582][378]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PhoenyxAnimPack3/Animations/animSwimUnderwater2.animSwimUnderwater2
+[2020.06.10-14.40.46:582][378]LogAnimationCompression: Recompressing (AnimSequence /Game/PhoenyxAnimPack3/Animations/animSwimUnderwater2.animSwimUnderwater2) using current/default (AnimCompress_BitwiseCompressOnly_7) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.10-14.40.46:590][378]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/PhoenyxAnimPack3/Animations/animSwimUnderwater2.animSwimUnderwater2
+[2020.06.10-14.40.46:607][378]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_98:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.10-14.40.46:635][378]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_98:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.06.10-14.40.49:901][521]LogShaderCompilers: Display: Shaders left to compile 150
+[2020.06.10-14.40.50:036][526]LogShaderCompilers: Display: Shaders left to compile 140
+[2020.06.10-14.40.50:144][532]LogShaderCompilers: Display: Shaders left to compile 130
+[2020.06.10-14.40.53:479][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.40.53:564][721]LogSlate: Window 'animSwimUnderwater2' being destroyed
+[2020.06.10-14.40.53:571][721]LogSlate: Window 'animSwimUnderwater2' being destroyed
+[2020.06.10-14.40.55:401][805]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PhoenyxAnimPack3/Animations/animSwimSurfacewater.animSwimSurfacewater
+[2020.06.10-14.40.55:401][805]LogAnimationCompression: Recompressing (AnimSequence /Game/PhoenyxAnimPack3/Animations/animSwimSurfacewater.animSwimSurfacewater) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.10-14.40.55:411][805]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/PhoenyxAnimPack3/Animations/animSwimSurfacewater.animSwimSurfacewater
+[2020.06.10-14.40.55:427][805]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_101:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.10-14.40.55:456][805]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_101:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.06.10-14.40.56:786][831]LogShaderCompilers: Display: Shaders left to compile 120
+[2020.06.10-14.40.58:638][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.40.58:733][936]LogSlate: Window 'animSwimSurfacewater' being destroyed
+[2020.06.10-14.40.58:739][936]LogSlate: Window 'animSwimSurfacewater' being destroyed
+[2020.06.10-14.40.58:961][936]LogShaderCompilers: Display: Shaders left to compile 110
+[2020.06.10-14.40.59:700][971]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PhoenyxAnimPack3/Animations/animSwimIdle.animSwimIdle
+[2020.06.10-14.40.59:700][971]LogAnimationCompression: Recompressing (AnimSequence /Game/PhoenyxAnimPack3/Animations/animSwimIdle.animSwimIdle) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.10-14.40.59:710][971]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/PhoenyxAnimPack3/Animations/animSwimIdle.animSwimIdle
+[2020.06.10-14.40.59:727][971]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_104:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.10-14.40.59:757][971]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_104:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.06.10-14.41.01:751][ 38]LogSlate: Window 'animSwimIdle' being destroyed
+[2020.06.10-14.41.01:758][ 38]LogSlate: Window 'animSwimIdle' being destroyed
+[2020.06.10-14.41.01:943][ 38]LogShaderCompilers: Display: Shaders left to compile 100
+[2020.06.10-14.41.02:794][ 76]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PhoenyxAnimPack3/Animations/animSweepFloor2.animSweepFloor2
+[2020.06.10-14.41.02:794][ 76]LogAnimationCompression: Recompressing (AnimSequence /Game/PhoenyxAnimPack3/Animations/animSweepFloor2.animSweepFloor2) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.10-14.41.02:802][ 76]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/PhoenyxAnimPack3/Animations/animSweepFloor2.animSweepFloor2
+[2020.06.10-14.41.02:820][ 76]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.10-14.41.02:849][ 76]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.06.10-14.41.03:127][ 76]LogShaderCompilers: Display: Shaders left to compile 90
+[2020.06.10-14.41.04:731][137]LogSlate: Window 'animSweepFloor2' being destroyed
+[2020.06.10-14.41.04:739][137]LogSlate: Window 'animSweepFloor2' being destroyed
+[2020.06.10-14.41.04:866][137]LogShaderCompilers: Display: Shaders left to compile 80
+[2020.06.10-14.41.09:074][355]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Aim_Space_Hip.Aim_Space_Hip
+[2020.06.10-14.41.09:092][355]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.10-14.41.09:122][355]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.06.10-14.41.09:741][364]LogShaderCompilers: Display: Shaders left to compile 70
+[2020.06.10-14.41.10:260][379]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.06.10-14.41.11:592][444]LogSlate: Window 'Aim_Space_Hip' being destroyed
+[2020.06.10-14.41.11:601][444]LogSlate: Window 'Aim_Space_Hip' being destroyed
+[2020.06.10-14.41.12:476][462]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Aim_Space_Ironsights.Aim_Space_Ironsights
+[2020.06.10-14.41.12:493][462]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_113:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.10-14.41.12:521][462]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_113:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.06.10-14.41.13:897][509]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.06.10-14.41.15:366][577]LogSlate: Window 'Aim_Space_Ironsights' being destroyed
+[2020.06.10-14.41.15:375][577]LogSlate: Window 'Aim_Space_Ironsights' being destroyed
+[2020.06.10-14.41.18:708][753]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_1.Death_1
+[2020.06.10-14.41.18:709][753]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Death_1.Death_1) using current/default (AnimCompress_BitwiseCompressOnly_14) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.10-14.41.18:718][753]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Death_1.Death_1
+[2020.06.10-14.41.18:734][753]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_116:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.10-14.41.18:762][753]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_116:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.06.10-14.41.19:160][753]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.06.10-14.41.23:018][952]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_2.Death_2
+[2020.06.10-14.41.23:018][952]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Death_2.Death_2) using current/default (AnimCompress_BitwiseCompressOnly_15) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.10-14.41.23:037][952]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Death_2.Death_2
+[2020.06.10-14.41.23:573][968]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.06.10-14.41.25:801][ 79]LogSlate: Window 'Death_2' being destroyed
+[2020.06.10-14.41.25:809][ 79]LogSlate: Window 'Death_2' being destroyed
+[2020.06.10-14.41.26:193][ 82]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.06.10-14.41.26:818][116]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_3.Death_3
+[2020.06.10-14.41.26:818][116]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Death_3.Death_3) using current/default (AnimCompress_BitwiseCompressOnly_16) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.10-14.41.26:826][116]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Death_3.Death_3
+[2020.06.10-14.41.26:843][116]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_120:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.10-14.41.26:872][116]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_120:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.06.10-14.41.27:768][141]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.06.10-14.41.29:260][218]LogSlate: Window 'Death_3' being destroyed
+[2020.06.10-14.41.29:268][218]LogSlate: Window 'Death_3' being destroyed
+[2020.06.10-14.41.30:582][275]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_Ironsights_1.Death_Ironsights_1
+[2020.06.10-14.41.30:582][275]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Death_Ironsights_1.Death_Ironsights_1) using current/default (AnimCompress_BitwiseCompressOnly_17) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.10-14.41.30:634][275]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Death_Ironsights_1.Death_Ironsights_1
+[2020.06.10-14.41.30:652][275]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_123:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.10-14.41.30:680][275]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_123:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.06.10-14.41.34:997][491]LogSlate: Window 'Death_Ironsights_1' being destroyed
+[2020.06.10-14.41.35:005][491]LogSlate: Window 'Death_Ironsights_1' being destroyed
+[2020.06.10-14.41.36:524][555]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Equip_Pistol_Standing.Equip_Pistol_Standing
+[2020.06.10-14.41.36:539][555]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_126:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.10-14.41.36:569][555]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_126:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.06.10-14.41.49:757][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.41.49:841][258]LogSlate: Window 'Equip_Pistol_Standing' being destroyed
+[2020.06.10-14.41.49:847][258]LogSlate: Window 'Equip_Pistol_Standing' being destroyed
+[2020.06.10-14.41.53:410][432]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.06.10-14.41.55:646][561]LogSlate: Window 'Select Skeleton' being destroyed
+[2020.06.10-14.42.07:464][258]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/PolygonWestern/Content/PolygonWestern/Meshes/Characters/SK_Character_Badguy_01_Skeleton.SK_Character_Badguy_01_Skeleton
+[2020.06.10-14.42.07:479][258]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_131:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.10-14.42.15:687][712]LogSlate: Window 'Retarget Manager' being destroyed
+[2020.06.10-14.42.15:693][712]LogSlate: Window 'Retarget Manager' being destroyed
+[2020.06.10-14.42.18:298][857]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/SK_Character_Badguy_01_Skeleton2D8F33564041CE82A7B10DAEE4DC0A1C.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Characters/SK_Character_Badguy_01_Skeleton.uasset'
+[2020.06.10-14.42.24:667][228]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Equip_Pistol_Standing.Equip_Pistol_Standing
+[2020.06.10-14.42.24:682][228]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_132:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.10-14.42.24:704][228]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_132:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.06.10-14.42.27:158][325]LogSlate: Window 'Equip_Pistol_Standing' being destroyed
+[2020.06.10-14.42.27:165][325]LogSlate: Window 'Equip_Pistol_Standing' being destroyed
+[2020.06.10-14.42.32:252][596]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.06.10-14.42.42:010][174]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CrazyClayEquip_Pistol_Standing.CrazyClayEquip_Pistol_Standing
+[2020.06.10-14.42.42:010][174]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.CrazyClayEquip_Pistol_Standing) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.10-14.42.42:011][174]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CrazyClayEquip_Pistol_Standing.CrazyClayEquip_Pistol_Standing
+[2020.06.10-14.42.42:012][174]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.CrazyClayEquip_Pistol_Standing) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.10-14.42.42:016][174]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CrazyClayEquip_Pistol_Standing.CrazyClayEquip_Pistol_Standing
+[2020.06.10-14.42.42:017][174]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.CrazyClayEquip_Pistol_Standing) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.10-14.42.42:018][174]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CrazyClayEquip_Pistol_Standing.CrazyClayEquip_Pistol_Standing
+[2020.06.10-14.42.42:019][174]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.CrazyClayEquip_Pistol_Standing) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.10-14.42.42:023][174]LogSlate: Window 'Select Skeleton' being destroyed
+[2020.06.10-14.42.43:475][243]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/CrazyClayEquip_Pistol_Standing.CrazyClayEquip_Pistol_Standing
+[2020.06.10-14.42.43:494][243]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_137:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.10-14.43.34:312][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.45.17:717][884]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.10-14.45.17:761][884]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/CrazyClayEquip_Pistol_StandingB279199F46279019435CEF93DF475390.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/CrazyClayEquip_Pistol_Standing.uasset'
+[2020.06.10-14.45.18:640][935]LogSlate: Window 'CrazyClayEquip_Pistol_Standing' being destroyed
+[2020.06.10-14.45.18:647][935]LogSlate: Window 'CrazyClayEquip_Pistol_Standing' being destroyed
+[2020.06.10-14.45.22:012][107]Cmd: TRANSACTION UNDO
+[2020.06.10-14.45.22:012][107]LogEditorTransaction: Undo Move Actors
+[2020.06.10-14.45.25:361][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.45.30:093][586]LogActorFactory: Actor Factory created Plane
+[2020.06.10-14.45.30:856][628]LogActorFactory: Actor Factory created Plane
+[2020.06.10-14.46.00:846][242]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (CrazyClayEquip_Pistol_Standing)
+[2020.06.10-14.46.02:004][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.46.04:815][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.06.10-14.46.15:522][106]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.10-14.46.17:120][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.46.22:424][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.06.10-14.46.31:696][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.46.41:418][624]LogAssetEditorManager: Opening Asset editor for Material /Game/greenscreen.greenscreen
+[2020.06.10-14.46.41:427][624]LogMaterial: Display: Missing cached shader map for material greenscreen, compiling. 
+[2020.06.10-14.46.41:539][624]LogMaterial: Display: Missing cached shader map for material greenscreen, compiling. 
+[2020.06.10-14.46.41:557][624]LogMaterial: Display: Missing cached shader map for material greenscreen, compiling. 
+[2020.06.10-14.46.41:582][624]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.06.10-14.46.45:487][819]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.06.10-14.46.51:112][133]LogMaterial: Display: Missing cached shader map for material greenscreen, compiling. 
+[2020.06.10-14.46.51:130][133]LogMaterial: Display: Missing cached shader map for material greenscreen, compiling. 
+[2020.06.10-14.46.51:870][174]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.06.10-14.46.54:319][315]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.06.10-14.46.59:786][630]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.06.10-14.46.59:786][630]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.06.10-14.46.59:786][630]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.06.10-14.46.59:786][630]MaterialEditorStats: Texture samplers: 3/16
+[2020.06.10-14.47.02:347][782]LogMaterial: Display: Missing cached shader map for material greenscreen, compiling. 
+[2020.06.10-14.47.02:389][783]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.06.10-14.47.04:620][908]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.06.10-14.47.08:322][119]LogMaterial: Display: Missing cached shader map for material greenscreen, compiling. 
+[2020.06.10-14.47.08:339][119]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.06.10-14.47.08:347][119]LogMaterial: Display: Missing cached shader map for material greenscreen, compiling. 
+[2020.06.10-14.47.08:389][119]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.06.10-14.47.09:960][203]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.06.10-14.47.12:977][377]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.06.10-14.47.13:857][427]LogMaterial: Display: Missing cached shader map for material greenscreen, compiling. 
+[2020.06.10-14.47.15:326][511]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.06.10-14.47.16:447][575]LogMaterial: Display: Missing cached shader map for material greenscreen, compiling. 
+[2020.06.10-14.47.16:470][575]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.06.10-14.47.16:499][575]LogMaterial: Display: Missing cached shader map for material greenscreen, compiling. 
+[2020.06.10-14.47.17:986][652]LogMaterial: Display: Missing cached shader map for material greenscreen, compiling. 
+[2020.06.10-14.47.18:011][652]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.06.10-14.47.18:041][652]LogMaterial: Display: Missing cached shader map for material greenscreen, compiling. 
+[2020.06.10-14.47.19:031][700]LogMaterial: Display: Missing cached shader map for material greenscreen, compiling. 
+[2020.06.10-14.47.19:518][727]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.06.10-14.47.19:734][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.47.19:821][743]LogMaterialEditor: Saving and Compiling material greenscreen
+[2020.06.10-14.47.20:293][743]LogMaterial: Display: Missing cached shader map for material greenscreen, compiling. 
+[2020.06.10-14.47.20:370][743]LogMaterial: Display: Missing cached shader map for material greenscreen, compiling. 
+[2020.06.10-14.47.20:393][743]LogMaterial: Display: Missing cached shader map for material greenscreen, compiling. 
+[2020.06.10-14.47.20:581][743]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2020.06.10-14.47.20:591][743]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.10-14.47.22:779][743]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.06.10-14.47.22:779][743]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.06.10-14.47.22:789][743]TextureStreamingBuild: Display: Compiling optional shaders took 2.206 seconds.
+[2020.06.10-14.47.22:882][743]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2020.06.10-14.47.25:655][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/greenscreen" FILE="../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/greenscreen.uasset" SILENT=true
+[2020.06.10-14.47.25:668][743]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/greenscreenB757193A41DCED2B4611C7A57A19BFE9.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/greenscreen.uasset'
+[2020.06.10-14.47.25:686][743]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.06.10-14.47.25:686][743]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.06.10-14.47.25:686][743]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.06.10-14.47.25:686][743]MaterialEditorStats: Texture samplers: 3/16
+[2020.06.10-14.47.28:446][899]LogMaterialEditor: Saving and Compiling material greenscreen
+[2020.06.10-14.47.28:466][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/greenscreen" FILE="../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/greenscreen.uasset" SILENT=true
+[2020.06.10-14.47.28:473][899]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/greenscreen034F921749EA4DF6549F9DA075BAA70C.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/greenscreen.uasset'
+[2020.06.10-14.47.29:569][963]LogSlate: Window 'greenscreen' being destroyed
+[2020.06.10-14.47.29:573][963]LogSlate: Window 'greenscreen' being destroyed
+[2020.06.10-14.47.42:194][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.06.10-14.47.42:995][747]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (CrazyClayEquip_Pistol_Standing)
+[2020.06.10-14.47.44:328][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.47.50:965][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.47.51:031][226]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.10-14.47.51:042][226]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.47.51:042][226]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.10-14.47.51:042][226]PIE: New page: PIE session: FinalMap (Jun 10, 2020, 4:47:51 AM)
+[2020.06.10-14.47.51:042][226]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_FinalMap
+[2020.06.10-14.47.51:086][226]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043340s)
+[2020.06.10-14.47.51:086][226]LogAIModule: Creating AISystem for world FinalMap
+[2020.06.10-14.47.51:086][226]LogPlayLevel: PIE: World Init took: (0.000777s)
+[2020.06.10-14.47.51:086][226]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/FinalMap.FinalMap to /Game/levels/UEDPIE_0_FinalMap.FinalMap (0.044278s)
+[2020.06.10-14.47.51:169][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.06.10-14.47.51:179][226]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.10-14.47.51:199][226]LogInit: FAudioDevice initialized.
+[2020.06.10-14.47.51:227][226]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.10-14.47.51:233][226]LogWorld: Bringing World /Game/levels/UEDPIE_0_FinalMap.FinalMap up for play (max tick rate 60) at 2020.06.10-09.47.51
+[2020.06.10-14.47.51:235][226]LogWorld: Bringing up level for play took: 0.007510
+[2020.06.10-14.47.51:247][226]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.06.10-14.47.51:249][226]PIE: Play in editor start time for /Game/levels/UEDPIE_0_FinalMap 1.142
+[2020.06.10-14.47.51:249][226]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.47.57:696][611]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.47.57:696][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-14.47.57:733][611]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.10-14.47.57:733][611]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.47.57:768][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-14.47.57:773][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.06.10-14.47.57:807][613]LogPlayLevel: Display: Destroying online subsystem :Context_164
+[2020.06.10-14.48.04:855][ 24]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.06.10-14.48.11:843][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.48.21:075][994]Cmd: DELETE
+[2020.06.10-14.48.21:075][994]Cmd: ACTOR DELETE
+[2020.06.10-14.48.21:080][994]LogEditorActor: Deleted Actor: PlayerStart
+[2020.06.10-14.48.21:111][994]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.06.10-14.48.21:111][994]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2020.06.10-14.48.28:611][444]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.48.28:694][449]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.10-14.48.28:703][449]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.48.28:703][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.10-14.48.28:704][449]PIE: New page: PIE session: FinalMap (Jun 10, 2020, 4:48:28 AM)
+[2020.06.10-14.48.28:704][449]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_FinalMap
+[2020.06.10-14.48.28:749][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045485s)
+[2020.06.10-14.48.28:750][449]LogAIModule: Creating AISystem for world FinalMap
+[2020.06.10-14.48.28:750][449]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2020.06.10-14.48.28:750][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/FinalMap.FinalMap to /Game/levels/UEDPIE_0_FinalMap.FinalMap (0.046329s)
+[2020.06.10-14.48.28:786][449]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.06.10-14.48.28:794][449]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.10-14.48.28:811][449]LogInit: FAudioDevice initialized.
+[2020.06.10-14.48.28:842][449]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.10-14.48.28:850][449]LogWorld: Bringing World /Game/levels/UEDPIE_0_FinalMap.FinalMap up for play (max tick rate 60) at 2020.06.10-09.48.28
+[2020.06.10-14.48.28:850][449]LogWorld: Bringing up level for play took: 0.007306
+[2020.06.10-14.48.28:863][449]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.06.10-14.48.28:868][449]PIE: Play in editor start time for /Game/levels/UEDPIE_0_FinalMap 0.761
+[2020.06.10-14.48.28:868][449]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.48.32:016][636]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.48.32:016][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-14.48.32:048][636]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.10-14.48.32:048][636]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.48.32:082][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-14.48.32:088][636]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.06.10-14.48.32:122][638]LogPlayLevel: Display: Destroying online subsystem :Context_165
+[2020.06.10-14.48.41:131][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.48.41:230][177]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.10-14.48.41:241][177]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.48.41:241][177]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.10-14.48.41:241][177]PIE: New page: PIE session: FinalMap (Jun 10, 2020, 4:48:41 AM)
+[2020.06.10-14.48.41:242][177]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_FinalMap
+[2020.06.10-14.48.41:286][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045509s)
+[2020.06.10-14.48.41:287][177]LogAIModule: Creating AISystem for world FinalMap
+[2020.06.10-14.48.41:288][177]LogPlayLevel: PIE: World Init took: (0.001125s)
+[2020.06.10-14.48.41:288][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/FinalMap.FinalMap to /Game/levels/UEDPIE_0_FinalMap.FinalMap (0.046865s)
+[2020.06.10-14.48.41:323][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.06.10-14.48.41:330][177]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.10-14.48.41:349][177]LogInit: FAudioDevice initialized.
+[2020.06.10-14.48.41:378][177]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.10-14.48.41:385][177]LogWorld: Bringing World /Game/levels/UEDPIE_0_FinalMap.FinalMap up for play (max tick rate 60) at 2020.06.10-09.48.41
+[2020.06.10-14.48.41:386][177]LogWorld: Bringing up level for play took: 0.007382
+[2020.06.10-14.48.41:400][177]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.06.10-14.48.41:401][177]PIE: Play in editor start time for /Game/levels/UEDPIE_0_FinalMap -0.706
+[2020.06.10-14.48.41:401][177]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.48.48:650][610]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.48.48:650][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-14.48.48:683][610]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.10-14.48.48:683][610]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.48.48:716][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-14.48.48:721][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.06.10-14.48.48:793][611]LogPlayLevel: Display: Destroying online subsystem :Context_166
+[2020.06.10-14.48.50:966][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.49.03:356][477]Cmd: DELETE
+[2020.06.10-14.49.03:356][477]Cmd: ACTOR DELETE
+[2020.06.10-14.49.03:361][477]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2020.06.10-14.49.03:392][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.06.10-14.49.03:392][477]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2020.06.10-14.49.17:644][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.49.17:802][341]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/CrazyClayEquip_Pistol_Standing.CrazyClayEquip_Pistol_Standing
+[2020.06.10-14.49.17:818][341]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_144:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.10-14.49.26:097][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.50.00:753][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.06.10-14.50.01:309][417]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/FinalMap_Auto60DE1C6E24E24AEDE70FA3191D770EF48.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/levels/FinalMap_Auto6.umap'
+[2020.06.10-14.50.01:312][417]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/levels/FinalMap' took 0.596
+[2020.06.10-14.50.01:312][417]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.596
+[2020.06.10-14.50.01:315][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton] ([1] browsable assets)...
+[2020.06.10-14.50.01:315][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton]
+[2020.06.10-14.50.01:322][417]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/UE4_Mannequin_Skeleton_Auto6E8A7C14848D68F3909104AAA407D5E3C.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton_Auto6.uasset'
+[2020.06.10-14.50.01:323][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PolygonWestern/Content/PolygonWestern/Meshes/Characters/SK_Character_Badguy_01_Skeleton] ([1] browsable assets)...
+[2020.06.10-14.50.01:323][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonWestern/Content/PolygonWestern/Meshes/Characters/SK_Character_Badguy_01_Skeleton]
+[2020.06.10-14.50.01:330][417]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/SK_Character_Badguy_01_Skeleton_6C0C2E4A45F70D1531F2EA86F93DD001.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/PolygonWestern/Content/PolygonWestern/Meshes/Characters/SK_Character_Badguy_01_Skeleton_Auto6.uasset'
+[2020.06.10-14.50.01:331][417]LogFileHelpers: Auto-saving content packages took 0.017
+[2020.06.10-14.50.57:673][794]LogAssetEditorManager: Opening Asset editor for TextureCube /Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1
+[2020.06.10-14.51.23:418][314]LogSlate: Window 'Color Picker' being destroyed
+[2020.06.10-14.51.39:240][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.51.39:305][231]LogSlate: Window 'Color Picker' being destroyed
+[2020.06.10-14.51.46:092][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.52.21:272][241]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.10-14.52.27:333][471]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/PolygonWestern/Content/PolygonWestern/Meshes/Characters/SK_Character_Badguy_01_Skeleton.SK_Character_Badguy_01_Skeleton
+[2020.06.10-14.52.27:348][471]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_147:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.10-14.52.29:479][559]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/SK_Character_Badguy_01_SkeletonD53D0B884F28D2C29D95DF80881B8E0D.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Characters/SK_Character_Badguy_01_Skeleton.uasset'
+[2020.06.10-14.52.30:306][608]LogSlate: Window 'SK_Character_Badguy_01_Skeleton' being destroyed
+[2020.06.10-14.52.30:311][608]LogSlate: Window 'SK_Character_Badguy_01_Skeleton' being destroyed
+[2020.06.10-14.52.35:087][866]Cmd: DELETE
+[2020.06.10-14.52.35:087][866]Cmd: ACTOR DELETE
+[2020.06.10-14.52.35:093][866]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.10-14.52.35:134][866]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.06.10-14.52.35:134][866]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2020.06.10-14.52.37:039][980]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.10-14.52.37:049][980]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.52.37:049][980]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.10-14.52.37:050][980]PIE: New page: PIE session: FinalMap (Jun 10, 2020, 4:52:37 AM)
+[2020.06.10-14.52.37:050][980]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_FinalMap
+[2020.06.10-14.52.37:094][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043658s)
+[2020.06.10-14.52.37:094][980]LogAIModule: Creating AISystem for world FinalMap
+[2020.06.10-14.52.37:095][980]LogPlayLevel: PIE: World Init took: (0.001044s)
+[2020.06.10-14.52.37:095][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/FinalMap.FinalMap to /Game/levels/UEDPIE_0_FinalMap.FinalMap (0.045136s)
+[2020.06.10-14.52.37:129][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.06.10-14.52.37:137][980]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.10-14.52.37:159][980]LogInit: FAudioDevice initialized.
+[2020.06.10-14.52.37:191][980]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.10-14.52.37:200][980]LogWorld: Bringing World /Game/levels/UEDPIE_0_FinalMap.FinalMap up for play (max tick rate 60) at 2020.06.10-09.52.37
+[2020.06.10-14.52.37:201][980]LogWorld: Bringing up level for play took: 0.008842
+[2020.06.10-14.52.37:213][980]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.06.10-14.52.37:215][980]PIE: Play in editor start time for /Game/levels/UEDPIE_0_FinalMap 1.109
+[2020.06.10-14.52.37:216][980]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.52.58:676][264]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.52.58:676][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-14.52.58:710][264]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.10-14.52.58:710][264]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.52.58:744][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-14.52.58:750][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.06.10-14.52.58:824][265]LogPlayLevel: Display: Destroying online subsystem :Context_171
+[2020.06.10-14.53.00:344][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.53.09:052][873]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (CrazyClayEquip_Pistol_Standing)
+[2020.06.10-14.53.10:402][951]Cmd: DELETE
+[2020.06.10-14.53.10:402][951]Cmd: ACTOR DELETE
+[2020.06.10-14.53.10:405][951]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2020.06.10-14.53.10:438][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.06.10-14.53.10:439][951]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.06.10-14.53.12:003][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.53.27:764][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.53.27:830][991]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.10-14.53.27:841][991]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.53.27:841][991]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.10-14.53.27:841][991]PIE: New page: PIE session: FinalMap (Jun 10, 2020, 4:53:27 AM)
+[2020.06.10-14.53.27:842][991]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_FinalMap
+[2020.06.10-14.53.27:883][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041739s)
+[2020.06.10-14.53.27:883][991]LogAIModule: Creating AISystem for world FinalMap
+[2020.06.10-14.53.27:885][991]LogPlayLevel: PIE: World Init took: (0.001481s)
+[2020.06.10-14.53.27:885][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/FinalMap.FinalMap to /Game/levels/UEDPIE_0_FinalMap.FinalMap (0.043498s)
+[2020.06.10-14.53.27:916][991]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.06.10-14.53.27:924][991]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.10-14.53.27:942][991]LogInit: FAudioDevice initialized.
+[2020.06.10-14.53.27:973][991]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.10-14.53.27:979][991]LogWorld: Bringing World /Game/levels/UEDPIE_0_FinalMap.FinalMap up for play (max tick rate 60) at 2020.06.10-09.53.27
+[2020.06.10-14.53.27:980][991]LogWorld: Bringing up level for play took: 0.006158
+[2020.06.10-14.53.27:992][991]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.06.10-14.53.27:994][991]PIE: Play in editor start time for /Game/levels/UEDPIE_0_FinalMap -0.113
+[2020.06.10-14.53.27:994][991]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.53.30:443][136]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.53.30:443][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-14.53.30:478][136]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.10-14.53.30:478][136]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.53.30:511][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-14.53.30:518][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.06.10-14.53.30:590][137]LogPlayLevel: Display: Destroying online subsystem :Context_172
+[2020.06.10-14.53.33:345][297]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.06.10-14.53.34:245][349]Cmd: DELETE
+[2020.06.10-14.53.34:245][349]Cmd: ACTOR DELETE
+[2020.06.10-14.53.34:249][349]LogEditorActor: Deleted Actor: PlayerStart
+[2020.06.10-14.53.34:283][349]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.06.10-14.53.34:284][349]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2020.06.10-14.53.35:353][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.53.40:869][742]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.06.10-14.53.42:924][864]Cmd: DELETE
+[2020.06.10-14.53.42:924][864]Cmd: ACTOR DELETE
+[2020.06.10-14.53.42:928][864]LogEditorActor: Deleted Actor: PlayerStart
+[2020.06.10-14.53.42:963][864]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.06.10-14.53.42:963][864]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2020.06.10-14.53.45:934][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.53.53:237][477]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.10-14.53.54:140][529]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.06.10-14.53.56:912][693]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.06.10-14.53.57:769][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.53.57:852][748]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.10-14.53.57:866][748]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.53.57:866][748]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.10-14.53.57:866][748]PIE: New page: PIE session: FinalMap (Jun 10, 2020, 4:53:57 AM)
+[2020.06.10-14.53.57:866][748]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_FinalMap
+[2020.06.10-14.53.57:906][748]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040377s)
+[2020.06.10-14.53.57:908][748]LogAIModule: Creating AISystem for world FinalMap
+[2020.06.10-14.53.57:908][748]LogPlayLevel: PIE: World Init took: (0.000880s)
+[2020.06.10-14.53.57:908][748]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/FinalMap.FinalMap to /Game/levels/UEDPIE_0_FinalMap.FinalMap (0.041542s)
+[2020.06.10-14.53.57:940][748]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.06.10-14.53.57:947][748]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.10-14.53.57:965][748]LogInit: FAudioDevice initialized.
+[2020.06.10-14.53.57:997][748]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.10-14.53.58:002][748]LogWorld: Bringing World /Game/levels/UEDPIE_0_FinalMap.FinalMap up for play (max tick rate 60) at 2020.06.10-09.53.58
+[2020.06.10-14.53.58:004][748]LogWorld: Bringing up level for play took: 0.005677
+[2020.06.10-14.53.58:016][748]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.06.10-14.53.58:018][748]PIE: Play in editor start time for /Game/levels/UEDPIE_0_FinalMap -0.089
+[2020.06.10-14.53.58:018][748]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.54.04:384][128]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.54.04:384][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-14.54.04:418][128]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.10-14.54.04:418][128]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.54.04:451][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-14.54.04:456][128]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.06.10-14.54.04:537][129]LogPlayLevel: Display: Destroying online subsystem :Context_173
+[2020.06.10-14.54.07:163][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.54.09:387][415]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FPS_OWN_BP/Blueprints/FPSOWN.FPSOWN
+[2020.06.10-14.54.44:958][457]BlueprintLog: New page: Compile FPSOWN
+[2020.06.10-14.54.45:169][457]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.06.10-14.55.31:536][183]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/FPSOWN251DA2B44F5B0E7D018BA587339FC586.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FPS_OWN_BP/Blueprints/FPSOWN.uasset'
+[2020.06.10-14.55.32:147][210]BlueprintLog: New page: Compile FPSOWN
+[2020.06.10-14.55.32:370][210]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.06.10-14.55.33:045][233]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/FPSOWN629EFF6E41BD6BA4C6FCF981526817F1.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FPS_OWN_BP/Blueprints/FPSOWN.uasset'
+[2020.06.10-14.55.35:693][383]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.10-14.55.35:707][383]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.55.35:707][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.10-14.55.35:707][383]PIE: New page: PIE session: FinalMap (Jun 10, 2020, 4:55:35 AM)
+[2020.06.10-14.55.35:708][383]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_FinalMap
+[2020.06.10-14.55.35:750][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042364s)
+[2020.06.10-14.55.35:751][383]LogAIModule: Creating AISystem for world FinalMap
+[2020.06.10-14.55.35:751][383]LogPlayLevel: PIE: World Init took: (0.001134s)
+[2020.06.10-14.55.35:751][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/FinalMap.FinalMap to /Game/levels/UEDPIE_0_FinalMap.FinalMap (0.043736s)
+[2020.06.10-14.55.35:791][383]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.06.10-14.55.35:799][383]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.10-14.55.35:818][383]LogInit: FAudioDevice initialized.
+[2020.06.10-14.55.35:851][383]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.10-14.55.35:857][383]LogWorld: Bringing World /Game/levels/UEDPIE_0_FinalMap.FinalMap up for play (max tick rate 60) at 2020.06.10-09.55.35
+[2020.06.10-14.55.35:858][383]LogWorld: Bringing up level for play took: 0.005729
+[2020.06.10-14.55.35:871][383]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.06.10-14.55.35:872][383]PIE: Play in editor start time for /Game/levels/UEDPIE_0_FinalMap -0.235
+[2020.06.10-14.55.35:873][383]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.55.51:458][316]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.55.51:459][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-14.55.51:491][316]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.10-14.55.51:491][316]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.55.51:528][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-14.55.51:534][316]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.06.10-14.55.51:613][317]LogPlayLevel: Display: Destroying online subsystem :Context_175
+[2020.06.10-14.55.53:629][435]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.56.13:776][637]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.10-14.56.13:792][637]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.56.13:792][637]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.06.10-14.56.13:793][637]LogPlayLevel: [PlayLevel] Compiling FPSOWN before play...
+[2020.06.10-14.56.14:038][637]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.06.10-14.56.14:038][637]LogPlayLevel: PlayLevel: Blueprint regeneration took 246 ms (1 blueprints)
+[2020.06.10-14.56.14:038][637]PIE: New page: PIE session: FinalMap (Jun 10, 2020, 4:56:14 AM)
+[2020.06.10-14.56.14:039][637]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_FinalMap
+[2020.06.10-14.56.14:085][637]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046375s)
+[2020.06.10-14.56.14:086][637]LogAIModule: Creating AISystem for world FinalMap
+[2020.06.10-14.56.14:087][637]LogPlayLevel: PIE: World Init took: (0.001514s)
+[2020.06.10-14.56.14:087][637]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/FinalMap.FinalMap to /Game/levels/UEDPIE_0_FinalMap.FinalMap (0.048149s)
+[2020.06.10-14.56.14:127][637]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.06.10-14.56.14:135][637]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.10-14.56.14:154][637]LogInit: FAudioDevice initialized.
+[2020.06.10-14.56.14:190][637]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.10-14.56.14:195][637]LogWorld: Bringing World /Game/levels/UEDPIE_0_FinalMap.FinalMap up for play (max tick rate 60) at 2020.06.10-09.56.14
+[2020.06.10-14.56.14:197][637]LogWorld: Bringing up level for play took: 0.006171
+[2020.06.10-14.56.14:209][637]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.06.10-14.56.14:212][637]PIE: Play in editor start time for /Game/levels/UEDPIE_0_FinalMap 0.104
+[2020.06.10-14.56.14:212][637]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.56.32:340][713]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.56.32:340][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-14.56.32:376][713]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.10-14.56.32:377][713]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-14.56.32:414][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-14.56.32:425][713]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.06.10-14.56.32:499][714]LogPlayLevel: Display: Destroying online subsystem :Context_176
+[2020.06.10-14.56.35:788][804]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.10-14.57.44:973][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.57.45:435][264]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/FPSOWN2106D44F4267DBBDEB107B8C06BDB3AB.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FPS_OWN_BP/Blueprints/FPSOWN.uasset'
+[2020.06.10-14.57.50:937][580]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.10-14.57.56:686][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Env_Cliff_Str1)
+[2020.06.10-14.58.01:822][226]Cmd: TRANSACTION UNDO
+[2020.06.10-14.58.01:822][226]LogEditorTransaction: Undo Rotate Actors
+[2020.06.10-14.58.19:694][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.58.33:480][103]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-14.58.33:480][103]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-14.58.33:481][103]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-14.58.33:481][103]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-14.58.33:482][103]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-14.58.33:482][103]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Env_Cactus_10
+[2020.06.10-14.58.33:482][103]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-14.58.33:501][103]LogStaticMesh: Building static mesh SM_Env_Cactus_10...
+[2020.06.10-14.58.33:514][103]LogBlueprintActionDatabase: Requesting refresh due to module change: MeshBuilder (loaded)
+[2020.06.10-14.58.33:525][103]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_10.SM_Env_Cactus_10
+[2020.06.10-14.58.34:048][107]LogActorFactory: Actor Factory created SM_Env_Cactus_10
+[2020.06.10-14.58.36:018][224]LogActorFactory: Actor Factory created SM_Env_Cactus_10
+[2020.06.10-14.58.37:720][324]Cmd: TRANSACTION UNDO
+[2020.06.10-14.58.37:720][324]LogEditorTransaction: Undo Create Actors
+[2020.06.10-14.58.38:976][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.58.39:221][409]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_10.SM_Env_Cactus_10
+[2020.06.10-14.58.39:237][409]LogBlueprintActionDatabase: Requesting refresh due to module change: StaticMeshEditor (loaded)
+[2020.06.10-14.58.39:870][410]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2020.06.10-14.58.47:164][824]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.10-14.58.47:424][839]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.10-14.58.47:838][863]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.10-14.58.49:508][962]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.10-14.58.49:687][971]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.10-14.58.55:313][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.59.04:859][855]LogSlate: Window 'Color Picker' being destroyed
+[2020.06.10-14.59.06:892][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-14.59.28:770][257]LogStaticMesh: Building static mesh SM_Env_Cactus_10...
+[2020.06.10-14.59.28:784][257]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_10.SM_Env_Cactus_10
+[2020.06.10-14.59.50:316][429]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/SM_Env_Cactus_106F36FF8F4CB6042D78B350B933824BC1.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_10.uasset'
+[2020.06.10-14.59.54:836][695]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-14.59.54:836][695]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-14.59.54:836][695]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-14.59.54:837][695]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-14.59.54:837][695]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-14.59.54:837][695]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Env_Cactus_11
+[2020.06.10-14.59.54:837][695]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-14.59.54:850][695]LogStaticMesh: Building static mesh SM_Env_Cactus_11...
+[2020.06.10-14.59.54:865][695]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_11.SM_Env_Cactus_11
+[2020.06.10-14.59.54:877][695]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_11.SM_Env_Cactus_11
+[2020.06.10-15.00.01:295][ 20]LogStaticMesh: Building static mesh SM_Env_Cactus_11...
+[2020.06.10-15.00.01:313][ 20]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_11.SM_Env_Cactus_11
+[2020.06.10-15.00.02:936][108]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/SM_Env_Cactus_11E9C5CC484D8EEB015BBC97B0FCAB59D9.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_11.uasset'
+[2020.06.10-15.00.08:136][393]LogSlate: Window 'SM_Env_Cactus_11' being destroyed
+[2020.06.10-15.00.08:141][393]LogSlate: Window 'SM_Env_Cactus_11' being destroyed
+[2020.06.10-15.00.13:133][678]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.00.13:133][678]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.00.13:134][678]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.00.13:134][678]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.00.13:135][678]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.00.13:135][678]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Env_Cactus_04
+[2020.06.10-15.00.13:135][678]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.00.13:144][678]LogStaticMesh: Building static mesh SM_Env_Cactus_04...
+[2020.06.10-15.00.13:159][678]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_04.SM_Env_Cactus_04
+[2020.06.10-15.00.13:173][678]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_04.SM_Env_Cactus_04
+[2020.06.10-15.00.17:405][896]LogStaticMesh: Building static mesh SM_Env_Cactus_04...
+[2020.06.10-15.00.17:420][896]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_04.SM_Env_Cactus_04
+[2020.06.10-15.00.19:060][978]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/SM_Env_Cactus_04BC10503C4BEB43CAB6058C8537F95120.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_04.uasset'
+[2020.06.10-15.00.20:163][ 40]LogSlate: Window 'SM_Env_Cactus_04' being destroyed
+[2020.06.10-15.00.20:169][ 40]LogSlate: Window 'SM_Env_Cactus_04' being destroyed
+[2020.06.10-15.00.23:324][217]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.00.23:324][217]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.00.23:324][217]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.00.23:324][217]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.00.23:325][217]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.00.23:325][217]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Env_Cactus_05
+[2020.06.10-15.00.23:325][217]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.00.23:338][217]LogStaticMesh: Building static mesh SM_Env_Cactus_05...
+[2020.06.10-15.00.23:353][217]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_05.SM_Env_Cactus_05
+[2020.06.10-15.00.23:368][217]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_05.SM_Env_Cactus_05
+[2020.06.10-15.00.26:919][393]LogStaticMesh: Building static mesh SM_Env_Cactus_05...
+[2020.06.10-15.00.26:937][393]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_05.SM_Env_Cactus_05
+[2020.06.10-15.00.28:180][460]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/SM_Env_Cactus_057AB3FDED45ADA2753A19A5B4F1692C7A.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_05.uasset'
+[2020.06.10-15.00.29:138][516]LogSlate: Window 'SM_Env_Cactus_05' being destroyed
+[2020.06.10-15.00.29:141][516]LogSlate: Window 'SM_Env_Cactus_05' being destroyed
+[2020.06.10-15.00.33:629][766]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.00.33:629][766]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.00.33:629][766]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.00.33:630][766]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.00.33:631][766]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.00.33:631][766]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Env_Cactus_15
+[2020.06.10-15.00.33:631][766]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.00.33:672][766]LogStaticMesh: Building static mesh SM_Env_Cactus_15...
+[2020.06.10-15.00.33:758][766]LogStaticMesh: Built static mesh [0.09s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_15.SM_Env_Cactus_15
+[2020.06.10-15.00.33:783][766]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_15.SM_Env_Cactus_15
+[2020.06.10-15.00.37:426][949]LogStaticMesh: Building static mesh SM_Env_Cactus_15...
+[2020.06.10-15.00.37:510][949]LogStaticMesh: Built static mesh [0.08s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_15.SM_Env_Cactus_15
+[2020.06.10-15.00.38:636][994]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/SM_Env_Cactus_15376BBFFD42B52B1DA9D5E195683BFBC5.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_15.uasset'
+[2020.06.10-15.00.39:689][ 55]LogSlate: Window 'SM_Env_Cactus_15' being destroyed
+[2020.06.10-15.00.39:693][ 55]LogSlate: Window 'SM_Env_Cactus_15' being destroyed
+[2020.06.10-15.00.41:742][162]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.00.41:742][162]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.00.41:742][162]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.00.41:743][162]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.00.41:743][162]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.00.41:743][162]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Env_Cactus_06
+[2020.06.10-15.00.41:743][162]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.00.41:754][162]LogStaticMesh: Building static mesh SM_Env_Cactus_06...
+[2020.06.10-15.00.41:768][162]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_06.SM_Env_Cactus_06
+[2020.06.10-15.00.41:779][162]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_06.SM_Env_Cactus_06
+[2020.06.10-15.00.45:497][340]LogStaticMesh: Building static mesh SM_Env_Cactus_06...
+[2020.06.10-15.00.45:513][340]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_06.SM_Env_Cactus_06
+[2020.06.10-15.00.46:696][392]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/SM_Env_Cactus_061A5DBDEA4B2DA1C832C028A8002A43FE.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_06.uasset'
+[2020.06.10-15.00.47:812][455]LogSlate: Window 'SM_Env_Cactus_06' being destroyed
+[2020.06.10-15.00.47:815][455]LogSlate: Window 'SM_Env_Cactus_06' being destroyed
+[2020.06.10-15.00.49:498][537]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.00.49:498][537]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.00.49:498][537]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.00.49:499][537]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.00.49:499][537]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.00.49:499][537]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Env_Cactus_08
+[2020.06.10-15.00.49:499][537]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.00.49:507][537]LogStaticMesh: Building static mesh SM_Env_Cactus_08...
+[2020.06.10-15.00.49:517][537]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_08.SM_Env_Cactus_08
+[2020.06.10-15.00.49:530][537]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_08.SM_Env_Cactus_08
+[2020.06.10-15.00.52:866][697]LogStaticMesh: Building static mesh SM_Env_Cactus_08...
+[2020.06.10-15.00.52:881][697]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_08.SM_Env_Cactus_08
+[2020.06.10-15.00.54:023][758]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/SM_Env_Cactus_08C24E630A4AE0B279B44DA68CEE8F5E1B.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_08.uasset'
+[2020.06.10-15.00.55:423][840]LogSlate: Window 'SM_Env_Cactus_08' being destroyed
+[2020.06.10-15.00.55:427][840]LogSlate: Window 'SM_Env_Cactus_08' being destroyed
+[2020.06.10-15.01.06:738][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Env_Cliff_Str2)
+[2020.06.10-15.01.11:691][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-15.01.11:841][799]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.01.11:841][799]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.01.11:841][799]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.01.11:842][799]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.01.11:842][799]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.01.11:842][799]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Env_Grass_03
+[2020.06.10-15.01.11:842][799]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.01.11:847][799]LogStaticMesh: Building static mesh SM_Env_Grass_03...
+[2020.06.10-15.01.11:854][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Grass_03.SM_Env_Grass_03
+[2020.06.10-15.01.11:871][799]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Grass_03.SM_Env_Grass_03
+[2020.06.10-15.01.15:474][978]LogStaticMesh: Building static mesh SM_Env_Grass_03...
+[2020.06.10-15.01.15:486][978]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Grass_03.SM_Env_Grass_03
+[2020.06.10-15.01.27:399][622]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/SM_Env_Grass_03B175E30A43470CFB35A5F9B3FC8F6665.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Grass_03.uasset'
+[2020.06.10-15.01.29:785][759]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.01.29:785][759]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.01.29:785][759]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.01.29:785][759]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.01.29:785][759]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.01.29:786][759]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Env_Grass_02
+[2020.06.10-15.01.29:786][759]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.01.29:794][759]LogStaticMesh: Building static mesh SM_Env_Grass_02...
+[2020.06.10-15.01.29:804][759]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Grass_02.SM_Env_Grass_02
+[2020.06.10-15.01.29:817][759]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Grass_02.SM_Env_Grass_02
+[2020.06.10-15.01.33:612][932]LogStaticMesh: Building static mesh SM_Env_Grass_02...
+[2020.06.10-15.01.33:629][932]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Grass_02.SM_Env_Grass_02
+[2020.06.10-15.01.46:696][601]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/SM_Env_Grass_02936E1A2B472C0BDAC4436AA2FA10E5ED.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Grass_02.uasset'
+[2020.06.10-15.01.47:543][650]LogSlate: Window 'SM_Env_Grass_02' being destroyed
+[2020.06.10-15.01.47:546][650]LogSlate: Window 'SM_Env_Grass_02' being destroyed
+[2020.06.10-15.01.49:306][729]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.01.49:306][729]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.01.49:306][729]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.01.49:306][729]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.01.49:307][729]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.01.49:307][729]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Env_Grass_01
+[2020.06.10-15.01.49:307][729]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.01.49:315][729]LogStaticMesh: Building static mesh SM_Env_Grass_01...
+[2020.06.10-15.01.49:326][729]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Grass_01.SM_Env_Grass_01
+[2020.06.10-15.01.49:343][729]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Grass_01.SM_Env_Grass_01
+[2020.06.10-15.01.55:434][ 43]LogStaticMesh: Building static mesh SM_Env_Grass_01...
+[2020.06.10-15.01.55:447][ 43]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Grass_01.SM_Env_Grass_01
+[2020.06.10-15.01.57:055][131]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/SM_Env_Grass_0127726F4A4CC99060C38AB2BE1CD51152.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Grass_01.uasset'
+[2020.06.10-15.01.59:021][245]LogSlate: Window 'SM_Env_Grass_01' being destroyed
+[2020.06.10-15.01.59:024][245]LogSlate: Window 'SM_Env_Grass_01' being destroyed
+[2020.06.10-15.02.05:284][604]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.02.05:284][604]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.02.05:284][604]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.02.05:284][604]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.02.05:285][604]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.02.05:285][604]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Env_DustPile_Long_02
+[2020.06.10-15.02.05:285][604]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.02.05:287][604]LogStaticMesh: Building static mesh SM_Env_DustPile_Long_02...
+[2020.06.10-15.02.05:293][604]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_DustPile_Long_02.SM_Env_DustPile_Long_02
+[2020.06.10-15.02.05:310][604]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_DustPile_Long_02.SM_Env_DustPile_Long_02
+[2020.06.10-15.02.08:139][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-15.02.08:240][754]LogSlate: Window 'SM_Env_DustPile_Long_02' being destroyed
+[2020.06.10-15.02.08:243][754]LogSlate: Window 'SM_Env_DustPile_Long_02' being destroyed
+[2020.06.10-15.02.09:524][817]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.02.09:524][817]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.02.09:525][817]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.02.09:525][817]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.02.09:525][817]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.02.09:525][817]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Env_DustPile_Small_01
+[2020.06.10-15.02.09:525][817]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.02.09:535][817]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_DustPile_Small_01.SM_Env_DustPile_Small_01
+[2020.06.10-15.02.12:634][977]LogSlate: Window 'SM_Env_DustPile_Small_01' being destroyed
+[2020.06.10-15.02.12:637][977]LogSlate: Window 'SM_Env_DustPile_Small_01' being destroyed
+[2020.06.10-15.02.13:879][ 30]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.02.13:879][ 30]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.02.13:879][ 30]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.02.13:879][ 30]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.02.13:880][ 30]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.02.13:880][ 30]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Env_DustPile_Small_02
+[2020.06.10-15.02.13:880][ 30]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.02.13:882][ 30]LogStaticMesh: Building static mesh SM_Env_DustPile_Small_02...
+[2020.06.10-15.02.13:888][ 30]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_DustPile_Small_02.SM_Env_DustPile_Small_02
+[2020.06.10-15.02.13:904][ 30]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_DustPile_Small_02.SM_Env_DustPile_Small_02
+[2020.06.10-15.02.17:783][209]LogStaticMesh: Building static mesh SM_Env_DustPile_Small_02...
+[2020.06.10-15.02.17:797][209]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_DustPile_Small_02.SM_Env_DustPile_Small_02
+[2020.06.10-15.02.27:197][720]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/SM_Env_DustPile_Small_026210C2F94698D8F688105AB11A029472.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_DustPile_Small_02.uasset'
+[2020.06.10-15.02.27:950][763]LogSlate: Window 'SM_Env_DustPile_Small_02' being destroyed
+[2020.06.10-15.02.27:956][763]LogSlate: Window 'SM_Env_DustPile_Small_02' being destroyed
+[2020.06.10-15.02.31:543][962]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.02.31:543][962]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.02.31:543][962]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.02.31:543][962]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.02.31:544][962]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.02.31:544][962]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Env_TreeDead_01
+[2020.06.10-15.02.31:545][962]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.02.31:558][962]LogStaticMesh: Building static mesh SM_Env_TreeDead_01...
+[2020.06.10-15.02.31:574][962]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_TreeDead_01.SM_Env_TreeDead_01
+[2020.06.10-15.02.31:588][962]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_TreeDead_01.SM_Env_TreeDead_01
+[2020.06.10-15.02.35:420][151]LogStaticMesh: Building static mesh SM_Env_TreeDead_01...
+[2020.06.10-15.02.35:437][151]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_TreeDead_01.SM_Env_TreeDead_01
+[2020.06.10-15.02.42:459][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-15.02.42:606][542]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/SM_Env_TreeDead_011817C0CE492CCE5CBCA7F1B2C833B8ED.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_TreeDead_01.uasset'
+[2020.06.10-15.02.43:453][590]LogSlate: Window 'SM_Env_TreeDead_01' being destroyed
+[2020.06.10-15.02.43:460][590]LogSlate: Window 'SM_Env_TreeDead_01' being destroyed
+[2020.06.10-15.02.45:106][671]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.02.45:106][671]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.02.45:106][671]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.02.45:106][671]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.02.45:106][671]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.02.45:107][671]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Env_TreeDead_02
+[2020.06.10-15.02.45:107][671]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.02.45:118][671]LogStaticMesh: Building static mesh SM_Env_TreeDead_02...
+[2020.06.10-15.02.45:130][671]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_TreeDead_02.SM_Env_TreeDead_02
+[2020.06.10-15.02.45:144][671]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_TreeDead_02.SM_Env_TreeDead_02
+[2020.06.10-15.02.48:341][818]LogStaticMesh: Building static mesh SM_Env_TreeDead_02...
+[2020.06.10-15.02.48:357][818]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_TreeDead_02.SM_Env_TreeDead_02
+[2020.06.10-15.02.50:715][948]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/SM_Env_TreeDead_0230DB1AA2413BD9E8DA980CB57F8853B3.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_TreeDead_02.uasset'
+[2020.06.10-15.02.51:412][988]LogSlate: Window 'SM_Env_TreeDead_02' being destroyed
+[2020.06.10-15.02.51:422][988]LogSlate: Window 'SM_Env_TreeDead_02' being destroyed
+[2020.06.10-15.02.52:244][ 25]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.02.52:244][ 25]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.02.52:245][ 25]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.02.52:245][ 25]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.02.52:245][ 25]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-15.02.52:246][ 25]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Env_TreeDead_03
+[2020.06.10-15.02.52:246][ 25]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-15.02.52:251][ 25]LogStaticMesh: Building static mesh SM_Env_TreeDead_03...
+[2020.06.10-15.02.52:258][ 25]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_TreeDead_03.SM_Env_TreeDead_03
+[2020.06.10-15.02.52:273][ 25]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_TreeDead_03.SM_Env_TreeDead_03
+[2020.06.10-15.02.56:297][218]LogStaticMesh: Building static mesh SM_Env_TreeDead_03...
+[2020.06.10-15.02.56:308][218]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_TreeDead_03.SM_Env_TreeDead_03
+[2020.06.10-15.02.57:724][295]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/SM_Env_TreeDead_03FB27D0FA444C32F1291D3D9F511074DA.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_TreeDead_03.uasset'
+[2020.06.10-15.02.58:680][350]LogSlate: Window 'SM_Env_TreeDead_03' being destroyed
+[2020.06.10-15.02.58:684][350]LogSlate: Window 'SM_Env_TreeDead_03' being destroyed
+[2020.06.10-15.03.23:557][458]LogUObjectHash: Compacting FUObjectHashTables data took   6.72ms
+[2020.06.10-15.03.24:141][458]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/FinalMap_Auto7F2050BDE459F7136DCA4A19685C6C743.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Autosaves/Game/levels/FinalMap_Auto7.umap'
+[2020.06.10-15.03.24:143][458]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/levels/FinalMap' took 0.754
+[2020.06.10-15.03.24:144][458]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.754
+[2020.06.10-15.07.15:199][248]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.10-15.07.15:211][248]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-15.07.15:211][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.10-15.07.15:211][248]PIE: New page: PIE session: FinalMap (Jun 10, 2020, 5:07:15 AM)
+[2020.06.10-15.07.15:211][248]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_FinalMap
+[2020.06.10-15.07.15:256][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044574s)
+[2020.06.10-15.07.15:258][248]LogAIModule: Creating AISystem for world FinalMap
+[2020.06.10-15.07.15:258][248]LogPlayLevel: PIE: World Init took: (0.001640s)
+[2020.06.10-15.07.15:258][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/FinalMap.FinalMap to /Game/levels/UEDPIE_0_FinalMap.FinalMap (0.046466s)
+[2020.06.10-15.07.15:332][248]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.06.10-15.07.15:342][248]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.10-15.07.15:361][248]LogInit: FAudioDevice initialized.
+[2020.06.10-15.07.15:394][248]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.10-15.07.15:400][248]LogWorld: Bringing World /Game/levels/UEDPIE_0_FinalMap.FinalMap up for play (max tick rate 60) at 2020.06.10-10.07.15
+[2020.06.10-15.07.15:401][248]LogWorld: Bringing up level for play took: 0.005407
+[2020.06.10-15.07.15:413][248]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.06.10-15.07.15:416][248]PIE: Play in editor start time for /Game/levels/UEDPIE_0_FinalMap -0.691
+[2020.06.10-15.07.15:416][248]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-15.07.29:766][ 96]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-15.07.29:766][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-15.07.29:802][ 96]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.10-15.07.29:802][ 96]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-15.07.29:835][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-15.07.29:841][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.06.10-15.07.29:916][ 97]LogPlayLevel: Display: Destroying online subsystem :Context_193
+[2020.06.10-15.07.36:891][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-15.08.15:998][848]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FPS_OWN_BP/Blueprints/FPSOWN.FPSOWN
+[2020.06.10-15.08.52:298][864]BlueprintLog: New page: Compile FPSOWN
+[2020.06.10-15.08.52:514][864]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.06.10-15.09.05:204][597]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/FPSOWNFBB32EE142D519B8D2AD549003187266.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FPS_OWN_BP/Blueprints/FPSOWN.uasset'
+[2020.06.10-15.09.33:040][141]BlueprintLog: New page: Compile FPSOWN
+[2020.06.10-15.09.33:265][141]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.06.10-15.09.52:717][252]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/FPSOWN22EC209A4881251D9BA976A167CFA722.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FPS_OWN_BP/Blueprints/FPSOWN.uasset'
+[2020.06.10-15.09.53:413][286]BlueprintLog: New page: Compile FPSOWN
+[2020.06.10-15.09.53:626][286]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.06.10-15.09.54:788][338]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/FPSOWNB6C678534A187E4C5E9DACB2C5E32CA2.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FPS_OWN_BP/Blueprints/FPSOWN.uasset'
+[2020.06.10-15.09.56:749][454]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.10-15.09.56:763][454]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-15.09.56:763][454]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.10-15.09.56:763][454]PIE: New page: PIE session: FinalMap (Jun 10, 2020, 5:09:56 AM)
+[2020.06.10-15.09.56:764][454]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_FinalMap
+[2020.06.10-15.09.56:807][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042662s)
+[2020.06.10-15.09.56:808][454]LogAIModule: Creating AISystem for world FinalMap
+[2020.06.10-15.09.56:808][454]LogPlayLevel: PIE: World Init took: (0.001098s)
+[2020.06.10-15.09.56:808][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/FinalMap.FinalMap to /Game/levels/UEDPIE_0_FinalMap.FinalMap (0.044016s)
+[2020.06.10-15.09.56:846][454]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.06.10-15.09.56:854][454]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.10-15.09.56:873][454]LogInit: FAudioDevice initialized.
+[2020.06.10-15.09.56:904][454]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.10-15.09.56:910][454]LogWorld: Bringing World /Game/levels/UEDPIE_0_FinalMap.FinalMap up for play (max tick rate 60) at 2020.06.10-10.09.56
+[2020.06.10-15.09.56:911][454]LogWorld: Bringing up level for play took: 0.005298
+[2020.06.10-15.09.56:923][454]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.06.10-15.09.56:926][454]PIE: Play in editor start time for /Game/levels/UEDPIE_0_FinalMap 0.818
+[2020.06.10-15.09.56:926][454]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-15.10.28:931][371]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-15.10.28:931][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-15.10.28:968][371]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.10-15.10.28:968][371]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-15.10.29:007][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-15.10.29:013][371]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.06.10-15.10.29:094][372]LogPlayLevel: Display: Destroying online subsystem :Context_195
+[2020.06.10-15.12.54:020][849]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.10-15.12.55:129][905]LogEditorViewport: Clicking on Actor (LMB): Saloon_C (Saloon)
+[2020.06.10-15.13.00:419][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-15.13.04:202][444]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.10-15.13.07:847][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-15.13.07:931][665]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.10-15.13.07:948][665]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-15.13.07:948][665]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.10-15.13.07:948][665]PIE: New page: PIE session: FinalMap (Jun 10, 2020, 5:13:07 AM)
+[2020.06.10-15.13.07:948][665]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_FinalMap
+[2020.06.10-15.13.07:991][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042409s)
+[2020.06.10-15.13.07:992][665]LogAIModule: Creating AISystem for world FinalMap
+[2020.06.10-15.13.07:993][665]LogPlayLevel: PIE: World Init took: (0.001310s)
+[2020.06.10-15.13.07:993][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/FinalMap.FinalMap to /Game/levels/UEDPIE_0_FinalMap.FinalMap (0.044122s)
+[2020.06.10-15.13.08:028][665]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.06.10-15.13.08:035][665]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.10-15.13.08:053][665]LogInit: FAudioDevice initialized.
+[2020.06.10-15.13.08:082][665]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.10-15.13.08:088][665]LogWorld: Bringing World /Game/levels/UEDPIE_0_FinalMap.FinalMap up for play (max tick rate 60) at 2020.06.10-10.13.08
+[2020.06.10-15.13.08:089][665]LogWorld: Bringing up level for play took: 0.006179
+[2020.06.10-15.13.08:101][665]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.06.10-15.13.08:104][665]PIE: Play in editor start time for /Game/levels/UEDPIE_0_FinalMap -0.003
+[2020.06.10-15.13.08:104][665]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-15.13.29:402][938]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-15.13.29:403][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-15.13.29:434][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.10-15.13.29:434][938]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-15.13.29:469][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-15.13.29:475][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.06.10-15.13.29:554][939]LogPlayLevel: Display: Destroying online subsystem :Context_196
+[2020.06.10-15.13.31:209][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-15.13.33:246][126]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.10-15.13.33:259][126]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-15.13.33:259][126]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.10-15.13.33:259][126]PIE: New page: PIE session: FinalMap (Jun 10, 2020, 5:13:33 AM)
+[2020.06.10-15.13.33:259][126]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_FinalMap
+[2020.06.10-15.13.33:302][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043101s)
+[2020.06.10-15.13.33:302][126]LogAIModule: Creating AISystem for world FinalMap
+[2020.06.10-15.13.33:304][126]LogPlayLevel: PIE: World Init took: (0.001014s)
+[2020.06.10-15.13.33:304][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/FinalMap.FinalMap to /Game/levels/UEDPIE_0_FinalMap.FinalMap (0.044280s)
+[2020.06.10-15.13.33:337][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.06.10-15.13.33:344][126]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.10-15.13.33:363][126]LogInit: FAudioDevice initialized.
+[2020.06.10-15.13.33:396][126]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.10-15.13.33:402][126]LogWorld: Bringing World /Game/levels/UEDPIE_0_FinalMap.FinalMap up for play (max tick rate 60) at 2020.06.10-10.13.33
+[2020.06.10-15.13.33:403][126]LogWorld: Bringing up level for play took: 0.005572
+[2020.06.10-15.13.33:416][126]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.06.10-15.13.33:418][126]PIE: Play in editor start time for /Game/levels/UEDPIE_0_FinalMap -0.689
+[2020.06.10-15.13.33:418][126]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-15.14.11:594][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.10-15.14.13:411][118]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-15.14.13:412][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-15.14.13:444][118]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.10-15.14.13:444][118]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-15.14.13:481][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-15.14.13:488][118]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.06.10-15.14.13:576][119]LogPlayLevel: Display: Destroying online subsystem :Context_197
+[2020.06.10-15.14.35:108][651]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap
+[2020.06.10-15.15.31:837][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.06.10-15.15.32:331][864]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/FinalMapC3859D34431E92DB215484BA09A6C6AB.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/levels/FinalMap.umap'
+[2020.06.10-15.15.32:353][864]LogFileHelpers: Saving map 'FinalMap' took 0.552
+[2020.06.10-15.15.36:253][ 90]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.10-15.15.36:266][ 90]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-15.15.36:266][ 90]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.10-15.15.36:266][ 90]PIE: New page: PIE session: FinalMap (Jun 10, 2020, 5:15:36 AM)
+[2020.06.10-15.15.36:266][ 90]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_FinalMap
+[2020.06.10-15.15.36:307][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040710s)
+[2020.06.10-15.15.36:308][ 90]LogAIModule: Creating AISystem for world FinalMap
+[2020.06.10-15.15.36:308][ 90]LogPlayLevel: PIE: World Init took: (0.001147s)
+[2020.06.10-15.15.36:309][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/FinalMap.FinalMap to /Game/levels/UEDPIE_0_FinalMap.FinalMap (0.042192s)
+[2020.06.10-15.15.36:350][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.06.10-15.15.36:358][ 90]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.10-15.15.36:376][ 90]LogInit: FAudioDevice initialized.
+[2020.06.10-15.15.36:406][ 90]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.10-15.15.36:411][ 90]LogWorld: Bringing World /Game/levels/UEDPIE_0_FinalMap.FinalMap up for play (max tick rate 60) at 2020.06.10-10.15.36
+[2020.06.10-15.15.36:412][ 90]LogWorld: Bringing up level for play took: 0.004916
+[2020.06.10-15.15.36:425][ 90]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.06.10-15.15.36:431][ 90]PIE: Play in editor start time for /Game/levels/UEDPIE_0_FinalMap 0.324
+[2020.06.10-15.15.36:431][ 90]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-15.16.08:784][ 18]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-15.16.08:785][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-15.16.08:825][ 18]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.10-15.16.08:826][ 18]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-15.16.08:871][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-15.16.08:878][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.06.10-15.16.08:959][ 19]LogPlayLevel: Display: Destroying online subsystem :Context_199
+[2020.06.10-15.16.19:061][616]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-15.16.20:215][685]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.10-15.16.20:229][685]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-15.16.20:229][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.10-15.16.20:229][685]PIE: New page: PIE session: FinalMap (Jun 10, 2020, 5:16:20 AM)
+[2020.06.10-15.16.20:230][685]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_FinalMap
+[2020.06.10-15.16.20:271][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041546s)
+[2020.06.10-15.16.20:272][685]LogAIModule: Creating AISystem for world FinalMap
+[2020.06.10-15.16.20:273][685]LogPlayLevel: PIE: World Init took: (0.001072s)
+[2020.06.10-15.16.20:273][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/FinalMap.FinalMap to /Game/levels/UEDPIE_0_FinalMap.FinalMap (0.042870s)
+[2020.06.10-15.16.20:312][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.06.10-15.16.20:320][685]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.10-15.16.20:339][685]LogInit: FAudioDevice initialized.
+[2020.06.10-15.16.20:371][685]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.10-15.16.20:377][685]LogWorld: Bringing World /Game/levels/UEDPIE_0_FinalMap.FinalMap up for play (max tick rate 60) at 2020.06.10-10.16.20
+[2020.06.10-15.16.20:378][685]LogWorld: Bringing up level for play took: 0.006067
+[2020.06.10-15.16.20:390][685]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.06.10-15.16.20:393][685]PIE: Play in editor start time for /Game/levels/UEDPIE_0_FinalMap 0.286
+[2020.06.10-15.16.20:393][685]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-15.16.34:351][520]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-15.16.34:352][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-15.16.34:389][520]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.10-15.16.34:389][520]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-15.16.34:428][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-15.16.34:433][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.06.10-15.16.34:511][521]LogPlayLevel: Display: Destroying online subsystem :Context_200
+[2020.06.10-15.16.58:286][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-15.16.59:180][988]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/hud/INGAME_HUD.INGAME_HUD
+[2020.06.10-15.17.20:037][ 72]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/hud/INGAME_HUD.INGAME_HUD_C:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/hud/INGAME_HUD.INGAME_HUD:WidgetTree.CanvasPanel_0
+[2020.06.10-15.17.20:037][ 72]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/hud/INGAME_HUD.INGAME_HUD_C:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_168:INGAME_HUD_C_0.WidgetTree_0.CanvasPanel_0
+[2020.06.10-15.17.20:037][ 72]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/hud/INGAME_HUD.INGAME_HUD_C:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_168:INGAME_HUD_C_1.WidgetTree_0.CanvasPanel_0
+[2020.06.10-15.17.20:037][ 72]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/hud/INGAME_HUD.INGAME_HUD_C:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_168:INGAME_HUD_C_2.WidgetTree_0.CanvasPanel_0
+[2020.06.10-15.17.20:037][ 72]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/hud/INGAME_HUD.INGAME_HUD_C:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_168:INGAME_HUD_C_3.WidgetTree_0.CanvasPanel_0
+[2020.06.10-15.17.20:037][ 72]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/hud/INGAME_HUD.INGAME_HUD_C:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_168:INGAME_HUD_C_4.WidgetTree_0.CanvasPanel_0
+[2020.06.10-15.17.20:037][ 72]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_168:INGAME_HUD_C_1.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_5 or CanvasPanelSlot /Engine/Transient.World_168:INGAME_HUD_C_2.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_5
+[2020.06.10-15.17.20:037][ 72]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_168:INGAME_HUD_C_1.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_5 or CanvasPanelSlot /Engine/Transient.World_168:INGAME_HUD_C_3.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_5
+[2020.06.10-15.17.20:037][ 72]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_168:INGAME_HUD_C_1.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_5 or CanvasPanelSlot /Game/hud/INGAME_HUD.INGAME_HUD:WidgetTree.CanvasPanel_0.CanvasPanelSlot_5
+[2020.06.10-15.17.20:037][ 72]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_168:INGAME_HUD_C_1.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_5 or CanvasPanelSlot /Engine/Transient.World_168:INGAME_HUD_C_4.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_5
+[2020.06.10-15.17.20:037][ 72]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Engine/Transient.World_168:INGAME_HUD_C_1.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_5) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_102).  Import failed...
+[2020.06.10-15.17.20:037][ 72]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_5"''
+[2020.06.10-15.17.23:021][208]LogEditorTransaction: Undo Move Widget
+[2020.06.10-15.17.33:466][822]Cmd: TRANSACTION UNDO
+[2020.06.10-15.17.33:466][822]LogEditorTransaction: Undo Edit Left
+[2020.06.10-15.18.52:473][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/hud/INGAME_HUD" FILE="../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/hud/INGAME_HUD.uasset" SILENT=true
+[2020.06.10-15.18.52:490][500]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/INGAME_HUD3FBCD1F04766C060426FC9B2150C4488.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/hud/INGAME_HUD.uasset'
+[2020.06.10-15.19.01:652][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/hud/INGAME_HUD" FILE="../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/hud/INGAME_HUD.uasset" SILENT=true
+[2020.06.10-15.19.01:669][ 46]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/INGAME_HUD1FF632B846759826914538B80E41275C.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/hud/INGAME_HUD.uasset'
+[2020.06.10-15.19.25:322][458]BlueprintLog: New page: Compile INGAME_HUD
+[2020.06.10-15.19.25:370][458]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.06.10-15.19.56:159][251]BlueprintLog: New page: Compile INGAME_HUD
+[2020.06.10-15.19.56:206][251]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.06.10-15.20.18:839][593]BlueprintLog: New page: Compile INGAME_HUD
+[2020.06.10-15.20.18:887][593]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.06.10-15.20.19:260][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/hud/INGAME_HUD" FILE="../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/hud/INGAME_HUD.uasset" SILENT=true
+[2020.06.10-15.20.19:280][605]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/INGAME_HUDE2234BB0412AAB4EF64DAB8507643AD2.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/hud/INGAME_HUD.uasset'
+[2020.06.10-15.20.21:434][733]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.10-15.20.21:455][733]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-15.20.21:455][733]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.10-15.20.21:455][733]PIE: New page: PIE session: FinalMap (Jun 10, 2020, 5:20:21 AM)
+[2020.06.10-15.20.21:455][733]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_FinalMap
+[2020.06.10-15.20.21:499][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043530s)
+[2020.06.10-15.20.21:500][733]LogAIModule: Creating AISystem for world FinalMap
+[2020.06.10-15.20.21:500][733]LogPlayLevel: PIE: World Init took: (0.001199s)
+[2020.06.10-15.20.21:500][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/FinalMap.FinalMap to /Game/levels/UEDPIE_0_FinalMap.FinalMap (0.044997s)
+[2020.06.10-15.20.21:543][733]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.06.10-15.20.21:551][733]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.10-15.20.21:570][733]LogInit: FAudioDevice initialized.
+[2020.06.10-15.20.21:602][733]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.10-15.20.21:608][733]LogWorld: Bringing World /Game/levels/UEDPIE_0_FinalMap.FinalMap up for play (max tick rate 60) at 2020.06.10-10.20.21
+[2020.06.10-15.20.21:609][733]LogWorld: Bringing up level for play took: 0.005820
+[2020.06.10-15.20.21:623][733]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.06.10-15.20.21:625][733]PIE: Play in editor start time for /Game/levels/UEDPIE_0_FinalMap -0.482
+[2020.06.10-15.20.21:626][733]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-15.20.25:310][952]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-15.20.25:311][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-15.20.25:344][952]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.10-15.20.25:344][952]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-15.20.25:385][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-15.20.25:391][952]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.06.10-15.20.25:475][953]LogPlayLevel: Display: Destroying online subsystem :Context_203
+[2020.06.10-15.20.26:783][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.10-15.20.26:834][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.06.10-15.20.27:310][ 26]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/FinalMap8B6B501444086A33E48996B045AA0742.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/levels/FinalMap.umap'
+[2020.06.10-15.20.27:335][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/FinalMap_BuiltData" FILE="../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/levels/FinalMap_BuiltData.uasset" SILENT=true
+[2020.06.10-15.20.27:522][ 26]LogSavePackage: Moving '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/FinalMap_BuiltData81467C4344C3A7C69A8F149F0150CDF0.tmp' to '../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/levels/FinalMap_BuiltData.uasset'
+[2020.06.10-15.20.29:292][122]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.10-15.20.29:310][122]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-15.20.29:310][122]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.10-15.20.29:311][122]PIE: New page: PIE session: FinalMap (Jun 10, 2020, 5:20:29 AM)
+[2020.06.10-15.20.29:311][122]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_FinalMap
+[2020.06.10-15.20.29:356][122]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045120s)
+[2020.06.10-15.20.29:357][122]LogAIModule: Creating AISystem for world FinalMap
+[2020.06.10-15.20.29:357][122]LogPlayLevel: PIE: World Init took: (0.001274s)
+[2020.06.10-15.20.29:358][122]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/FinalMap.FinalMap to /Game/levels/UEDPIE_0_FinalMap.FinalMap (0.046735s)
+[2020.06.10-15.20.29:398][122]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.06.10-15.20.29:406][122]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.10-15.20.29:426][122]LogInit: FAudioDevice initialized.
+[2020.06.10-15.20.29:458][122]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.10-15.20.29:464][122]LogWorld: Bringing World /Game/levels/UEDPIE_0_FinalMap.FinalMap up for play (max tick rate 60) at 2020.06.10-10.20.29
+[2020.06.10-15.20.29:465][122]LogWorld: Bringing up level for play took: 0.006082
+[2020.06.10-15.20.29:478][122]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.06.10-15.20.29:480][122]PIE: Play in editor start time for /Game/levels/UEDPIE_0_FinalMap -0.626
+[2020.06.10-15.20.29:480][122]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-15.20.37:848][621]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-15.20.37:848][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-15.20.37:886][621]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.10-15.20.37:886][621]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/FinalMap.FinalMap:PersistentLevel' has LevelScriptBlueprint '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap' with GeneratedClass '/Game/levels/FinalMap.FinalMap_C' with ClassGeneratedBy '/Game/levels/FinalMap.FinalMap:PersistentLevel.FinalMap'
+[2020.06.10-15.20.37:926][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-15.20.37:932][621]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.06.10-15.20.38:016][622]LogPlayLevel: Display: Destroying online subsystem :Context_204
+[2020.06.10-15.20.41:338][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-15.28.06:146][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
