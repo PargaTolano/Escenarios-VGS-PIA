@@ -1,0 +1,1629 @@
+﻿Log file open, 06/09/20 20:11:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: PIA_Escenarios
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.207195
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6574378
+LogInit: Engine Version: 4.22.2-6574378+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): May 20 2019 09:54:56
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=H1Arrow -epicuserid=b16f1d077c9e455ba7df678908c8d81c -epiclocale=en
+LogInit: Base Directory: D:/EpicGames/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.06.10-01.11.50:452][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.06.10-01.11.50:452][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.06.10-01.11.50:452][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Engine.ini]
+[2020.06.10-01.11.50:452][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.06.10-01.11.50:452][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Engine.ini]
+[2020.06.10-01.11.50:452][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Engine.ini]
+[2020.06.10-01.11.50:452][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.06.10-01.11.50:452][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.06.10-01.11.50:452][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.06.10-01.11.50:452][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.06.10-01.11.50:452][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.06.10-01.11.50:452][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.06.10-01.11.50:452][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.06.10-01.11.50:452][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.06.10-01.11.50:452][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.06.10-01.11.50:452][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.06.10-01.11.50:452][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.06.10-01.11.50:452][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.06.10-01.11.50:452][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.06.10-01.11.50:452][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Engine.ini]
+[2020.06.10-01.11.50:452][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.06.10-01.11.50:452][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.06.10-01.11.50:452][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.06.10-01.11.50:452][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.06.10-01.11.50:452][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.06.10-01.11.50:452][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.06.10-01.11.50:452][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.06.10-01.11.50:452][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.06.10-01.11.50:452][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.06.10-01.11.50:452][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.06.10-01.11.50:452][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.06.10-01.11.50:452][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.06.10-01.11.50:452][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.06.10-01.11.50:452][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Engine.ini]
+[2020.06.10-01.11.50:452][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Engine.ini]
+[2020.06.10-01.11.50:456][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Scalability.ini]
+[2020.06.10-01.11.50:456][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.10-01.11.50:456][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.10-01.11.50:456][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Scalability.ini]
+[2020.06.10-01.11.50:456][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.10-01.11.50:456][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Scalability.ini]
+[2020.06.10-01.11.50:456][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.10-01.11.50:456][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.10-01.11.50:456][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.10-01.11.50:456][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.10-01.11.50:456][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.10-01.11.50:456][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.10-01.11.50:456][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.10-01.11.50:456][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.10-01.11.50:456][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.10-01.11.50:456][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.10-01.11.50:456][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.10-01.11.50:456][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.10-01.11.50:456][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.10-01.11.50:456][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.10-01.11.50:456][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.10-01.11.50:456][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.10-01.11.50:456][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.10-01.11.50:456][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.10-01.11.50:456][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Scalability.ini]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Scalability.ini]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Scalability.ini]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Scalability.ini]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.10-01.11.50:457][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.10-01.11.50:457][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.10-01.11.50:458][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.06.10-01.11.50:466][  0]LogHAL: Display: Platform has ~ 12 GB [12762845184 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.06.10-01.11.50:467][  0]LogInit: Going up to parent DeviceProfile []
+[2020.06.10-01.11.50:467][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Scalability.ini]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.10-01.11.50:467][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Scalability.ini]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.10-01.11.50:467][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Scalability.ini]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.10-01.11.50:467][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Scalability.ini]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.10-01.11.50:467][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.10-01.11.50:468][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.10-01.11.50:468][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.10-01.11.50:468][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.10-01.11.50:468][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.10-01.11.50:468][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.10-01.11.50:468][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.10-01.11.50:468][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.10-01.11.50:468][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.10-01.11.50:468][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.10-01.11.50:468][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.10-01.11.50:468][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.10-01.11.50:468][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.10-01.11.50:468][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.10-01.11.50:468][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.10-01.11.50:468][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.10-01.11.50:468][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.10-01.11.50:468][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.10-01.11.50:468][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.10-01.11.50:468][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Scalability.ini]
+[2020.06.10-01.11.50:468][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.10-01.11.50:468][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.10-01.11.50:468][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.10-01.11.50:468][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.10-01.11.50:468][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.10-01.11.50:468][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.10-01.11.50:468][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.10-01.11.50:468][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.10-01.11.50:468][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Scalability.ini]
+[2020.06.10-01.11.50:468][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.10-01.11.50:468][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.10-01.11.50:469][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.10-01.11.50:469][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.10-01.11.50:469][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.10-01.11.50:469][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.10-01.11.50:469][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.10-01.11.50:469][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.10-01.11.50:469][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.10-01.11.50:469][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.10-01.11.50:469][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.10-01.11.50:469][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.10-01.11.50:469][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.10-01.11.50:469][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Scalability.ini]
+[2020.06.10-01.11.50:469][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.10-01.11.50:469][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.10-01.11.50:469][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.06.10-01.11.50:469][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.06.10-01.11.50:469][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.06.10-01.11.50:469][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Config/Windows/Engine.ini]
+[2020.06.10-01.11.50:469][  0]LogInit: Computer: LAPTOP-7TCNIM7L
+[2020.06.10-01.11.50:469][  0]LogInit: User: Antonio
+[2020.06.10-01.11.50:469][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.06.10-01.11.50:469][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.06.10-01.11.50:469][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2020.06.10-01.11.50:469][  0]LogMemory: Platform Memory Stats for Windows
+[2020.06.10-01.11.50:470][  0]LogMemory: Process Physical Memory: 96.94 MB used, 96.94 MB peak
+[2020.06.10-01.11.50:470][  0]LogMemory: Process Virtual Memory: 92.05 MB used, 92.05 MB peak
+[2020.06.10-01.11.50:470][  0]LogMemory: Physical Memory: 6256.50 MB used,  5915.10 MB free, 12171.60 MB total
+[2020.06.10-01.11.50:470][  0]LogMemory: Virtual Memory: 4633.96 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2020.06.10-01.11.50:502][  0]LogInit: Using OS detected language (en-US).
+[2020.06.10-01.11.50:503][  0]LogInit: Using OS detected locale (en-US).
+[2020.06.10-01.11.50:503][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.06.10-01.11.50:756][  0]LogInit: Setting process to per monitor DPI aware
+[2020.06.10-01.11.50:792][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.06.10-01.11.50:792][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.06.10-01.11.51:019][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.10-01.11.51:019][  0]LogD3D11RHI: D3D11 adapters:
+[2020.06.10-01.11.51:108][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2020.06.10-01.11.51:108][  0]LogD3D11RHI:       4029/0/6085 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.06.10-01.11.51:128][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.06.10-01.11.51:128][  0]LogD3D11RHI:       128/0/6085 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.06.10-01.11.51:133][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.06.10-01.11.51:133][  0]LogD3D11RHI:       0/0/6085 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.06.10-01.11.51:133][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.06.10-01.11.51:180][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.06.10-01.11.51:181][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2020.06.10-01.11.51:181][  0]LogWindows: EnumDisplayDevices:
+[2020.06.10-01.11.51:181][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.06.10-01.11.51:181][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.06.10-01.11.51:182][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.06.10-01.11.51:182][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:1)
+[2020.06.10-01.11.51:183][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.06.10-01.11.51:183][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2020.06.10-01.11.51:183][  0]LogD3D11RHI:   Driver Version: 388.16 (internal:23.21.13.8816, unified:388.16)
+[2020.06.10-01.11.51:183][  0]LogD3D11RHI:      Driver Date: 10-30-2017
+[2020.06.10-01.11.51:183][  0]LogRHI: Texture pool is 2820 MB (70% of 4029 MB)
+[2020.06.10-01.11.51:224][  0]LogD3D11RHI: Async texture creation enabled
+[2020.06.10-01.11.51:282][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.06.10-01.11.51:283][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.06.10-01.11.51:283][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.06.10-01.11.51:291][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.06.10-01.11.51:799][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.06.10-01.11.51:815][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.06.10-01.11.51:831][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.06.10-01.11.51:847][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.06.10-01.11.51:863][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.06.10-01.11.51:878][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.06.10-01.11.51:894][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.06.10-01.11.51:913][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.06.10-01.11.51:920][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.06.10-01.11.52:020][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.06.10-01.11.52:020][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.06.10-01.11.52:020][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.06.10-01.11.52:020][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.06.10-01.11.52:020][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.06.10-01.11.52:020][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.06.10-01.11.52:020][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.06.10-01.11.52:020][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.06.10-01.11.52:020][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.06.10-01.11.52:020][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.06.10-01.11.52:020][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.06.10-01.11.52:020][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.06.10-01.11.52:020][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.06.10-01.11.52:020][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.06.10-01.11.52:020][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.06.10-01.11.52:020][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.06.10-01.11.52:020][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.06.10-01.11.52:020][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.06.10-01.11.52:022][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.06.10-01.11.52:072][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.06.10-01.11.52:072][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.06.10-01.11.52:103][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.06.10-01.11.52:103][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.06.10-01.11.52:118][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.06.10-01.11.52:134][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.06.10-01.11.52:151][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.06.10-01.11.52:169][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.06.10-01.11.52:231][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.06.10-01.11.52:231][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.06.10-01.11.52:231][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.06.10-01.11.52:239][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.06.10-01.11.52:291][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Intermediate/Shaders/WorkingDirectory/14460/).
+[2020.06.10-01.11.52:292][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Antonio/AppData/Local/Temp/UnrealShaderWorkingDir/DCF9C7CD41514A3709F7D1AC05BB1E45/'.
+[2020.06.10-01.11.52:294][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.06.10-01.11.52:294][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.06.10-01.11.52:294][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.06.10-01.11.53:020][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.06.10-01.11.53:092][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/Antonio/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.06.10-01.11.53:092][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Antonio/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.06.10-01.11.53:092][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.06.10-01.11.53:092][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.06.10-01.11.53:092][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.10-01.11.53:092][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.06.10-01.11.53:109][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.06.10-01.11.53:109][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.10-01.11.53:109][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.06.10-01.11.53:123][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Antonio/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.06.10-01.11.53:123][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.06.10-01.11.53:123][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.06.10-01.11.53:149][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.06.10-01.11.53:150][  0]LogSlate: Using FreeType 2.6.0
+[2020.06.10-01.11.53:151][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.06.10-01.11.53:262][  0]LogAssetRegistry: FAssetRegistry took 0.0547 seconds to start up
+[2020.06.10-01.11.53:700][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.10-01.11.53:876][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.06.10-01.11.53:876][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.06.10-01.11.53:876][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.06.10-01.11.53:876][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.06.10-01.11.53:876][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.06.10-01.11.53:890][  0]LogNetVersion: PIA_Escenarios 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 842258785)
+[2020.06.10-01.11.54:385][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.036961 seconds
+[2020.06.10-01.11.54:396][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.06.10-01.11.54:396][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.06.10-01.11.54:396][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.06.10-01.11.55:311][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.06.10-01.11.55:325][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.06.10-01.11.55:437][  0]SourceControl: Source control is disabled
+[2020.06.10-01.11.55:437][  0]SourceControl: Source control is disabled
+[2020.06.10-01.11.55:439][  0]SourceControl: Source control is disabled
+[2020.06.10-01.11.55:440][  0]SourceControl: Source control is disabled
+[2020.06.10-01.11.55:524][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.06.10-01.11.55:622][  0]LogOcInput: OculusInput pre-init called
+[2020.06.10-01.11.56:380][  0]LogEngine: Initializing Engine...
+[2020.06.10-01.11.56:381][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.10-01.11.56:382][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.06.10-01.11.56:653][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.06.10-01.11.56:666][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.06.10-01.11.56:773][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.10-01.11.56:803][  0]LogInit: FAudioDevice initialized.
+[2020.06.10-01.11.56:803][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.06.10-01.11.56:996][  0]LogDerivedDataCache: Saved boot cache 0.19s 71MB C:/Users/Antonio/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.06.10-01.11.57:002][  0]LogInit: Texture streaming: Enabled
+[2020.06.10-01.11.57:022][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.06.10-01.11.57:039][  0]LogInit: Transaction tracking system initialized
+[2020.06.10-01.11.57:059][  0]BlueprintLog: New page: Editor Load
+[2020.06.10-01.11.57:134][  0]LocalizationService: Localization service is disabled
+[2020.06.10-01.11.57:455][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/' took 0.01s
+[2020.06.10-01.11.57:455][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.06.10-01.11.57:455][  0]LogCook: Display: Mobile HDR setting 1
+[2020.06.10-01.11.57:633][  0]SourceControl: Source control is disabled
+[2020.06.10-01.11.57:633][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.10-01.11.57:634][  0]LightingResults: New page: Lighting Build
+[2020.06.10-01.11.57:635][  0]MapCheck: New page: Map Check
+[2020.06.10-01.11.57:635][  0]LightingResults: New page: Lighting Build
+[2020.06.10-01.11.57:664][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.06.10-01.11.58:001][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.06.10-01.11.58:022][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.10-01.11.58:052][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.06.10-01.11.58:052][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.10-01.11.58:052][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.1ms to complete.
+[2020.06.10-01.11.58:052][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.419
+[2020.06.10-01.11.58:159][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-01.11.58:167][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-01.11.58:176][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-01.11.58:185][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-01.11.58:190][  0]LogCollectionManager: Loaded 0 collections in 0.000947 seconds
+[2020.06.10-01.11.58:207][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Saved/Collections/' took 0.01s
+[2020.06.10-01.11.58:207][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Developers/Antonio/Collections/' took 0.00s
+[2020.06.10-01.11.58:207][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Collections/' took 0.00s
+[2020.06.10-01.11.58:207][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.06.10-01.11.58:220][  0]LogContentBrowser: Native class hierarchy populated in 0.0120 seconds. Added 2732 classes and 659 folders.
+[2020.06.10-01.11.58:225][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.10-01.11.58:226][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.10-01.11.58:227][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.10-01.11.58:227][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.10-01.11.58:227][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.10-01.11.58:228][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.10-01.11.58:228][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.10-01.11.58:229][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.10-01.11.58:229][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.10-01.11.58:229][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.10-01.11.58:230][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.10-01.11.58:230][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.10-01.11.58:230][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.10-01.11.58:231][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.10-01.11.58:231][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.10-01.11.58:231][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.10-01.11.58:232][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.10-01.11.58:232][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.10-01.11.58:232][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.10-01.11.58:233][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.10-01.11.58:233][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.10-01.11.58:234][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.10-01.11.58:234][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.10-01.11.58:234][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.10-01.11.58:235][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.10-01.11.58:235][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.10-01.11.58:235][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.10-01.11.58:257][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.10-01.11.58:264][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.06.10-01.11.58:367][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.10-01.11.58:369][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.06.10-01.11.58:376][  0]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.06.10-01.11.58:464][  0]LogRenderer: Reallocating scene render targets to support 1108x560 Format 10 NumSamples 1 (Frame:1).
+[2020.06.10-01.11.58:679][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.10-01.11.58:679][  0]LogLoad: (Engine Initialization) Total time: 9.69 seconds
+[2020.06.10-01.11.58:680][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.06.10-01.11.58:749][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.06.10-01.11.58:761][  0]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.10-01.11.58:797][  1]LogAssetRegistry: Asset discovery search completed in 5.5747 seconds
+[2020.06.10-01.11.58:799][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.06.10-01.11.58:799][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000087 seconds (updated 0 objects)
+[2020.06.10-01.11.59:786][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-01.11.59:810][  5]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.10-01.12.04:480][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:481][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:481][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:481][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:482][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:482][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:482][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:482][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:482][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:483][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:483][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:483][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:483][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:484][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:484][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:484][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:484][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:484][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:485][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:485][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:485][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:485][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:486][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:486][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:486][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:486][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:487][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:487][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:488][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:488][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:488][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:488][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:493][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:493][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:493][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:493][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:502][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:502][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:502][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:502][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:503][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:503][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:504][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:504][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:515][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:515][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:515][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:515][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:517][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:518][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:518][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:518][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:519][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:519][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:519][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:519][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:520][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:520][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:520][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:520][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:521][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:521][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:521][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:521][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:522][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:522][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:523][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:523][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:532][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:532][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:532][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:532][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:533][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:533][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:533][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:533][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:537][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:537][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:537][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:537][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:538][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:538][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:538][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:538][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:539][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:539][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:539][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:539][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:546][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:546][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:546][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:546][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:548][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:548][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:549][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:549][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:557][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:557][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:557][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:557][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:558][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:558][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:558][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:558][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:559][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:559][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:559][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:559][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:560][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:560][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:560][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:560][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:561][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:561][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:561][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:561][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:566][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:566][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:566][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:567][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:567][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:567][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:567][280]LogLinker: Warning: Can't find file '/Game/migrated/ThirdPersonBP/Maps/FinalMap_BuiltData'
+[2020.06.10-01.12.04:567][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/ThirdPersonBP/Maps/FinalMap_BuiltData' while loading NULL.
+[2020.06.10-01.12.04:568][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:568][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:570][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:570][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:570][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:570][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:571][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:571][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:571][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:571][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:571][280]LogLinker: Warning: Can't find file '/Game/migrated/ThirdPersonBP/Maps/FinalMap_BuiltData'
+[2020.06.10-01.12.04:571][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/ThirdPersonBP/Maps/FinalMap_BuiltData' while loading NULL.
+[2020.06.10-01.12.04:573][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:573][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:573][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:573][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:574][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:574][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:574][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:574][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:577][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:577][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:577][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:577][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:578][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:578][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:578][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:579][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:580][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:580][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:581][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:581][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:581][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:581][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:581][280]LogLinker: Warning: Can't find file '/Game/migrated/ThirdPersonBP/Maps/FinalMap_BuiltData'
+[2020.06.10-01.12.04:581][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/ThirdPersonBP/Maps/FinalMap_BuiltData' while loading NULL.
+[2020.06.10-01.12.04:581][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:581][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:581][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:582][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:582][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:582][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:582][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:582][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:582][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:582][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:582][280]LogLinker: Warning: Can't find file '/Game/migrated/ThirdPersonBP/Maps/FinalMap_BuiltData'
+[2020.06.10-01.12.04:582][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/ThirdPersonBP/Maps/FinalMap_BuiltData' while loading NULL.
+[2020.06.10-01.12.04:599][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:600][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Bld_Double_Balcony_Stairs_01
+[2020.06.10-01.12.04:600][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:600][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:600][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Bld_Double_Deck_01
+[2020.06.10-01.12.04:600][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:601][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:601][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Bld_Door_Outhouse_01
+[2020.06.10-01.12.04:601][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:602][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:602][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Bld_Stairs_01
+[2020.06.10-01.12.04:602][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:602][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:602][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Bld_Double_Front_01
+[2020.06.10-01.12.04:602][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:604][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:605][280]LoadErrors: Failed to load /Game/migrated/Custom_Textures/M_Terreno.M_Terreno Referenced by Landscape_0
+[2020.06.10-01.12.04:605][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:605][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:605][280]LoadErrors: Failed to load /Game/migrated/Custom_Textures/Sandrock_LayerInfo.Sandrock_LayerInfo Referenced by Landscape_0
+[2020.06.10-01.12.04:605][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:605][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:605][280]LoadErrors: Failed to load /Game/migrated/Custom_Textures/Sand_LayerInfo.Sand_LayerInfo Referenced by Landscape_0
+[2020.06.10-01.12.04:605][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:606][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:606][280]LoadErrors: Failed to load /Game/migrated/Custom_Textures/Rock_LayerInfo.Rock_LayerInfo Referenced by Landscape_0
+[2020.06.10-01.12.04:606][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:606][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:606][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:606][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:606][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:607][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:607][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:607][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:607][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:607][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:607][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:608][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:608][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:608][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:608][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:608][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:608][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:608][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:609][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:609][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:609][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:609][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:609][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:609][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:609][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:610][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:610][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:610][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:610][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:610][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:610][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:610][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:611][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:611][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:611][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:611][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:611][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:611][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:612][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:612][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:612][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:612][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:612][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:612][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:612][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:613][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:613][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:613][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:613][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:613][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:613][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:614][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:614][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:614][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:614][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:614][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:615][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:615][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:616][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:616][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:616][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:617][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:617][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:617][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:617][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:618][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:618][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:618][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:618][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:618][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:618][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:618][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:619][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:619][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:619][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:619][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:619][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:619][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:619][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:620][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:620][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:620][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:620][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:620][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:621][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:621][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:621][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:621][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:621][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:622][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:622][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:622][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:622][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:622][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:622][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:623][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:623][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:623][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:623][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:623][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:623][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:624][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:624][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:624][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:624][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:624][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:624][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:624][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:625][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:625][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:625][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:625][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:625][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:625][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:625][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:626][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:626][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:626][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:626][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:626][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:626][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:626][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:626][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:627][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:627][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:627][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:627][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:627][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:627][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:627][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:628][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:628][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:628][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:628][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:628][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:628][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:629][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:629][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:629][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:629][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:629][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:629][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:630][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:630][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:630][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:630][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:630][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:630][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:630][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:631][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:631][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:631][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:631][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:631][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:631][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:631][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:631][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:632][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:632][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:632][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:632][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:632][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:632][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:632][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:632][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:633][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:633][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:633][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:633][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:633][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:633][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:633][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:634][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:634][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:634][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:634][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:634][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:634][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:634][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:634][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:635][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:635][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:635][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:635][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:635][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:635][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:635][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:635][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:636][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:636][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:636][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:636][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:636][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:636][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:636][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:637][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:637][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:637][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:637][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:637][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:637][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:638][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:638][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:638][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:638][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:638][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:638][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:638][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:639][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:639][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:639][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:639][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:639][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:639][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:640][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:640][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:640][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:640][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:640][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:640][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:640][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:640][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:641][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:641][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:641][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:641][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:641][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:641][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:641][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:642][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:642][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:642][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:642][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:642][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:642][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:642][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:643][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:643][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:643][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:643][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:643][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:643][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:643][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:644][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:644][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:644][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:644][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:644][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:644][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:644][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:645][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:645][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:645][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:645][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:645][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:645][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:645][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:646][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:646][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:646][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:646][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:646][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:646][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:646][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:646][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:647][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:647][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:648][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:648][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:648][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:648][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:648][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:648][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:649][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:649][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:649][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:649][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:649][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:649][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:650][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:650][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:650][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:650][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:650][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:650][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:650][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:650][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:651][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:651][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:651][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:651][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:651][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:651][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:651][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:651][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:652][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:652][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:652][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:652][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:652][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:652][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:652][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:652][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:653][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:653][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:653][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:653][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:653][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:653][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:654][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:654][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:654][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:654][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:654][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:654][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:655][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:655][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:655][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:655][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:655][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:655][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:656][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:656][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:657][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:658][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:658][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:658][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:658][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:658][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:659][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:659][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:659][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:659][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:659][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:659][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:660][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:660][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:660][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:660][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:660][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:660][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:660][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:661][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:661][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:661][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:661][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:661][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:661][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:661][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:661][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:662][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:672][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:672][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:674][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:674][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:674][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:674][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:675][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:675][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:675][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:675][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:676][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:676][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:676][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:677][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:678][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:678][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:678][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:678][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:679][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:679][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:680][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:680][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:680][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:680][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:680][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:680][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:681][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:681][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:681][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:681][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:681][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:682][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:682][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:682][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:683][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:683][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:684][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:684][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:684][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:684][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:684][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:684][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:684][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:685][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:685][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:685][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:685][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:685][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:685][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:685][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:685][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:686][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:686][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:686][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:686][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:686][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:686][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:686][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:687][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:687][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:687][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:687][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:688][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:688][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:688][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:688][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:688][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:689][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:689][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:689][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:689][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:690][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:690][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:690][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:690][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:690][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:690][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:690][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:691][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:691][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:691][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:691][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:691][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:691][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:692][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:692][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:692][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:692][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:692][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:692][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:692][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:693][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:693][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:693][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:693][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:693][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:693][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:693][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:694][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:694][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:694][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:694][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:694][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:694][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:694][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:694][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:695][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:695][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:695][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:695][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:695][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:695][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:695][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:695][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:696][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:696][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:696][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:696][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:696][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:696][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:696][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:696][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:696][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:697][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:697][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:697][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:697][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:697][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:697][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:697][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:698][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:698][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:698][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:698][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:698][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:698][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:699][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:699][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:699][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:699][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:699][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:699][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:699][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:699][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:700][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:700][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:700][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:700][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:700][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:700][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:700][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:700][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:701][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:701][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:701][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:701][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:701][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:701][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:701][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:702][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:702][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:702][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:702][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:702][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:702][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:702][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:702][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:702][280]LoadErrors: Failed to load /Game/migrated/Custom_Textures/M_Terreno.M_Terreno Referenced by LandscapeMaterialInstanceConstant_0
+[2020.06.10-01.12.04:703][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:703][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:703][280]LoadErrors: Failed to load /Game/migrated/Custom_Textures/M_Terreno.M_Terreno Referenced by LandscapeMaterialInstanceConstant_1
+[2020.06.10-01.12.04:703][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:705][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:705][280]LoadErrors: Failed to load /Game/migrated/Custom_Textures/M_Terreno.M_Terreno Referenced by LandscapeMaterialInstanceConstant_175
+[2020.06.10-01.12.04:705][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:705][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:705][280]LoadErrors: Failed to load /Game/migrated/Custom_Textures/M_Terreno.M_Terreno Referenced by LandscapeMaterialInstanceConstant_177
+[2020.06.10-01.12.04:705][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:706][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:706][280]LoadErrors: Failed to load /Game/migrated/Custom_Textures/M_Terreno.M_Terreno Referenced by LandscapeMaterialInstanceConstant_20
+[2020.06.10-01.12.04:706][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:706][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:706][280]LoadErrors: Failed to load /Game/migrated/Custom_Textures/M_Terreno.M_Terreno Referenced by LandscapeMaterialInstanceConstant_22
+[2020.06.10-01.12.04:707][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:707][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:707][280]LoadErrors: Failed to load /Game/migrated/Custom_Textures/M_Terreno.M_Terreno Referenced by LandscapeMaterialInstanceConstant_24
+[2020.06.10-01.12.04:707][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:708][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:708][280]LoadErrors: Failed to load /Game/migrated/Custom_Textures/M_Terreno.M_Terreno Referenced by LandscapeMaterialInstanceConstant_3
+[2020.06.10-01.12.04:708][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:708][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:708][280]LoadErrors: Failed to load /Game/migrated/Custom_Textures/M_Terreno.M_Terreno Referenced by LandscapeMaterialInstanceConstant_31
+[2020.06.10-01.12.04:708][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:709][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:709][280]LoadErrors: Failed to load /Game/migrated/Custom_Textures/M_Terreno.M_Terreno Referenced by LandscapeMaterialInstanceConstant_341
+[2020.06.10-01.12.04:709][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:709][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:709][280]LoadErrors: Failed to load /Game/migrated/Custom_Textures/M_Terreno.M_Terreno Referenced by LandscapeMaterialInstanceConstant_4
+[2020.06.10-01.12.04:710][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:710][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/M_Terreno'
+[2020.06.10-01.12.04:710][280]LoadErrors: Failed to load /Game/migrated/Custom_Textures/M_Terreno.M_Terreno Referenced by LandscapeMaterialInstanceConstant_404
+[2020.06.10-01.12.04:710][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/M_Terreno' while loading NULL.
+[2020.06.10-01.12.04:711][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:712][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:712][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:712][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:712][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:712][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:712][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:713][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:713][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:713][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:713][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:713][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:714][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:714][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:714][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:714][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:715][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:715][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:715][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:715][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:715][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:715][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:715][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:715][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:716][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:716][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:716][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:716][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:716][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:716][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:717][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:717][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:717][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:717][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:717][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:717][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:717][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:718][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:718][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:718][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:718][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:718][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:718][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:718][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:719][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:719][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:719][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:719][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:719][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:720][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:720][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:720][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:720][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:720][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:720][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:721][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:721][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:721][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:721][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Rock_LayerInfo'
+[2020.06.10-01.12.04:721][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Rock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:721][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sandrock_LayerInfo'
+[2020.06.10-01.12.04:722][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sandrock_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:722][280]LogLinker: Warning: Can't find file '/Game/migrated/Custom_Textures/Sand_LayerInfo'
+[2020.06.10-01.12.04:722][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/Custom_Textures/Sand_LayerInfo' while loading NULL.
+[2020.06.10-01.12.04:722][280]LogLinker: Warning: Can't find file '/Game/migrated/ThirdPersonBP/Maps/FinalMap_BuiltData'
+[2020.06.10-01.12.04:722][280]LoadErrors: Failed to load /Game/migrated/ThirdPersonBP/Maps/FinalMap_BuiltData.FinalMap_BuiltData Referenced by PersistentLevel
+[2020.06.10-01.12.04:722][280]LogLinker: Warning: Can't find file for asset '/Game/migrated/ThirdPersonBP/Maps/FinalMap_BuiltData' while loading NULL.
+[2020.06.10-01.12.04:734][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:734][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Bld_Large_01
+[2020.06.10-01.12.04:734][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:734][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:735][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Bld_Double_Front_02
+[2020.06.10-01.12.04:735][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:735][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:735][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Bld_Double_Roof_02
+[2020.06.10-01.12.04:735][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:736][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:736][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Bld_Shed_01
+[2020.06.10-01.12.04:736][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:736][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:736][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Bld_Door_BackDoor_01
+[2020.06.10-01.12.04:736][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:737][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:737][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Bld_Double_Balcony_02
+[2020.06.10-01.12.04:737][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:739][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:739][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Bld_Fence_01
+[2020.06.10-01.12.04:739][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:740][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:741][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Bld_Door_FrontDoor_01
+[2020.06.10-01.12.04:741][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:741][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:742][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Bld_Double_Deck_03
+[2020.06.10-01.12.04:742][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:742][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:742][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Bld_Double_DeckCover_02
+[2020.06.10-01.12.04:742][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:742][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:743][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Bld_Double_Facade_04
+[2020.06.10-01.12.04:743][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:743][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:743][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Bld_Double_Roof_01
+[2020.06.10-01.12.04:743][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:744][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:744][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Bld_Double_Facade_05
+[2020.06.10-01.12.04:744][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:746][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:746][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Bld_Saloon_01
+[2020.06.10-01.12.04:746][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:747][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:747][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Bld_Outhouse_01
+[2020.06.10-01.12.04:747][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:748][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:748][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Bld_Saloon_Swinging_Doors_01
+[2020.06.10-01.12.04:748][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:749][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:749][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Bld_Saloon_RoomDoor_01
+[2020.06.10-01.12.04:749][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:750][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:750][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Bld_Door_Jail_01
+[2020.06.10-01.12.04:750][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:752][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:752][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Bld_Jail_01
+[2020.06.10-01.12.04:752][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:754][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:754][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Bld_DeckSteps_01
+[2020.06.10-01.12.04:754][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:755][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:755][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Bld_TrainStation_Platform_01
+[2020.06.10-01.12.04:755][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:755][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:755][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Bld_TrainStation_Cover
+[2020.06.10-01.12.04:756][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:756][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:756][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Bld_TrainStation_01
+[2020.06.10-01.12.04:756][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:756][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:757][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Env_Cliff_Arch_02
+[2020.06.10-01.12.04:757][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:757][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:758][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Bld_TrainStation_Tower
+[2020.06.10-01.12.04:758][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:759][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:759][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Env_Cliff_Cap_02
+[2020.06.10-01.12.04:759][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:759][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:759][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Env_Rock_01
+[2020.06.10-01.12.04:760][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:760][280]LogLinker: Warning: Can't find file '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A'
+[2020.06.10-01.12.04:760][280]LoadErrors: Failed to load /Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A.Mat_PolygonWestern_01_A Referenced by SM_Env_Cliff_Straight_02
+[2020.06.10-01.12.04:760][280]LogLinker: Warning: Can't find file for asset '/Game/PolygonWestern/Materials/Mat_PolygonWestern_01_A' while loading NULL.
+[2020.06.10-01.12.04:819][280]MapCheck: Warning: LandscapeComponent_0 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.04:886][280]MapCheck: Warning: LandscapeComponent_1 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.04:896][280]MapCheck: Warning: LandscapeComponent_2 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.04:903][280]MapCheck: Warning: LandscapeComponent_3 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.04:911][280]MapCheck: Warning: LandscapeComponent_4 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.04:919][280]MapCheck: Warning: LandscapeComponent_5 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.04:930][280]MapCheck: Warning: LandscapeComponent_6 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.04:938][280]MapCheck: Warning: LandscapeComponent_7 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.04:964][280]MapCheck: Warning: LandscapeComponent_8 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.04:972][280]MapCheck: Warning: LandscapeComponent_9 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.04:987][280]MapCheck: Warning: LandscapeComponent_10 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:003][280]MapCheck: Warning: LandscapeComponent_11 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:021][280]MapCheck: Warning: LandscapeComponent_12 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:036][280]MapCheck: Warning: LandscapeComponent_13 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:051][280]MapCheck: Warning: LandscapeComponent_14 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:062][280]MapCheck: Warning: LandscapeComponent_15 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:078][280]MapCheck: Warning: LandscapeComponent_16 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:089][280]MapCheck: Warning: LandscapeComponent_17 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:103][280]MapCheck: Warning: LandscapeComponent_18 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:118][280]MapCheck: Warning: LandscapeComponent_19 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:134][280]MapCheck: Warning: LandscapeComponent_20 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:152][280]MapCheck: Warning: LandscapeComponent_21 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:169][280]MapCheck: Warning: LandscapeComponent_22 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:185][280]MapCheck: Warning: LandscapeComponent_23 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:202][280]MapCheck: Warning: LandscapeComponent_24 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:211][280]MapCheck: Warning: LandscapeComponent_25 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:229][280]MapCheck: Warning: LandscapeComponent_26 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:243][280]MapCheck: Warning: LandscapeComponent_27 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:251][280]MapCheck: Warning: LandscapeComponent_28 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:261][280]MapCheck: Warning: LandscapeComponent_29 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:278][280]MapCheck: Warning: LandscapeComponent_30 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:298][280]MapCheck: Warning: LandscapeComponent_31 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:314][280]MapCheck: Warning: LandscapeComponent_32 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:322][280]MapCheck: Warning: LandscapeComponent_33 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:338][280]MapCheck: Warning: LandscapeComponent_34 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:359][280]MapCheck: Warning: LandscapeComponent_35 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:366][280]MapCheck: Warning: LandscapeComponent_36 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:375][280]MapCheck: Warning: LandscapeComponent_37 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:393][280]MapCheck: Warning: LandscapeComponent_38 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:410][280]MapCheck: Warning: LandscapeComponent_39 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:432][280]MapCheck: Warning: LandscapeComponent_40 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:441][280]MapCheck: Warning: LandscapeComponent_41 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:457][280]MapCheck: Warning: LandscapeComponent_42 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:474][280]MapCheck: Warning: LandscapeComponent_43 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:497][280]MapCheck: Warning: LandscapeComponent_44 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:515][280]MapCheck: Warning: LandscapeComponent_45 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:532][280]MapCheck: Warning: LandscapeComponent_46 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:548][280]MapCheck: Warning: LandscapeComponent_47 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:564][280]MapCheck: Warning: LandscapeComponent_48 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:572][280]MapCheck: Warning: LandscapeComponent_49 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:584][280]MapCheck: Warning: LandscapeComponent_50 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:599][280]MapCheck: Warning: LandscapeComponent_51 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:614][280]MapCheck: Warning: LandscapeComponent_52 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:631][280]MapCheck: Warning: LandscapeComponent_53 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:649][280]MapCheck: Warning: LandscapeComponent_54 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:665][280]MapCheck: Warning: LandscapeComponent_55 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:680][280]MapCheck: Warning: LandscapeComponent_56 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:696][280]MapCheck: Warning: LandscapeComponent_57 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:711][280]MapCheck: Warning: LandscapeComponent_58 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:728][280]MapCheck: Warning: LandscapeComponent_59 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:759][280]MapCheck: Warning: LandscapeComponent_60 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:794][280]MapCheck: Warning: LandscapeComponent_61 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:809][280]MapCheck: Warning: LandscapeComponent_62 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:827][280]MapCheck: Warning: LandscapeComponent_63 : Fixed up deleted layer weightmap 
+[2020.06.10-01.12.05:925][280]LogAIModule: Creating AISystem for world FinalMap
+[2020.06.10-01.12.05:954][280]LogAssetEditorManager: Opening Asset editor for World /Game/levels/FinalMap.FinalMap
+[2020.06.10-01.12.05:990][280]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.06.10-01.12.05:991][280]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/levels/FinalMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.10-01.12.05:991][280]LightingResults: New page: Lighting Build
+[2020.06.10-01.12.05:991][280]LoadErrors: New page: Loading map: FinalMap.umap
+[2020.06.10-01.12.05:993][280]MapCheck: New page: Map Check
+[2020.06.10-01.12.05:993][280]LightingResults: New page: Lighting Build
+[2020.06.10-01.12.06:021][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.06.10-01.12.06:194][280]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.10-01.12.06:218][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.06.10-01.12.06:235][280]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.10-01.12.06:235][280]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.076ms to complete.
+[2020.06.10-01.12.06:235][280]LogFileHelpers: Loading map 'FinalMap' took 0.245
+[2020.06.10-01.12.17:061][916]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.06.10-01.12.17:103][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.06.10-01.12.18:518][916]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.10-01.12.18:639][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.06.10-01.12.18:670][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.06.10-01.12.18:698][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.06.10-01.12.18:723][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.06.10-01.12.48:828][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-01.12.48:893][697]MapCheck: New page: Map Check
+[2020.06.10-01.12.48:916][697]Cmd: MAP REBUILD ALLVISIBLE
+[2020.06.10-01.12.48:916][697]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.06.10-01.12.49:144][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.06.10-01.12.49:166][697]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.10-01.12.49:180][697]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.10-01.12.49:189][697]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.10-01.12.49:201][697]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.10-01.12.49:213][697]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.10-01.12.49:223][697]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.10-01.12.49:234][697]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.10-01.12.49:245][697]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.10-01.12.49:254][697]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.10-01.12.49:268][697]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.10-01.12.49:281][697]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.10-01.12.49:290][697]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.10-01.12.49:301][697]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.10-01.12.49:315][697]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.10-01.12.49:326][697]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.10-01.12.52:271][697]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.06.10-01.12.52:271][697]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.06.10-01.12.52:271][697]TextureStreamingBuild: Display: Compiling optional shaders took 3.114 seconds.
+[2020.06.10-01.12.52:301][697]LogLevel: Display: Export Material TexCoord Scales took 0.030 seconds.
+[2020.06.10-01.12.52:320][697]TextureStreamingBuild: Display: Build Texture Streaming took 0.018 seconds.
+[2020.06.10-01.12.52:345][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.06.10-01.12.52:346][697]LightingResults: New page: Lighting Build - Jun 9, 2020, 3:12:52 PM
+[2020.06.10-01.12.52:423][697]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.06.10-01.12.52:503][697]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.06.10-01.12.52:518][697]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.06.10-01.12.53:542][697]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.06.10-01.12.53:542][697]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14460
+[2020.06.10-01.13.00:815][697]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.06.10-01.13.00:816][697]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.06.10-01.13.00:816][697]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.06.10-01.13.00:816][697]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.06.10-01.13.00:816][697]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.06.10-01.13.01:211][697]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.06.10-01.13.01:211][697]MapCheck: New page: FinalMap - Jun 9, 2020, 3:13:01 PM
+[2020.06.10-01.13.01:212][697]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2020.06.10-01.13.01:212][697]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1.036ms to complete.
+[2020.06.10-01.13.01:243][697]LogEditorBuildUtils: Build time 0:12
+[2020.06.10-01.13.07:808][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.06.10-01.13.20:871][954]LogSlate: Window 'Message Log' being destroyed
+[2020.06.10-01.13.20:875][954]LogSlate: Window 'Message Log' being destroyed
+[2020.06.10-01.13.23:244][ 89]LogEditorViewport: Clicking on Actor (context menu): Saloon_C (Saloon)
+[2020.06.10-01.13.23:287][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.10-01.13.23:672][108]Job is a success!
+[2020.06.10-01.13.27:180][314]LogEditorViewport: Clicking on Actor (LMB): Saloon_C (Saloon)
+[2020.06.10-01.13.28:344][379]LogEditorViewport: Clicking on Actor (LMB): Saloon_C (Saloon)
+[2020.06.10-01.13.43:209][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.10-01.14.05:645][383]LogRenderer: Reallocating scene render targets to support 1108x584 Format 10 NumSamples 1 (Frame:4591).
+[2020.06.10-01.14.05:737][385]LogRHI: Error: SyncInterval 0
+[2020.06.10-01.14.05:737][385]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2020.06.10-01.14.05:737][385]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1096
+[2020.06.10-01.14.05:737][385]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.06.10-01.14.05:737][385]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.06.10-01.14.05:737][385]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.06.10-01.14.05:737][385]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.06.10-01.14.05:737][385]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.06.10-01.14.05:737][385]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.06.10-01.14.05:737][385]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.06.10-01.14.05:737][385]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.06.10-01.14.05:737][385]LogRHI: Error: SwapChainDesc.BufferCount 1
+[2020.06.10-01.14.05:737][385]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000300858
+[2020.06.10-01.14.05:737][385]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.06.10-01.14.05:737][385]LogRHI: Error: SwapChainDesc.SwapEffect 0
+[2020.06.10-01.14.05:737][385]LogRHI: Error: SwapChainDesc.Flags 2
+[2020.06.10-01.14.05:741][385]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:361 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2020.06.10-01.14.05:742][385]LogD3D11RHI: [Aftermath] GDynamicRHI=00000162031540C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2020.06.10-01.14.05:742][385]LogWindows: Windows GetLastError: The operation completed successfully. (0)
