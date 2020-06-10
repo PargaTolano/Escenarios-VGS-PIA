@@ -1,0 +1,1197 @@
+"../../../Engine/Content/EngineMeshes/Humanoid.uasset" 0
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Characters/SK_Character_Badguy_01_Skeleton.uasset" 1
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/CrazyClayEquip_Pistol_Standing.uasset" 2
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/greenscreen.uasset" 3
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset" 4
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Aim_Space_Hip.uasset" 5
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Aim_Space_Ironsights.uasset" 6
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.uasset" 7
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.uasset" 8
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.uasset" 9
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.uasset" 10
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.uasset" 11
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Death_1.uasset" 12
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Death_2.uasset" 13
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Death_3.uasset" 14
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Death_Ironsights_1.uasset" 15
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Death_Ironsights_2.uasset" 16
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Equip_Rifle_Standing.uasset" 17
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Fire_Rifle_Hip.uasset" 18
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Fire_Shotgun_Hip.uasset" 19
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Fire_Shotgun_Ironsights.uasset" 20
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Hit_React_4.uasset" 21
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Idle_Pistol.uasset" 22
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Idle_Rifle_Ironsights.uasset" 23
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Jump_From_Stand_Ironsights.uasset" 24
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Prone_Death_1.uasset" 25
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Prone_Death_2.uasset" 26
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Prone_Fire_1.uasset" 27
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Prone_Fire_2.uasset" 28
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Prone_Idle.uasset" 29
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Prone_Reload_Rifle.uasset" 30
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Prone_Reload_Shotgun.uasset" 31
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Prone_To_Stand.uasset" 32
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Reload_Pistol.uasset" 33
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Reload_Rifle_Ironsights.uasset" 34
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Reload_Shotgun_Hip.uasset" 35
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Reload_Shotgun_Ironsights.uasset" 36
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Sprint_Fwd_Rifle.uasset" 37
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.uasset" 38
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.uasset" 39
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Stand_To_Prone.uasset" 40
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uasset" 41
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uasset" 42
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uasset" 43
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/eliminar/ThirdPerson/Meshes/RampMaterial.uasset" 44
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/eliminar/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 45
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/eliminar/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 46
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/eliminar/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 47
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/eliminar/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 48
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/eliminar/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 49
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/eliminar/ThirdPersonBP/ThirdPersonOverview.uasset" 50
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 51
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 52
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 53
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 54
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 55
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 56
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 57
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 58
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/Character/Mesh/FirstPersonAnimBlueprint_Copy.uasset" 59
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 60
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 61
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 62
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 63
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/Meshes/BaseMaterial.uasset" 64
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" 65
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 66
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPersonBP/FirstPersonOverview.uasset" 67
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 68
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 69
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 70
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 71
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 72
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 73
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 74
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 75
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 76
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 77
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 78
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 79
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 80
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 81
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 82
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 83
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 84
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 85
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 86
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 87
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 88
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 89
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 90
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 91
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 92
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 93
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 94
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 95
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 96
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 97
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 98
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 99
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 100
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 101
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Characters/SK_Character_Cowboy_01_Skeleton.uasset" 102
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/own/animations/cowboyIdle_Pistol.uasset" 103
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/own/animations/CowboyReload_Pistol.uasset" 104
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/own/animations/cowboyThirdPersonRun.uasset" 105
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/own/animations/cowboyAnimBP.uasset" 106
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/CrazyClayIdle_Pistol.uasset" 107
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Textures/T_PolygonWestern_01_B.uasset" 108
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Materials/Mat_PolygonWestern_01_B.uasset" 109
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/crazyclaypa.uasset" 110
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Characters/SK_Character_Badguy_01.uasset" 111
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_01_Skeleton1.uasset" 112
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_01.uasset" 113
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/own/animations/CrazyClay.uasset" 114
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Characters/SK_Character_PolyWest_Skeleton.uasset" 115
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/ThirdPersonIdle.uasset" 116
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Characters/gunman_phys.uasset" 117
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Characters/SK_Character_Gunman_01.uasset" 118
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/own/animations/enemy0.uasset" 119
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Crouch_Idle_Rifle_Hip.uasset" 120
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Textures/T_PolygonWestern_02_A.uasset" 121
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Materials/Mat_PolygonWestern_02_A.uasset" 122
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Textures/T_PolygonWestern_02_B.uasset" 123
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Materials/Mat_PolygonWestern_02_B.uasset" 124
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_Rifle_01_Skeleton1.uasset" 125
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_Rifle_01.uasset" 126
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/own/animations/enemy1.uasset" 127
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/polywestIdle_Rifle_Hip_Break1.uasset" 128
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Textures/T_PolygonWestern_03_C.uasset" 129
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Materials/Mat_PolygonWestern_03_C.uasset" 130
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/own/animations/enemy2.uasset" 131
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Characters/SK_Character_Cowboy_01.uasset" 132
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Textures/T_PolygonWestern_03_A.uasset" 133
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Materials/Mat_PolygonWestern_03_A.uasset" 134
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_02_Skeleton1.uasset" 135
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_02.uasset" 136
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/SOUND/Fast_Full_Reload.uasset" 137
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/SOUND/Gun_Shot_Single_1.uasset" 138
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/SOUND/Gun_Slide_Single_1.uasset" 139
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FPS_OWN_BP/Blueprints/FPSOWN.uasset" 140
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FPS_OWN_BP/Blueprints/FirstPersonCharacter.uasset" 141
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FPS_OWN_BP/Blueprints/FirstPersonCharacter_C.uasset" 142
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 143
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 144
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FPS_OWN_BP/Blueprints/FirstPersonProjectile.uasset" 145
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Geometry/Meshes/CubeMaterial.uasset" 146
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Geometry/Meshes/1M_Cube.uasset" 147
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 148
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Geometry/Meshes/TemplateFloor.uasset" 149
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/hud/HUD.uasset" 150
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 151
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 152
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/menu/Bienvenida.uasset" 153
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/own/animations/cowboyReloadMontage.uasset" 154
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/own/animations/PolyWestIdle_Pistol.uasset" 155
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/own/Textures/sand.uasset" 156
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/own/Textures/seamless_texture.uasset" 157
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Character/Materials/MaterialLayers/ML_BasicTestMaterial.uasset" 158
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 159
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Materials/Mat_Background_01.uasset" 160
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Materials/Mat_Background_02.uasset" 161
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Materials/Mat_Background_03.uasset" 162
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Materials/Mat_Cloud.uasset" 163
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Materials/Mat_Glass.uasset" 164
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Church_01.uasset" 165
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Church_Glass_01.uasset" 166
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Church_Tower_01.uasset" 167
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Cover_01.uasset" 168
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Door_02.uasset" 169
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Door_02_Glass.uasset" 170
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Door_ChurchDoor_01.uasset" 171
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Door_FrontDoor_Window_01.uasset" 172
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Double_01.uasset" 173
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Double_02.uasset" 174
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Double_Balcony_01.uasset" 175
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Double_DeckCover_01.uasset" 176
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Double_Deck_02.uasset" 177
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Double_Deck_04.uasset" 178
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Double_Facade_02.uasset" 179
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Double_Facade_03.uasset" 180
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Double_Front_Window_01.uasset" 181
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Double_Front_Window_02.uasset" 182
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_FencePost_01.uasset" 183
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Fence_02.uasset" 184
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Jail_Window_01.uasset" 185
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Roof_Patch_01.uasset" 186
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Saloon_Glass.uasset" 187
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Sign_03.uasset" 188
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Sign_04.uasset" 189
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Sign_05.uasset" 190
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Sign_06.uasset" 191
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Sign_07.uasset" 192
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Sign_08.uasset" 193
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Textures/T_PolygonWestern_Sign_01.uasset" 194
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Materials/Mat_PolygonWestern_Signs_01.uasset" 195
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Sign_09.uasset" 196
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Sign_10.uasset" 197
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Sign_11.uasset" 198
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Sign_12.uasset" 199
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Sign_13.uasset" 200
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Sign_14.uasset" 201
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Sign_15.uasset" 202
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Sign_16.uasset" 203
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Sign_19.uasset" 204
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Sign_20.uasset" 205
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Single_01.uasset" 206
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Single_BackDoor_01.uasset" 207
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Single_Balcony_01.uasset" 208
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Single_Balcony_02.uasset" 209
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Single_DeckCover_01.uasset" 210
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Single_Deck_01.uasset" 211
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Single_Deck_02.uasset" 212
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Single_Deck_03.uasset" 213
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Single_Deck_04.uasset" 214
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Single_Facade_01.uasset" 215
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Single_Facade_02.uasset" 216
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Single_Facade_03.uasset" 217
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Single_Facade_04.uasset" 218
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Single_Facade_05.uasset" 219
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Single_Front_01.uasset" 220
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Single_Front_02.uasset" 221
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Single_Front_03.uasset" 222
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Single_Front_04.uasset" 223
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Single_Front_Window_01.uasset" 224
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Single_Front_Window_02.uasset" 225
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Single_Front_Window_03.uasset" 226
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Single_Front_Window_04.uasset" 227
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Single_Roof_01.uasset" 228
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Single_Roof_02.uasset" 229
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Stairs_02.uasset" 230
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Stairs_03.uasset" 231
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_TowerClock_01.uasset" 232
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_TowerClock_Arm_01.uasset" 233
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_TowerClock_Arm_02.uasset" 234
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Tower_01.uasset" 235
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_TrainStation_Glass.uasset" 236
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Well_01.uasset" 237
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_WindmillTop_01.uasset" 238
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Windmill_01.uasset" 239
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Windmill_Spin_01.uasset" 240
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Textures/T_PolygonWestern_01_C.uasset" 241
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Materials/Mat_PolygonWestern_01_C.uasset" 242
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Characters/SK_Character_Business_Man_01.uasset" 243
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Characters/SK_Character_Cowgirl_01.uasset" 244
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Characters/SK_Character_PolyWest_PhysicsAsset.uasset" 245
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Characters/SK_Character_Woman_01.uasset" 246
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Characters/SK_Character_WorkingGirl_01.uasset" 247
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_BackgroundCard_01.uasset" 248
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_BackgroundCard_02.uasset" 249
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_BackgroundCard_03.uasset" 250
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_BonePile_Small_01.uasset" 251
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Butte_01.uasset" 252
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Butte_02.uasset" 253
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Butte_03.uasset" 254
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Butte_04.uasset" 255
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Butte_Base_01.uasset" 256
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Butte_Base_02.uasset" 257
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Butte_Base_03.uasset" 258
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_CampFire_01.uasset" 259
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cliff_Arch_01.uasset" 260
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cliff_Pillar_01.uasset" 261
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cloud_01.uasset" 262
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cloud_02.uasset" 263
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cloud_03.uasset" 264
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_DustPile_Large_01.uasset" 265
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_DustPile_Large_02.uasset" 266
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_DustPile_Large_03.uasset" 267
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_DustPile_Long_01.uasset" 268
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_DustPile_Long_02.uasset" 269
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_DustPile_Small_01.uasset" 270
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Textures/T_PolygonWestern_01_A.uasset" 271
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Materials/Mat_PolygonWestern_01_A.uasset" 272
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_DustPile_Small_02.uasset" 273
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_DustPile_Small_03.uasset" 274
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_DustPile_Small_04.uasset" 275
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Grave_01.uasset" 276
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Road_Patch_01.uasset" 277
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Road_Straight_01.uasset" 278
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Rocks_01.uasset" 279
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Rocks_02.uasset" 280
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Rocks_03.uasset" 281
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Rocks_04.uasset" 282
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Rock_02.uasset" 283
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Rock_Alt_01.uasset" 284
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Rock_Alt_02.uasset" 285
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Rock_Round_01.uasset" 286
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Rock_Round_02.uasset" 287
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Rock_Round_03.uasset" 288
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Sand_Ground_01.uasset" 289
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Sand_Ground_02.uasset" 290
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Sand_Ground_03.uasset" 291
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Sand_Ground_04.uasset" 292
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Sand_Ground_05.uasset" 293
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Sand_Ground_06.uasset" 294
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Train_Track_Bridge_Support_01.uasset" 295
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Train_Track_Bridge_Top_01.uasset" 296
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Train_Track_Bridge_Top_Curve_01.uasset" 297
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Train_Track_Curve_01_Dirt.uasset" 298
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_CharacterAttachement_Pouch_01.uasset" 299
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_CharacterAttachments_Bandana_01.uasset" 300
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_CharacterAttachments_Pouch_02.uasset" 301
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_CharacterAttachment_Holster_01.uasset" 302
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Particle_Smoke_01.uasset" 303
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_BarberPost_01.uasset" 304
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Barrel_Broken_02.uasset" 305
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Barrel_Broken_03.uasset" 306
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Barrel_Half_01.uasset" 307
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Basket_01.uasset" 308
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Basket_02.uasset" 309
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Basket_03.uasset" 310
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Basket_04.uasset" 311
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Basket_05.uasset" 312
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Basket_06.uasset" 313
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Bed_01.uasset" 314
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Bone_Cracked_01.uasset" 315
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Bone_Cracked_02.uasset" 316
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Bottle_02.uasset" 317
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Bottle_04.uasset" 318
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Bottle_05.uasset" 319
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Bottle_06.uasset" 320
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Bottle_07.uasset" 321
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Bottle_Broken_01.uasset" 322
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Bottle_Broken_02.uasset" 323
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Bottle_Broken_03.uasset" 324
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Bottle_Broken_04.uasset" 325
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Bottle_Candle_01.uasset" 326
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Bottle_Candle_02.uasset" 327
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Bush_01.uasset" 328
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Candle_01.uasset" 329
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Card_01.uasset" 330
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Card_02.uasset" 331
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Card_03.uasset" 332
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Card_Pile_01.uasset" 333
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_CartWheel_01.uasset" 334
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Cash_Register_01.uasset" 335
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Church_Cross_01.uasset" 336
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Church_Cross_02.uasset" 337
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Church_Door_01.uasset" 338
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Church_Pew_01.uasset" 339
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Church_Podium_01.uasset" 340
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Coffin_01.uasset" 341
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Coffin_Lid_01.uasset" 342
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Textures/T_PolygonWestern_04_A.uasset" 343
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Materials/Mat_PolygonWestern_04_A.uasset" 344
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Cow_Skull_01.uasset" 345
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Crate_01.uasset" 346
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Cup_01.uasset" 347
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Cup_02.uasset" 348
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Curtain_01.uasset" 349
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Curtain_02.uasset" 350
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Curtain_Rail_01.uasset" 351
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_DeckRail_01.uasset" 352
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_DeckRail_02.uasset" 353
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Desk_01.uasset" 354
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Dresser_01.uasset" 355
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Entrance_02.uasset" 356
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Fence_Stick_01.uasset" 357
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Fireplace_01.uasset" 358
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Fireplace_01_SmokeStack.uasset" 359
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Fur_Roll_01.uasset" 360
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Fur_Roll_02.uasset" 361
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Fur_Roll_03.uasset" 362
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Gallows_01.uasset" 363
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_GoldBar_01.uasset" 364
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Hay_Bale_01.uasset" 365
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_HitchingPost_01.uasset" 366
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_JailBed_01.uasset" 367
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Ladder_01.uasset" 368
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Lantern_01.uasset" 369
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Lantern_01_Glass.uasset" 370
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Lantern_02.uasset" 371
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Lantern_02_Glass.uasset" 372
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Loghalf_01.uasset" 373
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Loghalf_02.uasset" 374
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Map_01.uasset" 375
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Map_02.uasset" 376
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_MessageBoard.uasset" 377
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Milk_Container_01.uasset" 378
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_MooseHead_01.uasset" 379
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Piano_01.uasset" 380
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Piano_Seat_01.uasset" 381
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_PokerTable_01.uasset" 382
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Poker_Chip_01.uasset" 383
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Poker_Chip_02.uasset" 384
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Poker_Chip_03.uasset" 385
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Pot_01.uasset" 386
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_RoadSign_01.uasset" 387
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Rope_01.uasset" 388
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Rope_02.uasset" 389
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Rope_03.uasset" 390
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Rope_Hanging_01.uasset" 391
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Sack_01.uasset" 392
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Sack_02.uasset" 393
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Sack_03.uasset" 394
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Sack_04.uasset" 395
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Saddle_01.uasset" 396
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Shelf_01.uasset" 397
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Smokestack_01.uasset" 398
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Stick_01.uasset" 399
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Stick_02.uasset" 400
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Stick_Bundle_01.uasset" 401
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Stool_01.uasset" 402
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Stool_Round_01.uasset" 403
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Suitcase_01.uasset" 404
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Suitcase_01_Lid.uasset" 405
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Suitcase_02.uasset" 406
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Suitcase_02_Lid.uasset" 407
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Table_01.uasset" 408
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Table_Small_01.uasset" 409
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Table_Vegetables_01.uasset" 410
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Tin_01.uasset" 411
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Tin_02.uasset" 412
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Tin_03.uasset" 413
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Tumbleweed_01.uasset" 414
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Tumbleweed_02.uasset" 415
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Vault_01.uasset" 416
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Vault_Door_01.uasset" 417
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Vegetables_Box_01.uasset" 418
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Vegetables_Box_02.uasset" 419
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Vegetables_Box_03.uasset" 420
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Vegetables_Box_04.uasset" 421
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Vegetables_Box_05.uasset" 422
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_WaterTrough_01.uasset" 423
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_WaterTrough_Water_01.uasset" 424
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Water_Tower_01.uasset" 425
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Wood_Pile_01.uasset" 426
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Wood_Pile_02.uasset" 427
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Wood_Pile_03.uasset" 428
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Wood_Pile_04.uasset" 429
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Vehicles_Rigged/SK_Veh_Cart_01.uasset" 430
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Vehicles_Rigged/SK_Veh_Cart_01_PhysicsAsset.uasset" 431
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Vehicles_Rigged/SK_Veh_Cart_01_Skeleton.uasset" 432
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Vehicles_Rigged/SK_Veh_Stagecoach_01.uasset" 433
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Vehicles_Rigged/SK_Veh_Stagecoach_01_PhysicsAsset.uasset" 434
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Vehicles_Rigged/SK_Veh_Stagecoach_01_Skeleton.uasset" 435
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Vehicles_Rigged/SK_Veh_Train_01.uasset" 436
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Vehicles_Rigged/SK_Veh_Train_01_PhysicsAsset.uasset" 437
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Vehicles_Rigged/SK_Veh_Train_01_Skeleton.uasset" 438
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Vehicles_Rigged/SK_Veh_Train_Carriage_01.uasset" 439
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Vehicles_Rigged/SK_Veh_Train_Carriage_01_PhysicsAsset.uasset" 440
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Vehicles_Rigged/SK_Veh_Train_Carriage_01_Skeleton.uasset" 441
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Vehicles_Rigged/SK_Veh_Train_Coal_01.uasset" 442
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Vehicles_Rigged/SK_Veh_Train_Coal_01_PhysicsAsset.uasset" 443
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Vehicles_Rigged/SK_Veh_Train_Coal_01_Skeleton.uasset" 444
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Vehicles_Rigged/SK_Veh_Train_Freight_01.uasset" 445
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Vehicles_Rigged/SK_Veh_Train_Freight_01_PhysicsAsset.uasset" 446
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Vehicles_Rigged/SK_Veh_Train_Freight_01_Skeleton.uasset" 447
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Vehicles_Rigged/SM_Veh_Train_01_Alt_Smokestack.uasset" 448
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_01_Skeleton1.uasset" 449
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_01.uasset" 450
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_01_PhysicsAsset.uasset" 451
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_01_Skeleton.uasset" 452
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_Sheath_Skeleton1.uasset" 453
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_Sheath.uasset" 454
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_Sheath_PhysicsAsset.uasset" 455
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_American_Bayonet_Sheath_Skeleton.uasset" 456
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_01_PhysicsAsset.uasset" 457
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_01_Skeleton.uasset" 458
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_02_PhysicsAsset.uasset" 459
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_Revolver_02_Skeleton.uasset" 460
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_Rifle_01_PhysicsAsset.uasset" 461
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_Rifle_01_Skeleton.uasset" 462
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_Shotgun_01_Skeleton1.uasset" 463
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_Shotgun_01.uasset" 464
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_Shotgun_01_PhysicsAsset.uasset" 465
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_Shotgun_01_Skeleton.uasset" 466
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_Shotgun_02.uasset" 467
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_Shotgun_02_PhysicsAsset.uasset" 468
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Weapons/SK_Wep_Shotgun_02_Skeleton.uasset" 469
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/SOUND/Gun_Pin_1.uasset" 470
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/SOUND/Gun_Pin_2.uasset" 471
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/SOUND/Gun_Power_Move.uasset" 472
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/SOUND/Gun_Shot_Metalic_1.uasset" 473
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/SOUND/Gun_Shot_Metalic_2.uasset" 474
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/SOUND/Gun_Shot_Metal_+_Pressure.uasset" 475
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/SOUND/Gun_Shot_Pressure_1.uasset" 476
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/SOUND/Gun_Shot_Pressure_2.uasset" 477
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/SOUND/Gun_Shot_Single_2.uasset" 478
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/SOUND/Gun_Slide_Double_1.uasset" 479
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/SOUND/Gun_Slide_Single_2.uasset" 480
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/SOUND/Mag_Insert_1.uasset" 481
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/SOUND/Mag_Insert_2.uasset" 482
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/SOUND/Slide_Extra.uasset" 483
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/SOUND/Slide_Handling_1.uasset" 484
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/SOUND/Slide_Handling_2.uasset" 485
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Basic_Wall.uasset" 486
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Architecture/Pillar_50x500.uasset" 487
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Architecture/Wall_400x200.uasset" 488
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Architecture/Wall_400x300.uasset" 489
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Architecture/Wall_400x400.uasset" 490
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Architecture/Wall_500x500.uasset" 491
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 492
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 493
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 494
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 495
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Collapse01.uasset" 496
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Collapse02.uasset" 497
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Collapse_Cue.uasset" 498
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Explosion01.uasset" 499
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Explosion02.uasset" 500
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Fire01.uasset" 501
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Fire_Sparks01.uasset" 502
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Light01.uasset" 503
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Light01_Cue.uasset" 504
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Light02.uasset" 505
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Light02_Cue.uasset" 506
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Smoke01.uasset" 507
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Starter_Birds01.uasset" 508
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Starter_Music01.uasset" 509
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 510
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Starter_Wind05.uasset" 511
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Starter_Wind06.uasset" 512
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Steam01.uasset" 513
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Lamp_M.uasset" 514
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Lamp_N.uasset" 515
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/Materials/M_Lamp.uasset" 516
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 517
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 518
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Explosion_Cue.uasset" 519
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Burst_M.uasset" 520
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Particles/Materials/M_Burst.uasset" 521
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 522
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 523
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 524
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 525
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 526
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 527
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 528
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 529
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Particles/P_Explosion.uasset" 530
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 531
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Fire01_Cue.uasset" 532
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 533
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 534
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 535
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Water_N.uasset" 536
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 537
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 538
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Particles/P_Fire.uasset" 539
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 540
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Smoke01_Cue.uasset" 541
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Particles/P_Smoke.uasset" 542
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 543
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 544
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Spark_Core.uasset" 545
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Particles/Materials/M_Spark.uasset" 546
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Particles/P_Sparks.uasset" 547
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 548
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Steam01_Cue.uasset" 549
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Particles/P_Steam_Lit.uasset" 550
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 551
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 552
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 553
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 554
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 555
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 556
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_MacroVariation.uasset" 557
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 558
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 559
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 560
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 561
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 562
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 563
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 564
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 565
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 566
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 567
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 568
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 569
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 570
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 571
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 572
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 573
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 574
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 575
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 576
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 577
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 578
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 579
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 580
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 581
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 582
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 583
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 584
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Gradinet_01.uasset" 585
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 586
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 587
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 588
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 589
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 590
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 591
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 592
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 593
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 594
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 595
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 596
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 597
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 598
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 599
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 600
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 601
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 602
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 603
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 604
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 605
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 606
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 607
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 608
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 609
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 610
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Ground_Grass.uasset" 611
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 612
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 613
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 614
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 615
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 616
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Ground_Moss.uasset" 617
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 618
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 619
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 620
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Metal_Gold.uasset" 621
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 622
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Metal_Rust.uasset" 623
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 624
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 625
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Metal_Steel.uasset" 626
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 627
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 628
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 629
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 630
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 631
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 632
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 633
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 634
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 635
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Rock_Slate.uasset" 636
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 637
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 638
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 639
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 640
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 641
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 642
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 643
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 644
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 645
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 646
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 647
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Tech_Panel.uasset" 648
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Water_Lake.uasset" 649
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Water_M.uasset" 650
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Water_Ocean.uasset" 651
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 652
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 653
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 654
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 655
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 656
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 657
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 658
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 659
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Wood_Oak.uasset" 660
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 661
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 662
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Wood_Pine.uasset" 663
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 664
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 665
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 666
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 667
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 668
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 669
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 670
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 671
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 672
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/MaterialSphere.uasset" 673
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Bush_D.uasset" 674
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Bush_N.uasset" 675
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/Materials/M_Bush.uasset" 676
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_Bush.uasset" 677
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Frame_M.uasset" 678
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Frame_N.uasset" 679
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/Materials/M_Frame.uasset" 680
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_CornerFrame.uasset" 681
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Chair_M.uasset" 682
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Chair_N.uasset" 683
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/Materials/M_Chair.uasset" 684
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_Couch.uasset" 685
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Glass.uasset" 686
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Door_M.uasset" 687
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Door_N.uasset" 688
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/Materials/M_Door.uasset" 689
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_Door.uasset" 690
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_DoorFrame.uasset" 691
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_GlassWindow.uasset" 692
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 693
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 694
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 695
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_PillarFrame.uasset" 696
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_PillarFrame300.uasset" 697
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_RockMesh_M.uasset" 698
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_RockMesh_N.uasset" 699
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/Materials/M_Rock.uasset" 700
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_Rock.uasset" 701
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Shelf_M.uasset" 702
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Shelf_N.uasset" 703
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/Materials/M_Shelf.uasset" 704
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_Shelf.uasset" 705
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Basic_Floor.uasset" 706
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_Stairs.uasset" 707
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_WindowFrame.uasset" 708
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_Cone.uasset" 709
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_Cube.uasset" 710
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 711
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 712
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_Pipe.uasset" 713
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 714
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 715
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_Plane.uasset" 716
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 717
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_Sphere.uasset" 718
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_Torus.uasset" 719
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_Trim.uasset" 720
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 721
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 722
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 723
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_Tube.uasset" 724
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 725
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 726
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 727
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 728
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 729
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 730
+"../../../Engine/Content/BasicShapes/Cone.uasset" 731
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 732
+"../../../Engine/Content/BasicShapes/Plane.uasset" 733
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 734
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 735
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 736
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 737
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 738
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 739
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 740
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 741
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 742
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 743
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 744
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 745
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 746
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 747
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 748
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 749
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 750
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 751
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 752
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 753
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 754
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 755
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 756
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 757
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 758
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 759
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 760
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 761
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 762
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 763
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 764
+"../../../Engine/Content/EditorResources/S_Note.uasset" 765
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 766
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 767
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 768
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 769
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 770
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 771
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 772
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 773
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 774
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 775
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 776
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 777
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 778
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 779
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 780
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 781
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 782
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 783
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 784
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 785
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 786
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 787
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 788
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 789
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 790
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 791
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 792
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 793
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 794
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 795
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 796
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 797
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 798
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 799
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 800
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 801
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 802
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 803
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 804
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 805
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 806
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 807
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 808
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 809
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 810
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 811
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 812
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 813
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 814
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 815
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 816
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 817
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 818
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 819
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 820
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 821
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 822
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 823
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 824
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 825
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 826
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 827
+"../../../Engine/Content/EngineResources/Black.uasset" 828
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 829
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 830
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 831
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 832
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 833
+"../../../Engine/Content/EngineSounds/Master.uasset" 834
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 835
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 836
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 837
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 838
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 839
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 840
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 841
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 842
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 843
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 844
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 845
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 846
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 847
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 848
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 849
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 850
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 851
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 852
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 853
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 854
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 855
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 856
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 857
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 858
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 859
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 860
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 861
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 862
+"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 863
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 864
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 865
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 866
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 867
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 868
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 869
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 870
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 871
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 872
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 873
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 874
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 875
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 876
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 877
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 878
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 879
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 880
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 881
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 882
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 883
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 884
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 885
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 886
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 887
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 888
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 889
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 890
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 891
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 892
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 893
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 894
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 895
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 896
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 897
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 898
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 899
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 900
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 901
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 902
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 903
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset" 904
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset" 905
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset" 906
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Equip_Pistol_Standing.uasset" 907
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Fire_Rifle_Ironsights.uasset" 908
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Hit_React_1.uasset" 909
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Hit_React_2.uasset" 910
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Hit_React_3.uasset" 911
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset" 912
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset" 913
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Reload_Rifle_Hip.uasset" 914
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset" 915
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 916
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 917
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 918
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 919
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 920
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 921
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 922
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 923
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 924
+"../../../Engine/Content/TemplateResources/M_Template_Master.uasset" 925
+"../../../Engine/Content/TemplateResources/MI_Template_BaseGray_03_Metal.uasset" 926
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uasset" 927
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 928
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 929
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 930
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 931
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset" 932
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 933
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 934
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 935
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 936
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.uasset" 937
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uasset" 938
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uasset" 939
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.uasset" 940
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.uasset" 941
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset" 942
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset" 943
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset" 944
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/AnimStarterPack/Showcase.umap" 945
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/FPS_OWN_BP/Blueprints/FirstPersonGameMode.uasset" 946
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Textures/T_PolygonWestern_Sign_02.uasset" 947
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Materials/Mat_PolygonWestern_Signs_02.uasset" 948
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Door_FrontDoor_01.uasset" 949
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Double_Deck_03.uasset" 950
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Double_DeckCover_02.uasset" 951
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Double_Facade_04.uasset" 952
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Double_Front_01.uasset" 953
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Double_Front_02.uasset" 954
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Double_Roof_02.uasset" 955
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Large_01.uasset" 956
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Sign_17.uasset" 957
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Stairs_01.uasset" 958
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/own/Blueprints/Bank.uasset" 959
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Door_BackDoor_01.uasset" 960
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/own/Blueprints/door.uasset" 961
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Fence_01.uasset" 962
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Shed_01.uasset" 963
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/own/Blueprints/Establo.uasset" 964
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Textures/T_PolygonWestern_02_C.uasset" 965
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Materials/Mat_PolygonWestern_02_C.uasset" 966
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Textures/T_PolygonWestern_04_C.uasset" 967
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Materials/Mat_PolygonWestern_04_C.uasset" 968
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Double_Balcony_02.uasset" 969
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Double_Balcony_Stairs_01.uasset" 970
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Double_Deck_01.uasset" 971
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Double_Facade_05.uasset" 972
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Double_Roof_01.uasset" 973
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Sign_02.uasset" 974
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Textures/T_PolygonWestern_04_B.uasset" 975
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Materials/Mat_PolygonWestern_04_B.uasset" 976
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Bed_02.uasset" 977
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/own/Blueprints/Hotel.uasset" 978
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Characters/SK_Character_Sheriff_01_Skeleton.uasset" 979
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/sherrifCrouch_Idle_Rifle_Hip.uasset" 980
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Textures/T_PolygonWestern_03_B.uasset" 981
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Materials/Mat_PolygonWestern_03_B.uasset" 982
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Double_Facade_01.uasset" 983
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Characters/SK_Character_Sheriff_01.uasset" 984
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/own/Blueprints/Mine.uasset" 985
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Door_Outhouse_01.uasset" 986
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Outhouse_01.uasset" 987
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/own/Blueprints/outside_restroom.uasset" 988
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Saloon_01.uasset" 989
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Saloon_RoomDoor_01.uasset" 990
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Saloon_Swinging_Doors_01.uasset" 991
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Sign_01.uasset" 992
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/own/Blueprints/Saloon.uasset" 993
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Door_Jail_01.uasset" 994
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Jail_01.uasset" 995
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Sign_18.uasset" 996
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/own/Blueprints/Sheriff.uasset" 997
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_DeckSteps_01.uasset" 998
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_TrainStation_01.uasset" 999
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_TrainStation_Cover.uasset" 1000
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_TrainStation_Platform_01.uasset" 1001
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Buildings/SM_Bld_TrainStation_Tower.uasset" 1002
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/own/Blueprints/TrainStation.uasset" 1003
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Barrel_01.uasset" 1004
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Barrel_01_DM.uasset" 1005
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Barrel_02.uasset" 1006
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Barrel_02_DM.uasset" 1007
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Chair_01.uasset" 1008
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Chair_01_DM.uasset" 1009
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 1010
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 1011
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/hud/Round_corner.uasset" 1012
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/hud/Round_corner_Inst.uasset" 1013
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/hud/aim.uasset" 1014
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/hud/ammoslots.uasset" 1015
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/hud/boss_life_bar.uasset" 1016
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/hud/Lifebar.uasset" 1017
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/hud/INGAME_HUD.uasset" 1018
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/own/Textures/Rock_LayerInfo.uasset" 1019
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/own/Textures/Sand_LayerInfo.uasset" 1020
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/own/Textures/Sandrock_LayerInfo.uasset" 1021
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/levels/FinalMap_BuiltData.uasset" 1022
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/own/Textures/dry_dirt_texture.uasset" 1023
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/own/Textures/T_sand.uasset" 1024
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/own/Textures/M_Terreno.uasset" 1025
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 1026
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_01.uasset" 1027
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_02.uasset" 1028
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_03.uasset" 1029
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_04.uasset" 1030
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_05.uasset" 1031
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_06.uasset" 1032
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_07.uasset" 1033
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_08.uasset" 1034
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_09.uasset" 1035
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_10.uasset" 1036
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_11.uasset" 1037
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_12.uasset" 1038
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_13.uasset" 1039
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_14.uasset" 1040
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cactus_15.uasset" 1041
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cliff_Arch_02.uasset" 1042
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cliff_Cap_01.uasset" 1043
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cliff_Cap_02.uasset" 1044
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cliff_Curve_01.uasset" 1045
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cliff_Curve_02.uasset" 1046
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cliff_Pillar_02.uasset" 1047
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cliff_Straight_01.uasset" 1048
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Cliff_Straight_02.uasset" 1049
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Grass_01.uasset" 1050
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Grass_02.uasset" 1051
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Grass_03.uasset" 1052
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Rock_01.uasset" 1053
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Train_Track_Curve_01.uasset" 1054
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Train_Track_Straight_01.uasset" 1055
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_Train_Track_Straight_01_Dirt.uasset" 1056
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_TreeDead_01.uasset" 1057
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_TreeDead_02.uasset" 1058
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Environment/SM_Env_TreeDead_03.uasset" 1059
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Barrel_Broken_01.uasset" 1060
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Bench_01.uasset" 1061
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Bottle_01.uasset" 1062
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Meshes/Props/SM_Prop_Bottle_03.uasset" 1063
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/SOUND/483550__kangaroovindaloo__parlyu-crickets-in-the-distance-night-air.uasset" 1064
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/levels/FinalMap.umap" 1065
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 1066
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 1067
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 1068
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 1069
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Mannequin/Animations/ThirdPersonRun.uasset" 1070
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 1071
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 1072
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 1073
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1074
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1075
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1076
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1077
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 1078
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 1079
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1080
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1081
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 1082
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 1083
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 1084
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 1085
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 1086
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 1087
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 1088
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 1089
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/eliminar/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 1090
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/eliminar/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 1091
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/menu/1920.uasset" 1092
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/menu/btn1280.uasset" 1093
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/menu/btn1280-hover.uasset" 1094
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/menu/btn1920-hover.uasset" 1095
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/menu/btn640.uasset" 1096
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/menu/btn640-hover.uasset" 1097
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/menu/btnRegresar.uasset" 1098
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/menu/btnRegresar-hover.uasset" 1099
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/menu/fondo2.uasset" 1100
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/menu/MenuOpciones.uasset" 1101
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/menu/btnInicio.uasset" 1102
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/menu/btnInicio-hover.uasset" 1103
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/menu/btnOpcion.uasset" 1104
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/menu/btnOpcion-hover.uasset" 1105
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/menu/btnSalir.uasset" 1106
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/menu/btnSalir-hover.uasset" 1107
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/menu/Title.uasset" 1108
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/menu/MenuPrincipal.uasset" 1109
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/levels/MENU.umap" 1110
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 1111
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Animations/animSweepFloor1.uasset" 1112
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Animations/animSweepFloor2.uasset" 1113
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Animations/animSwimIdle.uasset" 1114
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Animations/animSwimSurfacewater.uasset" 1115
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Animations/animSwimUnderwater1.uasset" 1116
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Animations/animSwimUnderwater2.uasset" 1117
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Animations/animUseKeyboardSit1.uasset" 1118
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Animations/animUseKeyboardSit2.uasset" 1119
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Animations/animUseKeyboardSit3.uasset" 1120
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Animations/animUseMonitorSit1.uasset" 1121
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Animations/animUseMonitorSit2.uasset" 1122
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Animations/animUseTabletSit1.uasset" 1123
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Animations/animUseTabletSit2.uasset" 1124
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Animations/animUseTabletSit3.uasset" 1125
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Animations/animUseTabletStand1.uasset" 1126
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Animations/animUseTabletStand2.uasset" 1127
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Animations/animUseTabletStand3.uasset" 1128
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1129
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1130
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1131
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1132
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1133
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Character/Textures/UE4_LOGO_CARD.uasset" 1134
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 1135
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1136
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 1137
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Character/Textures/UE4_Mannequin__normals.uasset" 1138
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 1139
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Character/Textures/UE4_Mannequin_occlusion.uasset" 1140
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Character/Materials/M_UE4Man_Body.uasset" 1141
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Character/Textures/UE4Man_Logo_N.uasset" 1142
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Character/Materials/M_UE4Man_ChestLogo.uasset" 1143
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 1144
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Character/Mesh/SK_Mannequin.uasset" 1145
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Meshes/T_Chair_M.uasset" 1146
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Meshes/T_Chair_N.uasset" 1147
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Meshes/M_Chair.uasset" 1148
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Meshes/SM_Chair.uasset" 1149
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PhoenyxAnimPack3/Maps/DemoLevel.umap" 1150
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Maps/Demonstration.umap" 1151
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 1152
+"../../../Engine/Content/BasicShapes/Cube.uasset" 1153
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/PolygonWestern/Content/PolygonWestern/Maps/Overview.umap" 1154
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 1155
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 1156
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 1157
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 1158
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 1159
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 1160
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 1161
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 1162
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 1163
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 1164
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 1165
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 1166
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_AssetPlatform.uasset" 1167
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 1168
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 1169
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 1170
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 1171
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 1172
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 1173
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 1174
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 1175
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Maps/Advanced_Lighting.umap" 1176
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 1177
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 1178
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 1179
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 1180
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Materials/M_Metal_Copper.uasset" 1181
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Statue_M.uasset" 1182
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_Statue_N.uasset" 1183
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 1184
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Architecture/Floor_400x400.uasset" 1185
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 1186
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_Chair.uasset" 1187
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/Materials/M_Statue.uasset" 1188
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_Statue.uasset" 1189
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_TableRound_M.uasset" 1190
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Textures/T_TableRound_N.uasset" 1191
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/Materials/M_TableRound.uasset" 1192
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Props/SM_TableRound.uasset" 1193
+"../../../../../Unreal Projects/GameLevelProject/Escenarios-VGS-PIA/PIA_Escenarios/Content/StarterContent/Maps/Minimal_Default.umap" 1194
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1195
+"../../../Engine/Content/Maps/Entry.umap" 1196
